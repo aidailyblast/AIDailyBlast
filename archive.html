@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Archive — AI Daily Blast</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Source+Serif+4:ital,wght@0,300;0,400;0,600;1,400&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #1a1714;
+    --paper: #f5f0e8;
+    --cream: #ebe4d6;
+    --accent: #c23616;
+    --accent-hover: #e84118;
+    --muted: #7a7265;
+    --divider: #d4cdc0;
+    --tag-bg: #e8e0d0;
+    --deep: #2c2520;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Source Serif 4', Georgia, serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.7;
+  }
+
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+  /* === NAV === */
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2rem 4vw;
+    border-bottom: 1px solid var(--divider);
+    position: sticky;
+    top: 0;
+    background: var(--paper);
+    z-index: 100;
+    backdrop-filter: blur(10px);
+  }
+  nav .logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.6rem;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  nav .logo em {
+    color: var(--accent);
+    font-style: italic;
+    font-weight: 400;
+  }
+  nav .nav-links {
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  nav .nav-links a {
+    color: var(--muted);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  nav .nav-links a:hover { color: var(--accent); }
+  nav .nav-links a.active { color: var(--ink); font-weight: 700; }
+  .nav-cta {
+    background: var(--accent);
+    color: var(--paper) !important;
+    padding: 0.5rem 1.2rem;
+    border-radius: 2px;
+    transition: background 0.3s !important;
+  }
+  .nav-cta:hover { background: var(--accent-hover) !important; }
+
+  /* === ARCHIVE HERO === */
+  .archive-hero {
+    text-align: center;
+    padding: 5rem 4vw 3rem;
+    border-bottom: 3px solid var(--ink);
+    margin-bottom: 3rem;
+  }
+  .archive-hero .breadcrumb {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--muted);
+    margin-bottom: 1.5rem;
+  }
+  .archive-hero .breadcrumb a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+  .archive-hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: 1rem;
+    animation: fadeUp 0.7s ease-out both;
+  }
+  .archive-hero p {
+    font-size: 1.1rem;
+    color: var(--muted);
+    max-width: 500px;
+    margin: 0 auto;
+    font-weight: 300;
+    animation: fadeUp 0.7s ease-out 0.1s both;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* === SEARCH & FILTER === */
+  .filter-bar {
+    max-width: 880px;
+    margin: 0 auto 3rem;
+    padding: 0 4vw;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .search-box {
+    flex: 1;
+    min-width: 200px;
+    position: relative;
+  }
+  .search-box input {
+    width: 100%;
+    padding: 0.8rem 1rem 0.8rem 2.8rem;
+    border: 2px solid var(--divider);
+    background: var(--paper);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.3s;
+  }
+  .search-box input:focus { border-color: var(--accent); }
+  .search-box input::placeholder { color: var(--muted); opacity: 0.5; }
+  .search-box .search-icon {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .filter-tags {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .filter-tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.5rem 1rem;
+    background: transparent;
+    border: 1.5px solid var(--divider);
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.3s;
+    font-weight: 600;
+  }
+  .filter-tag:hover, .filter-tag.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+
+  /* === ARCHIVE CONTENT === */
+  .archive-container {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 0 4vw 4rem;
+  }
+
+  /* Month group */
+  .month-group {
+    margin-bottom: 3rem;
+  }
+  .month-header {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 0.5rem;
+  }
+  .month-header h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+  }
+  .month-header .edition-count {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+
+  /* Edition row */
+  .edition {
+    display: grid;
+    grid-template-columns: 140px 1fr auto;
+    gap: 1.5rem;
+    align-items: start;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--divider);
+    transition: transform 0.3s, background 0.3s;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    position: relative;
+  }
+  .edition:hover {
+    transform: translateX(6px);
+  }
+  .edition:hover .edition-title { color: var(--accent); }
+
+  .edition-date {
+    font-family: 'DM Sans', sans-serif;
+  }
+  .edition-date .day {
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 1;
+    font-family: 'Playfair Display', serif;
+  }
+  .edition-date .weekday {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin-top: 0.25rem;
+    font-weight: 600;
+  }
+
+  .edition-body {}
+  .edition-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.3;
+    margin-bottom: 0.4rem;
+    transition: color 0.3s;
+  }
+  .edition-preview {
+    font-size: 0.88rem;
+    color: var(--muted);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .edition-topics {
+    display: flex;
+    gap: 0.35rem;
+    margin-top: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .edition-topics .tag {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.15rem 0.5rem;
+    background: var(--tag-bg);
+    color: var(--muted);
+    font-weight: 600;
+  }
+
+  .edition-meta {
+    text-align: right;
+    font-family: 'DM Sans', sans-serif;
+    padding-top: 0.3rem;
+  }
+  .edition-number {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .edition-stories {
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    color: var(--cream);
+    transition: color 0.3s;
+  }
+  .edition:hover .edition-stories { color: var(--accent); }
+  .edition-stories-label {
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    opacity: 0.6;
+  }
+
+  /* === PAGINATION === */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--ink);
+  }
+  .page-btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 0.6rem 1rem;
+    border: 1.5px solid var(--divider);
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+    transition: all 0.3s;
+    text-decoration: none;
+  }
+  .page-btn:hover, .page-btn.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+  .page-btn.arrow {
+    font-size: 1rem;
+    padding: 0.5rem 0.75rem;
+  }
+
+  /* === RSS BANNER === */
+  .rss-banner {
+    max-width: 880px;
+    margin: 0 auto 3rem;
+    padding: 0 4vw;
+  }
+  .rss-inner {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 1.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5rem;
+    border-radius: 3px;
+    flex-wrap: wrap;
+  }
+  .rss-inner .rss-text {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .rss-icon {
+    width: 36px;
+    height: 36px;
+    background: var(--accent);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    flex-shrink: 0;
+  }
+  .rss-inner h4 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+  .rss-inner p {
+    font-size: 0.8rem;
+    color: rgba(245,240,232,0.6);
+    margin-top: 0.15rem;
+  }
+  .rss-btn {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 0.65rem 1.5rem;
+    border: 2px solid var(--paper);
+    background: transparent;
+    color: var(--paper);
+    cursor: pointer;
+    transition: all 0.3s;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .rss-btn:hover {
+    background: var(--accent);
+    border-color: var(--accent);
+  }
+
+  /* === FOOTER === */
+  footer {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 3rem 4vw;
+  }
+  .footer-inner {
+    max-width: 880px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .footer-brand .f-logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.4rem;
+    font-weight: 900;
+    margin-bottom: 0.5rem;
+  }
+  .footer-brand .f-logo em { color: var(--accent); font-style: italic; }
+  .footer-brand p {
+    font-size: 0.85rem;
+    color: rgba(245,240,232,0.5);
+    max-width: 300px;
+  }
+  .footer-links { display: flex; gap: 3rem; }
+  .footer-col h5 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    color: rgba(245,240,232,0.4);
+  }
+  .footer-col a {
+    display: block;
+    color: rgba(245,240,232,0.7);
+    text-decoration: none;
+    font-size: 0.85rem;
+    margin-bottom: 0.4rem;
+    transition: color 0.3s;
+  }
+  .footer-col a:hover { color: var(--accent); }
+  .footer-bottom {
+    max-width: 880px;
+    margin: 2rem auto 0;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(245,240,232,0.1);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 0.7rem;
+    color: rgba(245,240,232,0.3);
+    text-align: center;
+    letter-spacing: 0.05em;
+  }
+
+  @media (max-width: 768px) {
+    .edition { grid-template-columns: 70px 1fr; }
+    .edition-meta { display: none; }
+    .filter-bar { flex-direction: column; }
+    .footer-inner { flex-direction: column; gap: 2rem; }
+    .rss-inner { flex-direction: column; text-align: center; }
+    .rss-inner .rss-text { flex-direction: column; }
+    .nav-links .hide-mobile { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <a href="ainews.html" class="logo">AI Daily <em>Blast</em></a>
+  <div class="nav-links">
+    <a href="ainews.html" class="hide-mobile">Today</a>
+    <a href="archive.html" class="active hide-mobile">Archive</a>
+    <a href="ainews.html#subscribe" class="nav-cta">Subscribe</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="archive-hero">
+  <div class="breadcrumb"><a href="ainews.html">Home</a> &nbsp;/&nbsp; Archive</div>
+  <h1>Every Blast,<br>Ever.</h1>
+  <p>142 editions and counting. Browse the complete archive of AI Daily Blast — every story we've curated since day one.</p>
+</section>
+
+<!-- RSS BANNER -->
+<div class="rss-banner">
+  <div class="rss-inner">
+    <div class="rss-text">
+      <div class="rss-icon">📡</div>
+      <div>
+        <h4>Subscribe via RSS</h4>
+        <p>Add AI Daily Blast to your favorite reader — Feedly, Inoreader, or any RSS app.</p>
+      </div>
+    </div>
+    <a href="feed.xml" class="rss-btn">Copy RSS Feed URL</a>
+  </div>
+</div>
+
+<!-- SEARCH & FILTER -->
+<div class="filter-bar">
+  <div class="search-box">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="search-input" placeholder="Search stories, topics, sources...">
+  </div>
+  <div class="filter-tags">
+    <button class="filter-tag active" data-filter="all">All</button>
+    <button class="filter-tag" data-filter="models">Models</button>
+    <button class="filter-tag" data-filter="regulation">Regulation</button>
+    <button class="filter-tag" data-filter="research">Research</button>
+    <button class="filter-tag" data-filter="business">Business</button>
+    <button class="filter-tag" data-filter="safety">Safety</button>
+  </div>
+</div>
+
+<!-- ARCHIVE CONTENT -->
+<div class="archive-container" id="archive-list">
+
+  <!-- FEBRUARY 2026 -->
+  <div class="month-group">
+    <div class="month-header">
+      <h2>February 2026</h2>
+      <span class="edition-count">8 Editions</span>
+    </div>
+
+    <a class="edition" href="ainews.html">
+      <div class="edition-date">
+        <div class="day">11</div>
+        <div class="weekday">Wednesday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">GPT-5 Launches with Autonomous Agents; EU Accelerates AI Act Enforcement</div>
+        <div class="edition-preview">OpenAI unveils GPT-5 with real-time reasoning and multi-hour task capabilities. The European Commission moves up compliance deadlines. DeepMind identifies 200+ novel drug candidates.</div>
+        <div class="edition-topics">
+          <span class="tag">Models</span>
+          <span class="tag">Regulation</span>
+          <span class="tag">Research</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#142</div>
+        <div class="edition-stories">7</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">10</div>
+        <div class="weekday">Tuesday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">Anthropic Debuts Claude 4.5 Opus; Microsoft Integrates AI Agents Into Office Suite</div>
+        <div class="edition-preview">Anthropic's newest model achieves state-of-the-art results on reasoning benchmarks. Microsoft announces deep AI agent integration across Word, Excel, and PowerPoint.</div>
+        <div class="edition-topics">
+          <span class="tag">Models</span>
+          <span class="tag">Business</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#141</div>
+        <div class="edition-stories">6</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">09</div>
+        <div class="weekday">Monday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">Apple Vision Pro 2 Gets AI Overhaul; Mistral Raises €800M Series C</div>
+        <div class="edition-preview">Apple's next spatial computing headset leverages on-device AI for real-time scene understanding. French AI startup Mistral secures one of Europe's largest AI funding rounds.</div>
+        <div class="edition-topics">
+          <span class="tag">Hardware</span>
+          <span class="tag">Business</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#140</div>
+        <div class="edition-stories">5</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">07</div>
+        <div class="weekday">Saturday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">Weekend Read: The State of AI Safety in 2026 — Progress and Persistent Gaps</div>
+        <div class="edition-preview">A deep dive into how AI safety research has evolved over the past year, what frameworks are working, and where the biggest unsolved challenges remain.</div>
+        <div class="edition-topics">
+          <span class="tag">Safety</span>
+          <span class="tag">Research</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#139</div>
+        <div class="edition-stories">5</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">06</div>
+        <div class="weekday">Friday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">Google Launches Gemini 2.5; China's DeepSeek Open-Sources R2 Reasoning Model</div>
+        <div class="edition-preview">Google's Gemini 2.5 brings native multimodal reasoning to consumer products. Chinese lab DeepSeek releases its second-generation reasoning model under an open license.</div>
+        <div class="edition-topics">
+          <span class="tag">Models</span>
+          <span class="tag">Research</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#138</div>
+        <div class="edition-stories">7</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">05</div>
+        <div class="weekday">Thursday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">Amazon Acquires AI Robotics Startup for $3.2B; Stanford HAI Releases 2026 AI Index</div>
+        <div class="edition-preview">Amazon expands its warehouse AI capabilities with a major acquisition. Stanford's annual report shows AI research spending doubled year-over-year.</div>
+        <div class="edition-topics">
+          <span class="tag">Business</span>
+          <span class="tag">Research</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#137</div>
+        <div class="edition-stories">6</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">04</div>
+        <div class="weekday">Wednesday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">US Senate Advances AI Licensing Bill; Adobe Expands Firefly With Video Generation</div>
+        <div class="edition-preview">Bipartisan legislation would require federal licensing for frontier AI models above a compute threshold. Adobe's creative AI suite now generates and edits full video clips.</div>
+        <div class="edition-topics">
+          <span class="tag">Regulation</span>
+          <span class="tag">Business</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#136</div>
+        <div class="edition-stories">5</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">03</div>
+        <div class="weekday">Tuesday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">OpenAI Hits 300M Weekly Users; AI Tutoring Boosts Test Scores in Landmark Study</div>
+        <div class="edition-preview">OpenAI reveals record user growth numbers. A randomized controlled trial across 500 schools shows AI tutoring tools improved math scores by 17%.</div>
+        <div class="edition-topics">
+          <span class="tag">Business</span>
+          <span class="tag">Research</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#135</div>
+        <div class="edition-stories">6</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+  </div>
+
+  <!-- JANUARY 2026 -->
+  <div class="month-group">
+    <div class="month-header">
+      <h2>January 2026</h2>
+      <span class="edition-count">27 Editions</span>
+    </div>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">31</div>
+        <div class="weekday">Saturday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">Weekend Read: How AI Is Reshaping the 2026 Job Market — Winners and Losers</div>
+        <div class="edition-preview">An in-depth look at labor market data showing which industries are accelerating AI adoption and how the employment landscape is shifting.</div>
+        <div class="edition-topics">
+          <span class="tag">Business</span>
+          <span class="tag">Research</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#134</div>
+        <div class="edition-stories">5</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">30</div>
+        <div class="weekday">Friday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">AI Coding Tools Raise $2.1B in January; GitHub Copilot X Goes General Availability</div>
+        <div class="edition-preview">Venture funding for developer tools surges. GitHub launches its most ambitious AI coding assistant yet with full codebase reasoning capabilities.</div>
+        <div class="edition-topics">
+          <span class="tag">Business</span>
+          <span class="tag">Models</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#133</div>
+        <div class="edition-stories">7</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">29</div>
+        <div class="weekday">Thursday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">NVIDIA Unveils Blackwell Ultra at CES Late Stage; AMD Counters with MI400 Series</div>
+        <div class="edition-preview">The GPU wars intensify as NVIDIA ships its next-generation data center chip and AMD responds with a competitive alternative targeting the enterprise AI market.</div>
+        <div class="edition-topics">
+          <span class="tag">Hardware</span>
+          <span class="tag">Business</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#132</div>
+        <div class="edition-stories">6</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <!-- More January entries would follow... -->
+    <div style="text-align: center; padding: 1.5rem 0; font-family: 'DM Sans', sans-serif; font-size: 0.8rem; color: var(--muted);">
+      + 24 more editions in January 2026
+    </div>
+  </div>
+
+  <!-- DECEMBER 2025 -->
+  <div class="month-group">
+    <div class="month-header">
+      <h2>December 2025</h2>
+      <span class="edition-count">26 Editions</span>
+    </div>
+
+    <a class="edition" href="#">
+      <div class="edition-date">
+        <div class="day">31</div>
+        <div class="weekday">Wednesday</div>
+      </div>
+      <div class="edition-body">
+        <div class="edition-title">Year in Review: The 10 Biggest AI Stories of 2025</div>
+        <div class="edition-preview">From reasoning breakthroughs to regulatory milestones, we look back at the stories that defined an extraordinary year in artificial intelligence.</div>
+        <div class="edition-topics">
+          <span class="tag">Models</span>
+          <span class="tag">Research</span>
+          <span class="tag">Regulation</span>
+        </div>
+      </div>
+      <div class="edition-meta">
+        <div class="edition-number">#107</div>
+        <div class="edition-stories">10</div>
+        <div class="edition-stories-label">stories</div>
+      </div>
+    </a>
+
+    <div style="text-align: center; padding: 1.5rem 0; font-family: 'DM Sans', sans-serif; font-size: 0.8rem; color: var(--muted);">
+      + 25 more editions in December 2025
+    </div>
+  </div>
+
+</div>
+
+<!-- PAGINATION -->
+<div class="archive-container">
+  <div class="pagination">
+    <a href="#" class="page-btn arrow">←</a>
+    <a href="#" class="page-btn active">1</a>
+    <a href="#" class="page-btn">2</a>
+    <a href="#" class="page-btn">3</a>
+    <a href="#" class="page-btn">4</a>
+    <a href="#" class="page-btn">5</a>
+    <a href="#" class="page-btn arrow">→</a>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="f-logo">AI Daily <em>Blast</em></div>
+      <p>Making artificial intelligence accessible to everyone, one blast at a time.</p>
+    </div>
+    <div class="footer-links">
+      <div class="footer-col">
+        <h5>Content</h5>
+        <a href="ainews.html">Today's Blast</a>
+        <a href="archive.html">Archive</a>
+        <a href="feed.xml">RSS Feed</a>
+      </div>
+      <div class="footer-col">
+        <h5>Connect</h5>
+        <a href="https://x.com/" target="_blank">Follow on X</a>
+        <a href="/cdn-cgi/l/email-protection#89e1ece5e5e6c9fde1ece8e0fee0fbeca7eae6e4">Email Us</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    © 2026 AI Daily Blast. Curated with care for humans navigating an AI-powered world.
+  </div>
+</footer>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+  // Filter tags
+  document.querySelectorAll('.filter-tag').forEach(tag => {
+    tag.addEventListener('click', () => {
+      document.querySelectorAll('.filter-tag').forEach(t => t.classList.remove('active'));
+      tag.classList.add('active');
+      const filter = tag.dataset.filter;
+      document.querySelectorAll('.edition').forEach(ed => {
+        if (filter === 'all') {
+          ed.style.display = 'grid';
+        } else {
+          const tags = ed.querySelectorAll('.tag');
+          const match = Array.from(tags).some(t => t.textContent.toLowerCase().includes(filter));
+          ed.style.display = match ? 'grid' : 'none';
+        }
+      });
+    });
+  });
+
+  // Search
+  document.getElementById('search-input').addEventListener('input', (e) => {
+    const q = e.target.value.toLowerCase();
+    document.querySelectorAll('.edition').forEach(ed => {
+ 
