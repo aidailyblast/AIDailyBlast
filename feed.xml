@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Daily Blast — Daily AI Intelligence</title>
+    <link>https://aidailyblast.com</link>
+    <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Feb 2026 06:30:00 -0500</lastBuildDate>
+    <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://aidailyblast.com/logo.png</url>
+      <title>AI Daily Blast</title>
+      <link>https://aidailyblast.com</link>
+    </image>
+    <managingEditor>hello@aidailyblast.com (AI Daily Blast)</managingEditor>
+    <webMaster>hello@aidailyblast.com (AI Daily Blast)</webMaster>
+    <copyright>© 2026 AI Daily Blast. All rights reserved.</copyright>
+    <category>Technology</category>
+    <category>Artificial Intelligence</category>
+    <ttl>60</ttl>
+
+    <!-- Edition #1 — February 28, 2026 (Launch Day!) -->
+    <item>
+      <title>Edition #1: OpenAI Closes Record $110B Round; Pentagon Bans Anthropic; Block Cuts Half Its Staff</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/1</guid>
+      <pubDate>Sat, 28 Feb 2026 06:30:00 -0500</pubDate>
+      <category>Funding</category>
+      <category>Policy</category>
+      <category>Workforce</category>
+      <category>Infrastructure</category>
+      <description>Launch edition! OpenAI closes the largest private funding round in history at $110B. The Pentagon bans Anthropic after a standoff over military AI guardrails. Block cuts nearly half its workforce in an AI bet. Meta rents Google TPU chips. Perplexity launches multi-agent "Computer." Google commits $1B to iron-air batteries. UN creates AI advisory panel.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. OpenAI Closes Record $110B Funding Round, Now Valued at $840 Billion</h3>
+        <p>OpenAI has closed the largest private funding round in history — $110 billion anchored by Amazon's $50B commitment, plus $30B each from Nvidia and SoftBank. At $840 billion post-money, OpenAI is now valued above almost every public company on Earth.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/">Read more →</a></p>
+
+        <h3>2. Pentagon Bans Anthropic After High-Stakes Military AI Standoff</h3>
+        <p>The Trump administration ordered all federal agencies to stop using Anthropic's AI after the company refused to drop its guardrails on lethal autonomous weapons and mass surveillance. Anthropic held firm, saying "threats do not change our position."</p>
+        <p><strong>Source:</strong> Washington Post · <a href="https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/">Read more →</a></p>
+
+        <h3>3. Block Cuts Nearly Half Its Workforce as Jack Dorsey Bets Big on AI</h3>
+        <p>Jack Dorsey's fintech company laid off about 4,000 employees — nearly half its staff — citing AI-driven efficiency gains. Dorsey predicted most companies will make similar cuts within a year. Block's stock surged 24%.</p>
+        <p><strong>Source:</strong> CNN · <a href="https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey">Read more →</a></p>
+
+        <h3>4. Meta Signs Multi-Billion Dollar Deal to Rent Google's TPU Chips</h3>
+        <p>Meta has signed a multi-year agreement to rent Google's custom TPU chips for AI training — signaling that demand for AI compute is so intense that even the biggest buyers are diversifying beyond Nvidia.</p>
+        <p><strong>Source:</strong> SiliconANGLE · <a href="https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal/">Read more →</a></p>
+
+        <h3>5. Perplexity Launches "Computer" — An AI Agent That Runs Other AI Agents</h3>
+        <p>Perplexity's new system treats Claude, Gemini, GPT-5.2, Grok, and others like specialized employees on a shared team. Describe an outcome and Computer breaks it into tasks, spawns sub-agents, and runs them in parallel.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/">Read more →</a></p>
+
+        <h3>6. Google Drops $1B on Form Energy's 100-Hour Iron-Air Battery</h3>
+        <p>Google committed $1 billion to deploy the world's largest battery — a 300 MW iron-air system that can deliver continuous power for 100 hours — at a Minnesota data center.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/">Read more →</a></p>
+
+        <h3>7. UN Creates International AI Advisory Panel With 40 Members From 37 Nations</h3>
+        <p>The United Nations General Assembly approved a 40-member scientific AI advisory panel to serve as an "early-warning system and evidence engine" for AI policy worldwide.</p>
+        <p><strong>Source:</strong> Nature · <a href="https://www.nature.com/articles/d41586-026-00542-8">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
