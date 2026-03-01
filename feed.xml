@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,46 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+
+    <!-- Edition #2 — March 1, 2026 -->
+    <item>
+      <title>Edition #2: Apple's AI Siri Targets March Launch; LeCun Leaves Meta for World Models; February Breaks AI Investment Records</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/2</guid>
+      <pubDate>Sun, 01 Mar 2026 06:30:00 -0500</pubDate>
+      <category>Product Launch</category>
+      <category>Research</category>
+      <category>Funding</category>
+      <category>Hardware</category>
+      <description>Apple's reimagined Siri targets a March launch powered by Google's Gemini model. Yann LeCun leaves Meta to build a world models startup at a 3 billion euro valuation. Anthropic launches enterprise plug-ins for finance and HR. Nvidia's Vera Rubin enters production. February closes as the biggest month in AI investment history with $195B+ in capital. Apple teases iPhone 17e and budget MacBook for March 4.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. Apple's AI-Powered Siri Targets March Launch — With Google's Gemini Under the Hood</h3>
+        <p>Apple's completely reimagined Siri is targeting a March release alongside iOS 26.4, powered by Google's 1.2-trillion-parameter Gemini model in a deal worth roughly $1 billion per year. The new assistant will be context-aware, capable of on-screen actions and cross-app workflows — though Bloomberg reports some features may slip to a later update.</p>
+        <p><strong>Source:</strong> MacRumors · <a href="https://www.macrumors.com/2026/02/12/siri-ios-26-launch-confirmed-apple/">Read more →</a></p>
+
+        <h3>2. Yann LeCun Leaves Meta to Build €3 Billion "World Models" Startup</h3>
+        <p>After 12 years at Meta, legendary AI scientist Yann LeCun has departed to launch AMI Labs, raising €500 million at a €3 billion valuation. The Paris-based startup is a contrarian bet that "world models" — AI that understands physics rather than just predicting text — are the real path to intelligent machines.</p>
+        <p><strong>Source:</strong> MIT Technology Review · <a href="https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/">Read more →</a></p>
+
+        <h3>3. Anthropic Launches AI Plug-ins for Wall Street, HR, and Design</h3>
+        <p>Anthropic unveiled 10 new plug-ins for its Claude platform, built with partners including FactSet, LSEG, Salesforce, and DocuSign. Financial advisors can now automate portfolio analysis and rebalancing, while HR teams can streamline hiring workflows.</p>
+        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-02-24/anthropic-links-ai-agent-with-tools-for-investment-banking-hr">Read more →</a></p>
+
+        <h3>4. Nvidia's Vera Rubin AI Platform Enters Full Production — 5x Faster Than Blackwell</h3>
+        <p>Nvidia announced that its next-generation Vera Rubin AI chip platform is now in full production, promising five times the performance of the current Blackwell architecture. The platform is optimized for agentic AI and mixture-of-experts models, with partner products shipping in the second half of 2026.</p>
+        <p><strong>Source:</strong> Nvidia Newsroom · <a href="https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer">Read more →</a></p>
+
+        <h3>5. February Closes as the Biggest Month in AI Investment History — $195B+</h3>
+        <p>February 2026 wrapped with an estimated $195 billion or more in tracked AI capital — easily the most consequential month in venture finance history. The headliners: OpenAI's $110 billion mega-round, Anthropic's $30 billion Series G, and Waymo's $16 billion raise.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/">Read more →</a></p>
+
+        <h3>6. Apple Teases "Big Week" — iPhone 17e and Budget MacBook Coming March 4</h3>
+        <p>Apple CEO Tim Cook hinted at a "big week ahead" with media events planned in New York, Shanghai, and London on March 4. Expectations include the iPhone 17e, an all-new budget MacBook, and refreshes to the Mac Studio and Studio Display — all powered by Apple's latest M5 chips.</p>
+        <p><strong>Source:</strong> MacRumors · <a href="https://www.macrumors.com/guide/apple-products-march-2026/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
 
     <!-- Edition #1 — February 28, 2026 (Launch Day!) -->
     <item>
