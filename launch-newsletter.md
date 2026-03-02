@@ -1,57 +1,57 @@
-# AI Daily Blast — Edition #2
-## Sunday, March 1, 2026
+# AI Daily Blast — Edition #3
+## Monday, March 2, 2026
 
-**Subject line:** AI Daily Blast #2: Apple's AI Siri Targets March; LeCun Bets €3B on World Models; February Shatters Investment Records
+**Subject line:** AI Daily Blast #3: OpenAI's Pentagon Deal; China Matches Claude at 1/20th Cost; $700B Infrastructure Boom
 
-**Preview text:** Siri's biggest upgrade ever is powered by Google — and that's just the start of today's blast.
-
----
-
-### 1. Apple's AI-Powered Siri Targets March Launch — With Google's Gemini Under the Hood
-
-Apple's completely reimagined Siri is targeting a March release alongside iOS 26.4, powered by Google's 1.2-trillion-parameter Gemini model in a deal worth roughly $1 billion per year. The new assistant will be context-aware, capable of on-screen actions and cross-app workflows — though Bloomberg reports some features may slip to a later update due to reliability issues in testing.
-
-[Read more at MacRumors →](https://www.macrumors.com/2026/02/12/siri-ios-26-launch-confirmed-apple/)
+**Preview text:** OpenAI steps in where Anthropic wouldn't — plus the staggering scale of the AI buildout.
 
 ---
 
-### 2. Yann LeCun Leaves Meta to Build €3 Billion "World Models" Startup
+### 1. OpenAI Strikes Deal With Pentagon After Anthropic Refused Over Ethics Concerns
 
-After 12 years at Meta, legendary AI scientist Yann LeCun has departed to launch AMI Labs, raising €500 million at a €3 billion valuation. The Paris-based startup is a contrarian bet that "world models" — AI that understands physics rather than just predicting text — are the real path to intelligent machines, not ever-larger language models.
+OpenAI has reached a deal with the U.S. Department of Defense to deploy its AI technology in a classified network — stepping in after Anthropic declined over ethical concerns about military AI use. CEO Sam Altman said the Pentagon agreed that OpenAI's tech won't be used for domestic mass surveillance or autonomous weapons, but the deal marks a major shift in Big AI's relationship with the military.
 
-[Read more at MIT Technology Review →](https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/)
-
----
-
-### 3. Anthropic Launches AI Plug-ins for Wall Street, HR, and Design
-
-Anthropic unveiled 10 new plug-ins for its Claude platform, built with partners including FactSet, LSEG, Salesforce, and DocuSign. Financial advisors can now automate portfolio analysis and rebalancing, while HR teams can streamline hiring workflows. LPL Financial and Orion are among the first firms rolling them out.
-
-[Read more at Bloomberg →](https://www.bloomberg.com/news/articles/2026-02-24/anthropic-links-ai-agent-with-tools-for-investment-banking-hr)
+[Read more at Al Jazeera →](https://www.aljazeera.com/news/2026/2/28/openai-strikes-deal-with-pentagon-to-use-tech-in-classified-network)
 
 ---
 
-### 4. Nvidia's Vera Rubin AI Platform Enters Full Production — 5x Faster Than Blackwell
+### 2. China's MiniMax Matches Top U.S. AI at 1/20th the Cost — and Anthropic Cries Foul
 
-Nvidia announced that its next-generation Vera Rubin AI chip platform is now in full production, promising five times the performance of the current Blackwell architecture. The platform is optimized for agentic AI and mixture-of-experts models, with partner products shipping in the second half of 2026.
+Shanghai-based MiniMax released its M2.5 model, which matches Anthropic's flagship Claude Opus 4.6 on key coding benchmarks at roughly 5% of the cost. But Anthropic is fighting back, accusing MiniMax and two other Chinese labs of creating over 24,000 fake accounts to train their models on Claude's outputs — reigniting the debate over AI intellectual property across borders.
 
-[Read more at Nvidia Newsroom →](https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer)
-
----
-
-### 5. February Closes as the Biggest Month in AI Investment History — $195B+
-
-February 2026 wrapped with an estimated $195 billion or more in tracked AI capital — easily the most consequential month in venture finance history. The headliners: OpenAI's $110 billion mega-round, Anthropic's $30 billion Series G, and Waymo's $16 billion raise. Seventeen U.S. AI companies raised $100 million or more in the first weeks of 2026 alone.
-
-[Read more at TechCrunch →](https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/)
+[Read more at VentureBeat →](https://venturebeat.com/technology/minimaxs-new-open-m2-5-and-m2-5-lightning-near-state-of-the-art-while)
 
 ---
 
-### 6. Apple Teases "Big Week" — iPhone 17e and Budget MacBook Coming March 4
+### 3. Fei-Fei Li's World Labs Raises $1B to Build AI That Understands the Physical World
 
-Apple CEO Tim Cook hinted at a "big week ahead" with media events planned in New York, Shanghai, and London on March 4. Expectations include the iPhone 17e, an all-new budget MacBook, and refreshes to the Mac Studio and Studio Display — all powered by Apple's latest M5 chips.
+World Labs, the startup from legendary AI researcher Fei-Fei Li, closed a $1 billion funding round — the largest ever for spatial AI. Autodesk alone invested $200 million. The company is building AI that can perceive and reason about 3D environments, with its first product already letting users create immersive 3D worlds from text or images.
 
-[Read more at MacRumors →](https://www.macrumors.com/guide/apple-products-march-2026/)
+[Read more at TechCrunch →](https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/)
+
+---
+
+### 4. Oracle Plans to Raise $50 Billion This Year for AI Data Center Empire
+
+Oracle announced plans to raise up to $50 billion this year through debt and equity to fund a massive AI data center buildout. The company is racing to serve a who's-who client list that includes Nvidia, Meta, OpenAI, and xAI — but its stock has been cut in half since September as investors question whether the aggressive expansion will pay off.
+
+[Read more at Data Center Knowledge →](https://www.datacenterknowledge.com/infrastructure/oracle-eyes-50-billion-for-ai-infrastructure-in-2026)
+
+---
+
+### 5. Blackstone Launches Public Vehicle to Let Everyday Investors Bet on AI Data Centers
+
+Investment giant Blackstone is launching a publicly traded acquisition company focused on snapping up AI data centers, opening the door for everyday investors to bet on the AI infrastructure boom. The move comes as Nvidia's Jensen Huang estimates that $3 to $4 trillion will flow into AI infrastructure by the end of the decade.
+
+[Read more at Bloomberg →](https://www.bloomberg.com/news/articles/2026-02-27/blackstone-plans-public-company-for-ai-data-center-buying-spree)
+
+---
+
+### 6. Tech Giants Plan to Spend Nearly $700 Billion on AI Infrastructure in 2026
+
+Amazon, Google, and Meta alone plan to spend nearly $700 billion on data center projects this year. Highlights include OpenAI's $10 billion "Hyperion" site in Louisiana, xAI's $20 billion Mississippi facility, and the $500 billion Stargate joint venture — underscoring that the AI boom has become, above all, an infrastructure story.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/)
 
 ---
 
