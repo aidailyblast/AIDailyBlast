@@ -1,28 +1,31 @@
-# AI Daily Blast — Edition #3 X Thread
-## Monday, March 2, 2026
+# AI Daily Blast — Edition #22 X Thread
+## Tuesday, July 7, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 6 stories (Edition #3):
+Today on AI Daily Blast — 7 stories (Edition #22):
 
 ### Post 2
-1/ OpenAI just struck a deal with the Pentagon to deploy AI in a classified network — stepping in after Anthropic refused on ethical grounds. Altman says no mass surveillance, no autonomous weapons. But the line between Big Tech and the military just got a lot blurrier.
+1/ Meta launches Muse Image — its first home-grown AI image generator, built by Superintelligence Labs. It's going straight into Meta AI, Instagram, WhatsApp & Facebook, powering 30+ visual effects for 3 billion daily users.
 
 ### Post 3
-2/ China's MiniMax released M2.5, matching Anthropic's best AI on coding benchmarks — at 1/20th the price. Anthropic's response? Accusing MiniMax and two other Chinese labs of creating 24,000+ fake accounts to copy Claude's outputs. The AI IP war is heating up.
+2/ China's DeepSeek is quietly building its own AI chip, per Reuters. A year of talks with chip partners, engineers hired — all to cut reliance on Nvidia AND Huawei. Nvidia stock dipped on the news.
 
 ### Post 4
-3/ Fei-Fei Li's World Labs just raised $1 billion — the largest spatial AI round ever. Autodesk put in $200M alone. They're building AI that understands physical 3D space, not just text. Their first product already lets you create 3D worlds from a text prompt.
+3/ SK Hynix kicks off a $28B US listing on the Nasdaq. The memory maker behind AI's most critical chips is up ~260% this year and now worth over $1 trillion. The AI infrastructure boom isn't slowing down.
 
 ### Post 5
-4/ Oracle plans to raise $50 BILLION this year to build out AI data centers. Their client list: Nvidia, Meta, OpenAI, xAI. But the stock is down 50% — investors aren't sure the bet will pay off.
+4/ Researchers documented "JadePuffer" — the first ransomware attack run by an AI agent. It broke in, stole credentials, picked the most valuable database, encrypted it, and demanded ransom. It fixed its own failed attempts in ~30 seconds.
 
 ### Post 6
-5/ Blackstone is launching a public company to buy AI data centers — letting everyday investors get in on the infrastructure boom. Jensen Huang says $3-4 trillion will flow into AI infrastructure by decade's end.
+5/ Anthropic has overtaken OpenAI in revenue: on track for $47B vs OpenAI's $25–33B, and profitable a year earlier. ChatGPT's share of consumer AI traffic just fell below 50% for the first time.
 
 ### Post 7
-6/ The numbers are staggering: Amazon, Google, and Meta plan to spend nearly $700 BILLION on AI data centers in 2026 alone. OpenAI's building a $10B site in Louisiana. xAI has a $20B facility in Mississippi. AI is now an infrastructure story.
+6/ Tech layoffs in 2026 increasingly name-check AI — including ~3,200 cuts at Xbox (20% of the gaming unit). Real replacement or convenient cover? Either way, "because of AI" is the phrase of the year in the job market.
 
-### Post 8 (CTA)
+### Post 8
+7/ Zuckerberg told staff AI agents haven't progressed as fast as he hoped. A rare reality check from the CEO spending billions on superintelligence. Agents are useful — but they're not autonomous digital workers yet.
+
+### Post 9 (CTA)
 That's today's AI Daily Blast.
 
 Follow @AIDailyBlast for daily threads.

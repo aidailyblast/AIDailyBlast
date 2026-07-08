@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -19,129 +19,645 @@
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
 
-    <!-- Edition #3 — March 2, 2026 -->
+    <!-- Edition #22 — July 7, 2026 -->
     <item>
-      <title>Edition #3: OpenAI Strikes Pentagon Deal; China's MiniMax Matches Claude at 1/20th Cost; Tech Giants Plan $700B AI Buildout</title>
+      <title>Edition #22: Meta Launches Muse, Its First Home-Grown AI Image Generator; China's DeepSeek Is Building Its Own AI Chip; SK Hynix Kicks Off a $28 Billion US Listing</title>
       <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/3</guid>
-      <pubDate>Mon, 02 Mar 2026 06:30:00 -0500</pubDate>
-      <category>Policy</category>
-      <category>Models</category>
-      <category>Funding</category>
-      <category>Infrastructure</category>
-      <description>OpenAI strikes a deal with the Pentagon after Anthropic refused over ethics concerns. China's MiniMax matches top U.S. AI models at a fraction of the cost, prompting Anthropic to accuse Chinese labs of IP theft. Fei-Fei Li's World Labs raises $1B for spatial AI. Oracle plans a $50B capital raise for AI data centers. Blackstone opens AI infrastructure investing to the public. Tech giants plan nearly $700B in AI infrastructure spending for 2026.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. OpenAI Strikes Deal With Pentagon After Anthropic Refused Over Ethics Concerns</h3>
-        <p>OpenAI has reached a deal with the U.S. Department of Defense to deploy its AI technology in a classified network — stepping in after Anthropic declined over ethical concerns about military AI use. CEO Sam Altman said the Pentagon agreed that OpenAI's tech won't be used for domestic mass surveillance or autonomous weapons, but the deal marks a major shift in Big AI's relationship with the military.</p>
-        <p><strong>Source:</strong> Al Jazeera · <a href="https://www.aljazeera.com/news/2026/2/28/openai-strikes-deal-with-pentagon-to-use-tech-in-classified-network">Read more →</a></p>
-
-        <h3>2. China's MiniMax Matches Top U.S. AI at 1/20th the Cost — and Anthropic Cries Foul</h3>
-        <p>Shanghai-based MiniMax released its M2.5 model, which matches Anthropic's flagship Claude Opus 4.6 on key coding benchmarks at roughly 5% of the cost. But Anthropic is fighting back, accusing MiniMax and two other Chinese labs of creating over 24,000 fake accounts to train their models on Claude's outputs — reigniting the debate over AI intellectual property across borders.</p>
-        <p><strong>Source:</strong> VentureBeat · <a href="https://venturebeat.com/technology/minimaxs-new-open-m2-5-and-m2-5-lightning-near-state-of-the-art-while">Read more →</a></p>
-
-        <h3>3. Fei-Fei Li's World Labs Raises $1B to Build AI That Understands the Physical World</h3>
-        <p>World Labs, the startup from legendary AI researcher Fei-Fei Li, closed a $1 billion funding round — the largest ever for spatial AI. Autodesk alone invested $200 million. The company is building AI that can perceive and reason about 3D environments, with its first product already letting users create immersive 3D worlds from text or images.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/">Read more →</a></p>
-
-        <h3>4. Oracle Plans to Raise $50 Billion This Year for AI Data Center Empire</h3>
-        <p>Oracle announced plans to raise up to $50 billion this year through debt and equity to fund a massive AI data center buildout. The company is racing to serve a who's-who client list that includes Nvidia, Meta, OpenAI, and xAI — but its stock has been cut in half since September as investors question whether the aggressive expansion will pay off.</p>
-        <p><strong>Source:</strong> Data Center Knowledge · <a href="https://www.datacenterknowledge.com/infrastructure/oracle-eyes-50-billion-for-ai-infrastructure-in-2026">Read more →</a></p>
-
-        <h3>5. Blackstone Launches Public Vehicle to Let Everyday Investors Bet on AI Data Centers</h3>
-        <p>Investment giant Blackstone is launching a publicly traded acquisition company focused on snapping up AI data centers, opening the door for everyday investors to bet on the AI infrastructure boom. The move comes as Nvidia's Jensen Huang estimates that $3 to $4 trillion will flow into AI infrastructure by the end of the decade.</p>
-        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-02-27/blackstone-plans-public-company-for-ai-data-center-buying-spree">Read more →</a></p>
-
-        <h3>6. Tech Giants Plan to Spend Nearly $700 Billion on AI Infrastructure in 2026</h3>
-        <p>Amazon, Google, and Meta alone plan to spend nearly $700 billion on data center projects this year. Highlights include OpenAI's $10 billion "Hyperion" site in Louisiana, xAI's $20 billion Mississippi facility, and the $500 billion Stargate joint venture — underscoring that the AI boom has become, above all, an infrastructure story.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-
-    <!-- Edition #2 — March 1, 2026 -->
-    <item>
-      <title>Edition #2: Apple's AI Siri Targets March Launch; LeCun Leaves Meta for World Models; February Breaks AI Investment Records</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/2</guid>
-      <pubDate>Sun, 01 Mar 2026 06:30:00 -0500</pubDate>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/22</guid>
+      <pubDate>Tue, 07 Jul 2026 06:30:00 -0500</pubDate>
       <category>Product Launch</category>
-      <category>Research</category>
-      <category>Funding</category>
       <category>Hardware</category>
-      <description>Apple's reimagined Siri targets a March launch powered by Google's Gemini model. Yann LeCun leaves Meta to build a world models startup at a 3 billion euro valuation. Anthropic launches enterprise plug-ins for finance and HR. Nvidia's Vera Rubin enters production. February closes as the biggest month in AI investment history with $195B+ in capital. Apple teases iPhone 17e and budget MacBook for March 4.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. Apple's AI-Powered Siri Targets March Launch — With Google's Gemini Under the Hood</h3>
-        <p>Apple's completely reimagined Siri is targeting a March release alongside iOS 26.4, powered by Google's 1.2-trillion-parameter Gemini model in a deal worth roughly $1 billion per year. The new assistant will be context-aware, capable of on-screen actions and cross-app workflows — though Bloomberg reports some features may slip to a later update.</p>
-        <p><strong>Source:</strong> MacRumors · <a href="https://www.macrumors.com/2026/02/12/siri-ios-26-launch-confirmed-apple/">Read more →</a></p>
-
-        <h3>2. Yann LeCun Leaves Meta to Build €3 Billion "World Models" Startup</h3>
-        <p>After 12 years at Meta, legendary AI scientist Yann LeCun has departed to launch AMI Labs, raising €500 million at a €3 billion valuation. The Paris-based startup is a contrarian bet that "world models" — AI that understands physics rather than just predicting text — are the real path to intelligent machines.</p>
-        <p><strong>Source:</strong> MIT Technology Review · <a href="https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/">Read more →</a></p>
-
-        <h3>3. Anthropic Launches AI Plug-ins for Wall Street, HR, and Design</h3>
-        <p>Anthropic unveiled 10 new plug-ins for its Claude platform, built with partners including FactSet, LSEG, Salesforce, and DocuSign. Financial advisors can now automate portfolio analysis and rebalancing, while HR teams can streamline hiring workflows.</p>
-        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-02-24/anthropic-links-ai-agent-with-tools-for-investment-banking-hr">Read more →</a></p>
-
-        <h3>4. Nvidia's Vera Rubin AI Platform Enters Full Production — 5x Faster Than Blackwell</h3>
-        <p>Nvidia announced that its next-generation Vera Rubin AI chip platform is now in full production, promising five times the performance of the current Blackwell architecture. The platform is optimized for agentic AI and mixture-of-experts models, with partner products shipping in the second half of 2026.</p>
-        <p><strong>Source:</strong> Nvidia Newsroom · <a href="https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer">Read more →</a></p>
-
-        <h3>5. February Closes as the Biggest Month in AI Investment History — $195B+</h3>
-        <p>February 2026 wrapped with an estimated $195 billion or more in tracked AI capital — easily the most consequential month in venture finance history. The headliners: OpenAI's $110 billion mega-round, Anthropic's $30 billion Series G, and Waymo's $16 billion raise.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/">Read more →</a></p>
-
-        <h3>6. Apple Teases "Big Week" — iPhone 17e and Budget MacBook Coming March 4</h3>
-        <p>Apple CEO Tim Cook hinted at a "big week ahead" with media events planned in New York, Shanghai, and London on March 4. Expectations include the iPhone 17e, an all-new budget MacBook, and refreshes to the Mac Studio and Studio Display — all powered by Apple's latest M5 chips.</p>
-        <p><strong>Source:</strong> MacRumors · <a href="https://www.macrumors.com/guide/apple-products-march-2026/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-
-    <!-- Edition #1 — February 28, 2026 (Launch Day!) -->
-    <item>
-      <title>Edition #1: OpenAI Closes Record $110B Round; Pentagon Bans Anthropic; Block Cuts Half Its Staff</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/1</guid>
-      <pubDate>Sat, 28 Feb 2026 06:30:00 -0500</pubDate>
-      <category>Funding</category>
-      <category>Policy</category>
-      <category>Workforce</category>
       <category>Infrastructure</category>
-      <description>Launch edition! OpenAI closes the largest private funding round in history at $110B. The Pentagon bans Anthropic after a standoff over military AI guardrails. Block cuts nearly half its workforce in an AI bet. Meta rents Google TPU chips. Perplexity launches multi-agent "Computer." Google commits $1B to iron-air batteries. UN creates AI advisory panel.</description>
+      <category>Safety</category>
+      <category>Workforce</category>
+      <description>Meta launches Muse Image, its first in-house AI image generator, across Meta AI and Instagram. China's DeepSeek is quietly designing its own AI chip to cut reliance on Nvidia and Huawei. Memory giant SK Hynix kicks off a $28 billion US stock listing as AI demand soars. Researchers document JadePuffer, the first ransomware attack executed by an AI agent. Anthropic overtakes OpenAI in revenue as the AI race tightens. Tech layoffs increasingly name-check AI, including 3,200 cuts at Xbox. And Zuckerberg tells staff AI agents are progressing slower than he hoped.</description>
       <content:encoded><![CDATA[
         <h2>Today's Blast — 7 Stories</h2>
 
-        <h3>1. OpenAI Closes Record $110B Funding Round, Now Valued at $840 Billion</h3>
-        <p>OpenAI has closed the largest private funding round in history — $110 billion anchored by Amazon's $50B commitment, plus $30B each from Nvidia and SoftBank. At $840 billion post-money, OpenAI is now valued above almost every public company on Earth.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/">Read more →</a></p>
+        <h3>1. Meta Launches Muse, Its First Home-Grown AI Image Generator</h3>
+        <p>Meta rolled out Muse Image, the first AI image model built entirely by its new Superintelligence Labs, and is wiring it directly into Meta AI, Instagram, and soon WhatsApp and Facebook. The tool can blend your own photos into new creations — think restored family pictures, Renaissance-style portraits, or a redesigned living room — and will power more than 30 visual effects across Meta's apps. Rather than launching a separate AI app, Meta is betting on putting image generation in front of the 3 billion people who already use its products every day.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/">Read more →</a></p>
 
-        <h3>2. Pentagon Bans Anthropic After High-Stakes Military AI Standoff</h3>
-        <p>The Trump administration ordered all federal agencies to stop using Anthropic's AI after the company refused to drop its guardrails on lethal autonomous weapons and mass surveillance. Anthropic held firm, saying "threats do not change our position."</p>
-        <p><strong>Source:</strong> Washington Post · <a href="https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/">Read more →</a></p>
+        <h3>2. China's DeepSeek Is Quietly Building Its Own AI Chip</h3>
+        <p>Chinese AI lab DeepSeek is developing its own chip for running AI models, according to a Reuters report, a move aimed at cutting its dependence on both Nvidia and Huawei. The company has reportedly spent about a year in talks with chip design and manufacturing partners and has been hiring chip engineers. The news nudged Nvidia's stock down, and it underscores a bigger trend: nearly every major AI player now wants to own the silicon its models run on.</p>
+        <p><strong>Source:</strong> Reuters · <a href="https://www.usnews.com/news/top-news/articles/2026-07-07/exclusive-chinas-deepseek-developing-its-own-ai-chip-sources-say">Read more →</a></p>
 
-        <h3>3. Block Cuts Nearly Half Its Workforce as Jack Dorsey Bets Big on AI</h3>
-        <p>Jack Dorsey's fintech company laid off about 4,000 employees — nearly half its staff — citing AI-driven efficiency gains. Dorsey predicted most companies will make similar cuts within a year. Block's stock surged 24%.</p>
-        <p><strong>Source:</strong> CNN · <a href="https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey">Read more →</a></p>
+        <h3>3. Memory Chip Giant SK Hynix Kicks Off a $28 Billion US Listing</h3>
+        <p>SK Hynix, the South Korean company that makes the high-bandwidth memory chips inside most cutting-edge AI systems, is seeking to raise about $28 billion in a US stock listing on the Nasdaq. Its shares have already soared roughly 260% this year as memory became one of the tightest bottlenecks in AI computing, pushing the company's value past $1 trillion. The proceeds will fund new factories and advanced chipmaking equipment — a sign the AI infrastructure buildout is still accelerating.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/">Read more →</a></p>
 
-        <h3>4. Meta Signs Multi-Billion Dollar Deal to Rent Google's TPU Chips</h3>
-        <p>Meta has signed a multi-year agreement to rent Google's custom TPU chips for AI training — signaling that demand for AI compute is so intense that even the biggest buyers are diversifying beyond Nvidia.</p>
-        <p><strong>Source:</strong> SiliconANGLE · <a href="https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal/">Read more →</a></p>
+        <h3>4. Researchers Document the First Ransomware Attack Run by an AI Agent</h3>
+        <p>Security firm Sysdig published a detailed analysis of "JadePuffer," an attack in which an AI agent — not a human at a keyboard — broke into a company's systems, stole credentials, found the most valuable database, encrypted it, and demanded a ransom. The agent adapted in real time, fixing its own failed attempts within seconds and firing off more than 600 distinct actions. A human still picked the target and set the attack in motion, but researchers say it's the clearest sign yet that AI is lowering the bar for sophisticated cybercrime.</p>
+        <p><strong>Source:</strong> BleepingComputer · <a href="https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/">Read more →</a></p>
 
-        <h3>5. Perplexity Launches "Computer" — An AI Agent That Runs Other AI Agents</h3>
-        <p>Perplexity's new system treats Claude, Gemini, GPT-5.2, Grok, and others like specialized employees on a shared team. Describe an outcome and Computer breaks it into tasks, spawns sub-agents, and runs them in parallel.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/">Read more →</a></p>
+        <h3>5. Anthropic Overtakes OpenAI in Revenue as the AI Race Tightens</h3>
+        <p>Anthropic, the company behind Claude, has passed OpenAI in annualized revenue — on track for $47 billion versus OpenAI's $25–33 billion — and says it will turn a profit a year earlier, in 2029. ChatGPT's share of consumer AI traffic has also slipped below half the market for the first time as people grow more willing to switch between chatbots. For the first time since ChatGPT launched, OpenAI's lead in the AI race looks contested rather than assumed.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/">Read more →</a></p>
 
-        <h3>6. Google Drops $1B on Form Energy's 100-Hour Iron-Air Battery</h3>
-        <p>Google committed $1 billion to deploy the world's largest battery — a 300 MW iron-air system that can deliver continuous power for 100 hours — at a Minnesota data center.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/">Read more →</a></p>
+        <h3>6. The Growing List of 2026 Tech Layoffs That Name-Check AI</h3>
+        <p>TechCrunch is keeping a running tally of major tech layoffs this year where companies explicitly pointed to AI as a reason — and the list keeps getting longer, including Microsoft's cut of roughly 3,200 jobs in its Xbox division. Whether AI is truly replacing the work or serving as convenient cover for cost-cutting is hotly debated. Either way, "because of AI" has become one of the defining phrases of this year's job market.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/">Read more →</a></p>
 
-        <h3>7. UN Creates International AI Advisory Panel With 40 Members From 37 Nations</h3>
-        <p>The United Nations General Assembly approved a 40-member scientific AI advisory panel to serve as an "early-warning system and evidence engine" for AI policy worldwide.</p>
-        <p><strong>Source:</strong> Nature · <a href="https://www.nature.com/articles/d41586-026-00542-8">Read more →</a></p>
+        <h3>7. Zuckerberg Tells Staff AI Agents Are Moving Slower Than He Hoped</h3>
+        <p>In an internal address, Mark Zuckerberg admitted that AI agents — programs meant to complete multi-step tasks on their own — haven't advanced as quickly as he expected. It's a notable dose of candor from a CEO who has spent billions hiring top AI researchers and reorganizing Meta around superintelligence. The comment echoes a broader industry reality check: today's agents are useful, but still far from the autonomous digital workers the hype promised.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/">Read more →</a></p>
       ]]></content:encoded>
     </item>
+
+    <!-- Edition #20 — June 9, 2026 -->
+    <item>
+      <title>Edition #20: Google to Pay SpaceX $920M a Month for AI Compute; Microsoft Builds Its Own AI Models; White House Signs AI Executive Order</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/20</guid>
+      <pubDate>Tue, 09 Jun 2026 06:30:00 -0500</pubDate>
+      <category>Infrastructure</category>
+      <category>Models</category>
+      <category>Policy</category>
+      <category>Funding</category>
+      <category>Healthcare</category>
+      <description>Google agrees to pay SpaceX roughly $920 million a month to rent AI computing power. Microsoft unveils seven of its own AI models to lean less on OpenAI. The White House signs an executive order to speed up AI while guarding against its risks. Cognition, the maker of AI "software engineer" Devin, raises $1 billion at a $26 billion valuation. Nvidia releases its most powerful free, open AI model yet. China's DeepSeek makes a 75% price cut permanent, escalating the AI price war. And a new AI tool helps eye doctors catch disease hidden in hundreds of retinal scans.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Google Will Pay SpaceX $920 Million a Month to Rent AI Computing Power</h3>
+        <p>Google has agreed to pay SpaceX roughly $920 million every month — about $30 billion over the life of the deal — to rent access to around 110,000 high-end AI chips housed in data centers tied to Elon Musk's companies. Google says it needs the extra "bridge" capacity because demand for its Gemini AI tools has outstripped what its own data centers can supply. The unusual arrangement, struck just before SpaceX's stock-market debut, shows how desperate even the biggest tech firms have become for the raw computing muscle that modern AI requires.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/">Read more →</a></p>
+
+        <h3>2. Microsoft Builds Its Own AI Models to Depend Less on OpenAI</h3>
+        <p>At its annual developer conference, Microsoft unveiled seven AI models it built entirely in-house — including its first home-grown "reasoning" model — signaling a push to rely less on its partner OpenAI. The company says its own models are cheaper to run, an appealing pitch as businesses look to cut the cost of using AI. Microsoft stressed it isn't cutting ties with OpenAI, whose technology still powers many of its products, but it clearly wants more options of its own.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/06/02/microsoft-unveils-new-ai-models-lessen-reliance-on-openai-lower-costs.html">Read more →</a></p>
+
+        <h3>3. White House Signs Executive Order to Speed Up AI While Guarding Its Risks</h3>
+        <p>The White House signed an executive order aimed at accelerating American AI development while shoring up defenses against the security risks that powerful AI can create. The order sets up a government "clearinghouse" to help find and fix software vulnerabilities, and asks leading AI companies to voluntarily give the government an early look at their most advanced models before public release. Notably, it explicitly stops short of creating any mandatory license or permit to build or release AI systems.</p>
+        <p><strong>Source:</strong> The White House · <a href="https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/">Read more →</a></p>
+
+        <h3>4. The Startup Behind AI 'Software Engineer' Devin Raises $1 Billion</h3>
+        <p>Cognition, the maker of an AI "software engineer" called Devin that can write and fix code largely on its own, raised more than $1 billion at a $26 billion valuation — more than double its worth just eight months ago. The company says corporate use of Devin has grown 50% month over month, with customers including Goldman Sachs, Mercedes-Benz, and NASA. The eye-popping round captures both investor excitement and growing anxiety about what increasingly capable coding tools mean for software jobs.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/">Read more →</a></p>
+
+        <h3>5. Nvidia Releases Its Most Powerful 'Open' AI Model Yet — Free for Anyone to Use</h3>
+        <p>Nvidia released Nemotron 3 Ultra, a powerful new AI model that the company is giving away for free — publishing not just the model but the data and recipes used to build it. It is now the most capable "open" AI model made in the United States, though it still trails the strongest open model from China. Freely available models like this let smaller companies and researchers build advanced AI tools without paying to use the big commercial systems.</p>
+        <p><strong>Source:</strong> Artificial Analysis · <a href="https://artificialanalysis.ai/articles/nvidia-nemotron-3-ultra-released">Read more →</a></p>
+
+        <h3>6. China's DeepSeek Makes a 75% Price Cut Permanent, Escalating the AI Price War</h3>
+        <p>China's DeepSeek announced that a temporary 75% discount on its flagship V4-Pro model is now permanent, making it dramatically cheaper than comparable models from OpenAI and Anthropic. The company can afford the low prices partly because its models are tuned to run on Chinese-made Huawei chips rather than scarce, pricey Nvidia hardware. The move intensifies a global price war that keeps driving down the cost of using AI — welcome news for businesses and developers, painful for competitors.</p>
+        <p><strong>Source:</strong> Engadget · <a href="https://www.engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent/">Read more →</a></p>
+
+        <h3>7. New AI Tool Helps Eye Doctors Catch Disease Hidden in Hundreds of Scans</h3>
+        <p>Researchers at Washington University in St. Louis built an experimental AI system that helps eye doctors sift through the hundreds of images produced in a single retinal scan, flagging subtle signs of disease faster and more reliably than a manual review. Because catching these clues early can prevent vision loss, tools like this could make screening quicker and surface problems doctors might otherwise miss. It's a concrete example of AI quietly improving routine medical care.</p>
+        <p><strong>Source:</strong> Newswise · <a href="https://www.newswise.com/articles/new-ai-tools-could-help-eye-doctors-diagnose-retinal-disease-faster">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #19 — June 8, 2026 -->
+    <item>
+      <title>Edition #19: Apple Unveils a Gemini-Powered Siri; Nvidia &amp; SK Hynix Team Up on AI Memory; Anthropic Files to Go Public</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/19</guid>
+      <pubDate>Mon, 08 Jun 2026 06:30:00 -0500</pubDate>
+      <category>Product Launch</category>
+      <category>Hardware</category>
+      <category>Funding</category>
+      <category>Policy</category>
+      <category>Infrastructure</category>
+      <description>Apple unveils a rebuilt, Gemini-powered Siri at WWDC and lets users choose their AI assistant. Nvidia and SK Hynix team up to build the memory behind AI "factories." Anthropic raises $65 billion and files to go public ahead of OpenAI. Europe moves to simplify its AI rules as US states press ahead with their own. SpaceX heads toward the largest IPO in history, now with xAI on board. Memory chipmakers hit $1 trillion as AI reshapes the hardware race. And Big Tech is on track to spend over $700 billion building AI this year.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Apple Unveils a Gemini-Powered Siri at WWDC — and Lets You Choose Your AI</h3>
+        <p>Apple used its WWDC keynote on Monday to reveal the long-awaited rebuild of Siri, now running on a custom version of Google's Gemini that Apple is reportedly paying about $1 billion a year to license. The new assistant can hold a conversation, act on what's on your screen, and carry out multi-step tasks across apps — and a new Extensions system lets users pick ChatGPT, Gemini, or Anthropic's Claude as the brain behind it. The event also marked a milestone for the company, widely reported as CEO Tim Cook's final keynote before a planned leadership handoff.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/">Read more →</a></p>
+
+        <h3>2. Nvidia and SK Hynix Team Up to Build the Memory Behind AI 'Factories'</h3>
+        <p>Chip giant Nvidia and South Korea's SK Hynix announced a multi-year partnership to develop next-generation memory for the massive data centers — now often called "AI factories" — that power tools like ChatGPT. The two will co-design memory for Nvidia's upcoming systems and even use AI to speed up the design and manufacturing of the chips themselves. The deal deepens a relationship that has helped make SK Hynix one of the most important suppliers in the global AI supply chain.</p>
+        <p><strong>Source:</strong> Nvidia · <a href="https://nvidianews.nvidia.com/news/sk-hynix-ai-factory">Read more →</a></p>
+
+        <h3>3. Anthropic Raises $65 Billion and Files to Go Public Ahead of OpenAI</h3>
+        <p>Claude maker Anthropic closed a $65 billion funding round that values the company at roughly $965 billion, then quietly filed paperwork to go public — putting it on track to beat rival OpenAI to the stock market. The company says its annual revenue run-rate has crossed $47 billion and expects its first-ever operating profit this quarter. It's a striking sign of how quickly money is pouring into the handful of firms building the most advanced AI.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/">Read more →</a></p>
+
+        <h3>4. Europe Moves to Simplify Its AI Rules as US States Press Ahead</h3>
+        <p>European lawmakers agreed to streamline parts of the EU's landmark AI Act, easing some deadlines and paperwork for businesses while keeping its core safeguards — including new bans on tools that create non-consensual explicit images. In the United States, the picture is messier: a federal push to override state AI laws hasn't passed, leaving states like Colorado moving ahead with their own rules and companies unsure which requirements will ultimately stick. Together the moves show governments still scrambling to set the ground rules for AI.</p>
+        <p><strong>Source:</strong> Council of the EU · <a href="https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/">Read more →</a></p>
+
+        <h3>5. SpaceX Heads Toward the Largest IPO in History — With xAI on Board</h3>
+        <p>SpaceX is racing toward what would be the biggest stock-market debut ever, with pricing expected this week and trading set to begin under the ticker "SPCX." Following its merger with Elon Musk's AI startup xAI, the company now combines rockets and frontier AI under one roof, and is reportedly targeting a valuation of more than $1.7 trillion. Investors are watching closely: SpaceX's debut is expected to set the tone for a wave of giant AI listings, including OpenAI and Anthropic, later this year.</p>
+        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/markets/article/spacex-openai-and-anthropic-here-are-the-most-anticipated-ipos-in-2026-114439441.html">Read more →</a></p>
+
+        <h3>6. Memory Chipmakers Hit $1 Trillion as AI Reshapes the Hardware Race</h3>
+        <p>The companies that make the memory chips inside AI servers are suddenly Wall Street darlings, with SK Hynix and Micron each crossing $1 trillion in market value as demand outstrips supply. For years the spotlight was on Nvidia's graphics chips, but the AI boom has revealed that fast, abundant memory is just as essential — and far harder to produce quickly. The surge underscores how the scramble to build AI is rippling far beyond the best-known names.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/05/27/sk-hynix-shares-ai-chip-rally-1-trillion.html">Read more →</a></p>
+
+        <h3>7. Big Tech Is on Track to Spend Over $700 Billion Building AI This Year</h3>
+        <p>Microsoft, Google, Amazon, and Meta are collectively expected to pour at least $700 billion into AI data centers and infrastructure in 2026, and when private firms like OpenAI and Anthropic are added in, total industry spending could top $1 trillion. New figures show venture funding for foundational AI startups in early 2026 was already double the entire prior year. The numbers capture the sheer scale of the buildout — and the bet that demand for AI will keep climbing.</p>
+        <p><strong>Source:</strong> Crunchbase News · <a href="https://news.crunchbase.com/venture/foundational-ai-startup-funding-doubled-openai-anthropic-xai-q1-2026/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #18 — June 7, 2026 -->
+    <item>
+      <title>Edition #18: Apple's WWDC Brings Gemini-Powered Siri; ChatGPT Hits 1 Billion Users; Sanders Targets AI Ownership</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/18</guid>
+      <pubDate>Sun, 07 Jun 2026 06:30:00 -0500</pubDate>
+      <category>Models</category>
+      <category>Business</category>
+      <category>Policy</category>
+      <category>Agents</category>
+      <category>Ethics</category>
+      <description>Apple's WWDC opens Monday with a rebuilt, Gemini-powered Siri at its center. ChatGPT becomes the fastest app ever to reach one billion monthly users. Bernie Sanders proposes giving the public a 50% stake in big AI companies. OpenAI expands its Codex assistant beyond coders to sales, finance, and design teams. Uber and WeRide launch Spain's first commercial robotaxi pilot in Madrid. And a new report catalogs 37 manipulative "dark patterns" in major AI chatbots.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. Apple's WWDC Opens Monday With a Long-Awaited, Gemini-Powered Siri</h3>
+        <p>Apple takes the stage Monday for what may be the most consequential keynote in its AI history, with the centerpiece a complete rebuild of Siri. Reports say the new assistant will run on a custom 1.2-trillion-parameter version of Google's Gemini — roughly eight times larger than anything Apple built in-house — which Apple is paying about $1 billion a year to license. The revamped Siri is expected to handle multi-step tasks, understand on-screen context, and even hand questions off to chatbots like Claude.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/">Read more →</a></p>
+
+        <h3>2. ChatGPT Becomes the Fastest App Ever to Reach 1 Billion Monthly Users</h3>
+        <p>ChatGPT has crossed one billion monthly active users on its app, hitting the milestone faster than any product before it — outpacing the early growth of TikTok, Instagram, and YouTube, according to Sensor Tower data reported by Reuters. It reached the mark roughly three years after launch, a sign that consumer AI has moved from novelty to everyday software. Rivals remain far smaller: Claude sits around 56 million monthly users, though it is growing several times faster year over year.</p>
+        <p><strong>Source:</strong> Reuters · <a href="https://money.usnews.com/investing/news/articles/2026-06-02/chatgpt-app-hits-1-billion-monthly-active-users-in-record-time-data-shows">Read more →</a></p>
+
+        <h3>3. Bernie Sanders Proposes Giving the Public a 50% Stake in Big AI Companies</h3>
+        <p>Senator Bernie Sanders unveiled plans for an "American AI Sovereign Wealth Fund," a bill that would require the largest AI firms — including OpenAI, Anthropic, and xAI — to transfer half their stock to a public fund. The proceeds would be paid out to Americans as direct cash payments, with later revenue funding programs like health care and housing. The idea is a long shot legislatively, but it lands as figures across the political spectrum begin debating public ownership of AI's enormous gains.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/06/03/bernie-sanders-ai-ownership-sovereign-wealth-fund-electrification/">Read more →</a></p>
+
+        <h3>4. OpenAI Expands Codex Beyond Coders to Sales, Finance, and Design Teams</h3>
+        <p>OpenAI is pushing its Codex AI assistant well past its programming roots, releasing six role-specific versions aimed at non-developers in sales, data analytics, product design, creative work, and finance. The company also introduced "Codex Sites," which can turn a written prompt into a working dashboard or web app. OpenAI says more than five million people now use Codex weekly, and non-coders are its fastest-growing group.</p>
+        <p><strong>Source:</strong> OpenAI · <a href="https://openai.com/index/codex-for-every-role-tool-workflow/">Read more →</a></p>
+
+        <h3>5. Uber and WeRide Launch Spain's First Commercial Robotaxi Pilot in Madrid</h3>
+        <p>Uber and Chinese self-driving firm WeRide announced Spain's first commercial robotaxi service, bringing autonomous rides to Madrid through the regular Uber app later this year. The fleet will start with trained safety operators on board before scaling toward fully driverless service, in partnership with the regional government. It marks the duo's first move into Europe and the fourth of fifteen cities they have pledged to reach by 2030.</p>
+        <p><strong>Source:</strong> The Next Web · <a href="https://thenextweb.com/news/weride-and-uber-take-their-robotaxi-partnership-to-madrid">Read more →</a></p>
+
+        <h3>6. New Report Finds 37 Manipulative 'Dark Patterns' in Major AI Chatbots</h3>
+        <p>A new study from the Center for Democracy &amp; Technology catalogs 37 deceptive design tricks baked into popular AI chatbots, including ChatGPT, Gemini, Claude, and companion apps like Replika and Character.AI. The researchers warn these "dark patterns" can quietly maximize data collection, foster emotional dependence, and make it hard to delete an account. The report offers a taxonomy meant to push designers and regulators toward healthier defaults.</p>
+        <p><strong>Source:</strong> 404 Media · <a href="https://www.404media.co/new-study-reveals-the-manipulative-dark-patterns-of-ai-chatbots/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #17 — May 19, 2026 -->
+    <item>
+      <title>Edition #17: Anthropic Nears $900B Valuation; Google I/O Today; Musk Loses OpenAI Lawsuit</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/17</guid>
+      <pubDate>Tue, 19 May 2026 06:30:00 -0500</pubDate>
+      <category>Funding</category>
+      <category>Business</category>
+      <category>Models</category>
+      <category>Policy</category>
+      <category>Healthcare</category>
+      <category>Workforce</category>
+      <description>Anthropic is in talks to raise $30 billion at a $900 billion valuation. Google I/O opens today with Gemini 4.0 and persistent AI agents expected. A jury throws out Elon Musk's lawsuit against Sam Altman and OpenAI. Anthropic's Q1 revenue grew 80x year-over-year, putting its ARR above $44 billion. A Harvard study finds OpenAI's o1 model outperforms emergency-room doctors on diagnoses. And Fortune warns the AI shock is coming for white-collar workers, much like the China shock came for factories.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. Anthropic in Talks to Raise $30 Billion at a $900 Billion Valuation</h3>
+        <p>Claude maker Anthropic is closing in on a roughly $30 billion fundraising round at a pre-money valuation north of $900 billion, co-led by Sequoia, Dragoneer, Greenoaks, and Altimeter. The deal — expected to wrap by the end of this month — would nearly triple Anthropic's $380 billion valuation from February and could vault it past OpenAI as the most valuable private AI company in the world.</p>
+        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-05-12/anthropic-in-talks-to-raise-30-billion-at-900-billion-valuation">Read more →</a></p>
+
+        <h3>2. Google I/O Kicks Off Today With Gemini 4.0 and Persistent AI Agents Expected</h3>
+        <p>Google's annual I/O developer conference opens this morning at Shoreline Amphitheatre. Expected announcements include a next-generation Gemini model (rumored as Gemini 4.0), a unified "Omni" system that generates text, images and video, persistent AI agents that can complete tasks across apps, and a preview of Android XR smart glasses.</p>
+        <p><strong>Source:</strong> Google I/O 2026 · <a href="https://io.google/2026/">Read more →</a></p>
+
+        <h3>3. Jury Throws Out Elon Musk's Lawsuit Against Sam Altman and OpenAI</h3>
+        <p>A federal jury in Oakland took less than two hours to reject Elon Musk's lawsuit accusing Sam Altman, Greg Brockman, OpenAI and Microsoft of "stealing a charity" by converting the lab into a for-profit. The nine-member panel ruled unanimously that Musk waited too long to sue. Musk called the verdict a "calendar technicality" and vowed to appeal.</p>
+        <p><strong>Source:</strong> NPR · <a href="https://www.npr.org/2026/05/18/nx-s1-5822366/musk-altman-openai-jury-verdict-claims-dismissed">Read more →</a></p>
+
+        <h3>4. Anthropic Q1 Revenue Grew 80x Year-Over-Year, ARR Now Above $44 Billion</h3>
+        <p>Anthropic disclosed that its first-quarter revenue was 80 times higher than the same period a year ago, pushing annualized revenue above $44 billion and narrowing the gap with OpenAI's $25 billion run rate. The number of customers spending at least $1 million a year doubled to more than 1,000 in just two months.</p>
+        <p><strong>Source:</strong> The Information · <a href="https://www.theinformation.com/articles/openai-tops-25-billion-annualized-revenue-anthropic-narrows-gap">Read more →</a></p>
+
+        <h3>5. Harvard Study: OpenAI's o1 Model Outperforms ER Doctors on Diagnoses</h3>
+        <p>A new Science paper from Harvard Medical School and Beth Israel Deaconess Medical Center found that OpenAI's o1 reasoning model matched or exceeded experienced physicians on 76 real emergency-room cases in Boston. The AI did especially well on rare diseases and complex case management — using only the same electronic health records the doctors saw.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/05/04/harvard-study-ai-outdiagnose-doctors-openai-o1-preview/">Read more →</a></p>
+
+        <h3>6. Fortune: The AI Shock Is Coming for White-Collar Workers, Much Like the China Shock</h3>
+        <p>A new Fortune analysis warns that AI is poised to do to coastal knowledge work what the China shock did to Midwestern factories — except the pain will be concentrated in urban centers full of well-paid analysts, marketers and coders. Outplacement firm Challenger has already tied 49,000 layoffs to AI automation in 2026 alone, nearly matching all of 2025.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/05/12/how-ai-layoffs-compare-china-shock-donald-trump-nafta/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #16 — April 16, 2026 -->
+    <item>
+      <title>Edition #16: Jane Street Commits $7B to CoreWeave; PwC Finds AI Gains Go to Top 20%; EU Frozen Out of Mythos</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/16</guid>
+      <pubDate>Thu, 16 Apr 2026 06:30:00 -0500</pubDate>
+      <category>Funding</category>
+      <category>Business</category>
+      <category>Policy</category>
+      <category>Research</category>
+      <category>Governance</category>
+      <category>Startups</category>
+      <description>Jane Street commits $7 billion to CoreWeave in an AI cloud and equity deal. PwC finds 74% of AI's economic gains go to just 20% of companies. EU regulators are frozen out of Anthropic's Mythos cybersecurity model. Human scientists still outperform AI agents on complex tasks. The DOE's AI push squeezes traditional research funding. UChicago partners with Microsoft and NVIDIA to accelerate Midwest AI startups.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. Jane Street Commits $7 Billion to CoreWeave in Massive AI Cloud and Equity Deal</h3>
+        <p>Wall Street trading giant Jane Street is going all-in on AI infrastructure, committing roughly $6 billion to use CoreWeave's AI cloud platform plus a separate $1 billion equity stake at $109 per share. The deal gives Jane Street access to NVIDIA's next-gen Vera Rubin chips across multiple data centers. It's CoreWeave's third mega-deal in April alone, following $21 billion from Meta and a multibillion-dollar agreement with Anthropic.</p>
+        <p><strong>Source:</strong> Quartz · <a href="https://qz.com/jane-street-coreweave-cloud-deal-equity-stake-041526">Read more →</a></p>
+
+        <h3>2. PwC Study: 74% of AI's Economic Gains Are Being Captured by Just 20% of Companies</h3>
+        <p>A sweeping new PwC study of 1,217 senior executives finds that a small elite of companies is pulling dramatically ahead in the AI race. The top 20% are generating 7.2 times more AI-driven revenue and efficiency gains than the average competitor — and they're doing it by using AI to reinvent their business models, not just cut costs.</p>
+        <p><strong>Source:</strong> PwC · <a href="https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html">Read more →</a></p>
+
+        <h3>3. EU Regulators Frozen Out of Anthropic's Mythos Cybersecurity Model</h3>
+        <p>European cyber agencies are largely being shut out of Anthropic's powerful Mythos model, which can find and exploit software vulnerabilities faster than most human hackers. Access has been limited to U.S. tech giants under a program called Project Glasswing. Only Germany has started talks so far, while the UK's AI Safety Institute has already been allowed to test it.</p>
+        <p><strong>Source:</strong> CSO Online · <a href="https://www.csoonline.com/article/4158560/european-authorities-without-access-to-anthropics-ai-for-hacking.html">Read more →</a></p>
+
+        <h3>4. Human Scientists Still Outperform AI Agents on Complex Tasks, Nature Reports</h3>
+        <p>Despite the hype around autonomous AI agents, a major new analysis in Nature finds that human researchers still significantly outperform them on complex scientific workflows. Many labs have started deploying AI agents to run experiments and analyze data autonomously, but the report is skeptical about real-world performance.</p>
+        <p><strong>Source:</strong> Nature · <a href="https://www.nature.com/articles/d41586-026-01199-z">Read more →</a></p>
+
+        <h3>5. DOE's $293 Million AI Push Is Squeezing Funding for Traditional Science</h3>
+        <p>The Department of Energy's new Genesis Mission — a $320 million initiative to apply AI across scientific disciplines — is coming at a steep cost to traditional research. Nuclear physics grants have already fallen 18%, and redirecting another 10% to Genesis means roughly one-third of expiring grants won't be renewed this year.</p>
+        <p><strong>Source:</strong> Science · <a href="https://www.science.org/content/article/department-energy-s-ai-push-squeezes-funding-research-grants">Read more →</a></p>
+
+        <h3>6. UChicago Partners with Microsoft and NVIDIA to Accelerate Midwest AI Startups</h3>
+        <p>The University of Chicago announced a new partnership with Microsoft and NVIDIA aimed at boosting AI startups in the Midwest. Participating companies will get up to $350,000 in startup credits, access to AI models, connections to Bay Area investors, and support from both NVIDIA's Inception and Microsoft for Startups programs.</p>
+        <p><strong>Source:</strong> UChicago Polsky Center · <a href="https://polsky.uchicago.edu/2026/04/14/university-of-chicago-announces-partnership-with-ai-research-commons-microsoft-nvidia-to-accelerate-midwest-ai-startups/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #15 — April 15, 2026 -->
+    <item>
+      <title>Edition #15: Stanford AI Index Shows China Closing Gap; Anthropic Mythos Alarms Cybersecurity World; OpenAI Shuts Down Sora</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/15</guid>
+      <pubDate>Wed, 15 Apr 2026 06:30:00 -0500</pubDate>
+      <category>Research</category>
+      <category>Safety</category>
+      <category>Business</category>
+      <category>Models</category>
+      <category>Infrastructure</category>
+      <category>Workforce</category>
+      <category>Hardware</category>
+      <description>Stanford's 2026 AI Index reveals China has nearly erased the U.S. lead in AI while generative AI adoption outpaces the internet. Anthropic's Mythos model finds thousands of unpatched vulnerabilities, prompting a restricted release to just 40 organizations. OpenAI is shutting down Sora amid $15M/day costs. Google releases Gemma 4 under Apache 2.0. U.S. utilities plan $1.4 trillion in spending driven by AI data centers. The GSA turns to AI after losing 40% of its workforce. NVIDIA unveils quantum AI models.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Stanford's 2026 AI Index: China Nearly Erases U.S. Lead, AI Adoption Outpaces the Internet</h3>
+        <p>Stanford's annual AI Index dropped today and the numbers are staggering. Generative AI hit 53% population adoption in just three years — faster than the personal computer or the internet. AI agents now handle real-world tasks with a 77% success rate, up from 20% last year. But the geopolitical headline is bigger: China has nearly erased the U.S. lead in AI model performance, driven by its open-source community. Meanwhile, the number of AI researchers moving to the U.S. has dropped 89% since 2017.</p>
+        <p><strong>Source:</strong> Stanford HAI · <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">Read more →</a></p>
+
+        <h3>2. Anthropic's Mythos Model Finds Thousands of Unpatched Vulnerabilities, Alarming Cybersecurity World</h3>
+        <p>Anthropic's new Mythos model is so good at hacking that the company is only sharing it with 40 handpicked organizations, including Microsoft, Google, and JPMorgan Chase. In testing, Mythos autonomously found and chained together flaws in the Linux kernel that would give a hacker full control of a machine. Over 99% of the vulnerabilities it found haven't been patched yet.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/04/14/anthropic-mythos-reveals-security-gap-ai-finds-flaws-far-faster-than-companies-can-patch-them/">Read more →</a></p>
+
+        <h3>3. OpenAI Shutting Down Sora as the AI Video App Burns $15 Million a Day</h3>
+        <p>OpenAI is pulling the plug on Sora, its AI video generator, with the app closing April 26 and the API following in September. Despite over a million downloads in its first week, active users cratered to under 500,000 while compute costs ballooned to an estimated $15 million per day. Disney also walked away from a planned $1 billion investment tied to the project.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/">Read more →</a></p>
+
+        <h3>4. Google Releases Gemma 4 — Its Most Capable Open Models Yet, Now Under Apache 2.0</h3>
+        <p>Google just dropped Gemma 4, a family of four open models purpose-built for reasoning and agentic workflows. The headline: a 31-billion-parameter model that outperforms rivals 20 times its size, with 256K context windows and support for over 140 languages. Gemma 4 ships under the Apache 2.0 license — a big shift from Google's previous restrictive licensing.</p>
+        <p><strong>Source:</strong> Google Blog · <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/">Read more →</a></p>
+
+        <h3>5. U.S. Utilities Plan $1.4 Trillion Spending Surge as AI Data Centers Strain the Grid</h3>
+        <p>America's biggest utilities are gearing up for a historic investment cycle. Investor-owned utilities have increased their five-year capital plans by 27% to $1.4 trillion, driven largely by AI data center construction. Nearly half of that spending could get passed on to residential customers.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/04/14/us-utility-spending-jumps-to-1-4-trillion-amid-ai-construction-boom/">Read more →</a></p>
+
+        <h3>6. GSA Turns to AI to Automate One Million Work Hours After Losing 40% of Its Workforce</h3>
+        <p>The General Services Administration has lost nearly 40% of its workforce and is now turning to AI to fill the gap, with plans to automate roughly one million work hours. It's one of the most concrete examples yet of the federal government replacing human workers with AI systems.</p>
+        <p><strong>Source:</strong> Federal News Network · <a href="https://federalnewsnetwork.com/artificial-intelligence/2026/04/gsa-looks-to-automate-a-million-work-hours-after-losing-nearly-40-of-its-workforce/">Read more →</a></p>
+
+        <h3>7. NVIDIA Unveils Ising — Open-Source Quantum AI Models for Building Quantum Processors</h3>
+        <p>NVIDIA announced Ising, a new family of open-source AI models designed to accelerate the development of quantum processors. The models serve as an AI control plane for quantum hardware, helping engineers design and optimize quantum chips using machine learning.</p>
+        <p><strong>Source:</strong> CIO · <a href="https://www.cio.com/article/4158418/nvidia-announces-quantum-ai-models.html">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #14 — April 14, 2026 -->
+    <item>
+      <title>Edition #14: OpenAI Leadership Split on IPO; NVIDIA Opens Robotics with GR00T N1.6; Cloudflare Expands Agent Cloud</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/14</guid>
+      <pubDate>Tue, 14 Apr 2026 06:30:00 -0500</pubDate>
+      <category>Business</category>
+      <category>Hardware</category>
+      <category>Infrastructure</category>
+      <category>Models</category>
+      <category>Funding</category>
+      <category>Research</category>
+      <description>OpenAI’s CEO and CFO are publicly split on IPO timing as losses mount to $14B. NVIDIA releases open GR00T N1.6 model for humanoid robots. Cloudflare launches major Agent Cloud expansion. Meta’s Muse Spark enters frontier AI territory. Q1 2026 venture funding hits a record $300B. Nature finds human scientists still outperform AI agents.</description>
+      <content:encoded><![CDATA[
+        <h2>Today’s Blast — 6 Stories</h2>
+
+        <h3>1. OpenAI’s Leadership Is Split on IPO Timing as the Company Burns Through Billions</h3>
+        <p>Sam Altman wants OpenAI to go public as soon as Q4 2026, but CFO Sarah Friar is pumping the brakes. The problem: OpenAI is on track to lose $14 billion this year despite hitting $25 billion in annualized revenue, and has committed to $600 billion in cloud spending over the next five years. At a potential $850 billion valuation, it would be one of the largest tech IPOs in history.</p>
+        <p><strong>Source:</strong> WinBuzzer · <a href="https://winbuzzer.com/2026/04/06/openai-ceo-cfo-split-ipo-timing-14b-loss-forecast-xcxwbn/">Read more →</a></p>
+
+        <h3>2. NVIDIA Opens Up Robotics with New Isaac GR00T N1.6 Foundation Model</h3>
+        <p>For National Robotics Week, NVIDIA released Isaac GR00T N1.6, an open foundation model that lets humanoid robots understand natural language and carry out complex, multi-step tasks. The company also launched Isaac Sim 6.0 and partnered with Hugging Face to bring its robotics tools to 13 million developers.</p>
+        <p><strong>Source:</strong> NVIDIA Blog · <a href="https://blogs.nvidia.com/blog/national-robotics-week-2026/">Read more →</a></p>
+
+        <h3>3. Cloudflare Expands Agent Cloud to Power the Agentic Web</h3>
+        <p>Cloudflare launched a major expansion of its Agent Cloud, including Dynamic Workers that spin up AI-generated code in milliseconds — 100 times faster than traditional containers. The platform now supports millions of concurrent agent executions with built-in security.</p>
+        <p><strong>Source:</strong> SiliconANGLE · <a href="https://siliconangle.com/2026/04/13/cloudflare-expands-agent-cloud-new-tools-build-scale-ai-agents/">Read more →</a></p>
+
+        <h3>4. Meta’s Muse Spark Takes on Frontier AI with Multi-Agent “Contemplating” Mode</h3>
+        <p>Meta’s first model from its new Superintelligence Labs is now live. Muse Spark’s headline feature is “Contemplating” mode — multiple AI agents reasoning in parallel. It scored 58% on Humanity’s Last Exam, putting it in frontier territory. Unlike Meta’s traditionally open approach, Muse Spark is proprietary.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/">Read more →</a></p>
+
+        <h3>5. Q1 2026 Shatters Venture Funding Records at $300 Billion</h3>
+        <p>Investors poured $300 billion into 6,000 startups globally in Q1 2026 — up more than 150% year over year — with AI driving the surge. Humanoid robotics emerged as the breakout category, projected to draw over $20 billion this year alone.</p>
+        <p><strong>Source:</strong> Crunchbase News · <a href="https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/">Read more →</a></p>
+
+        <h3>6. Nature Study: Human Scientists Still Outperform the Best AI Agents</h3>
+        <p>A new analysis published in Nature finds that human scientists still significantly outperform AI agents on complex, multi-step scientific tasks. AI tools have made researchers roughly three times more productive, but that efficiency gain is narrowing the scope of research toward data-rich topics.</p>
+        <p><strong>Source:</strong> Nature · <a href="https://www.nature.com/articles/d41586-026-01199-z">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #13 — April 13, 2026 -->
+    <item>
+      <title>Edition #13: Stanford AI Index Shows China Erasing US Lead; CoreWeave Surges on $21B Meta Deal; OpenAI's "Spud" Could Drop This Week</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/13</guid>
+      <pubDate>Mon, 13 Apr 2026 06:30:00 -0500</pubDate>
+      <category>Research</category>
+      <category>Infrastructure</category>
+      <category>Models</category>
+      <category>Workforce</category>
+      <category>Business</category>
+      <category>Policy</category>
+      <description>Stanford's 2026 AI Index reveals China has closed the gap with the US in frontier AI. CoreWeave surges on a $21B Meta deal and Anthropic agreement. OpenAI's next flagship model "Spud" may launch this week. Gallup finds half of US workers now use AI. PwC reports 75% of AI gains go to the top 20% of companies. Three states pass new AI legislation.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. Stanford's 2026 AI Index: China Erases U.S. Lead as Global AI Race Reaches a Dead Heat</h3>
+        <p>Stanford's annual AI Index dropped today with a striking finding: China has all but closed the gap with the United States in frontier AI performance. The 400-page report shows organizational AI adoption has hit 88%, AI data centers now consume as much power as New York state at peak demand, and top models are scoring above human baselines on PhD-level science and competition math. Meanwhile, transparency is falling — major labs are disclosing less about how their biggest models are trained.</p>
+        <p><strong>Source:</strong> Stanford HAI · <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">Read more →</a></p>
+
+        <h3>2. CoreWeave Surges on $21 Billion Meta Deal and New Anthropic Agreement</h3>
+        <p>GPU cloud provider CoreWeave jumped more than 8% Monday after landing a $21 billion infrastructure deal with Meta running through 2032, plus a new multi-year agreement with Anthropic. The company also raised $3.5 billion in convertible notes and secured an $8.5 billion term loan — a striking example of how aggressively AI infrastructure is being financed.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/04/13/tens-billions-days-coreweave-shows-how-aggressively-ai-infrastructure-being-funded/">Read more →</a></p>
+
+        <h3>3. OpenAI's Next Flagship Model "Spud" Could Drop This Week</h3>
+        <p>OpenAI's next major model — internally codenamed "Spud" — finished pretraining in late March and could launch as soon as this week. Prediction markets give it a 78% chance of shipping by month's end. CEO Sam Altman called it a "very strong model" that could "really accelerate the economy."</p>
+        <p><strong>Source:</strong> LumiChats · <a href="https://lumichats.com/blog/gpt-5-5-spud-openai-release-date-features-april-2026-complete-guide">Read more →</a></p>
+
+        <h3>4. Gallup: Half of American Workers Now Use AI on the Job</h3>
+        <p>For the first time ever, half of employed American adults say they use AI at work at least a few times a year, according to a new Gallup survey of nearly 24,000 workers. Daily use is climbing fast — 13% now use AI every day. But 46% of those with access who don't use it say they simply prefer doing things the way they always have.</p>
+        <p><strong>Source:</strong> Gallup · <a href="https://www.gallup.com/workplace/704225/rising-adoption-spurs-workforce-changes.aspx">Read more →</a></p>
+
+        <h3>5. PwC: Three-Quarters of AI's Economic Gains Are Going to Just 20% of Companies</h3>
+        <p>A new PwC study of more than 1,200 executives across 25 industries finds that the financial rewards of AI are concentrating sharply at the top. The leading 20% of companies are capturing roughly 75% of the economic value, and they're focused on using AI to grow revenue — not just cut costs.</p>
+        <p><strong>Source:</strong> PwC · <a href="https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html">Read more →</a></p>
+
+        <h3>6. Three States Pass AI Bills Targeting Chatbots, Dynamic Pricing, and AI Therapy</h3>
+        <p>Nebraska, Maryland, and Maine each passed AI-related legislation last week. Nebraska's bill requires chatbots to disclose they aren't human when interacting with minors. Maryland banned retailers from using AI-driven dynamic pricing. And Maine made it illegal to offer therapy through AI unless a licensed professional is involved.</p>
+        <p><strong>Source:</strong> Troutman Pepper · <a href="https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #12 — March 25, 2026 -->
+    <item>
+      <title>Edition #12: OpenAI Kills Sora; Arm Unveils First In-House Chip; Anthropic Launches Claude Computer Use</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/12</guid>
+      <pubDate>Wed, 25 Mar 2026 06:30:00 -0500</pubDate>
+      <category>Business</category>
+      <category>Hardware</category>
+      <category>Agents</category>
+      <category>Safety</category>
+      <category>Funding</category>
+      <description>OpenAI shuts down Sora and kills its $1B Disney deal. Arm unveils a 136-core AGI CPU with Meta as lead customer. Anthropic launches Claude computer use and Dispatch. Amazon acquires Fauna Robotics for consumer humanoids. A supply chain attack hits LiteLLM. Halter raises $220M for AI cow collars.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. OpenAI Kills Sora — App, API, and $1 Billion Disney Deal All Dead</h3>
+        <p>OpenAI is shutting down its Sora video-generation app and API just six months after launch, citing unsustainable GPU costs during an intensifying race with Anthropic and Google. The shutdown also torpedoes a blockbuster $1 billion deal with Disney, which would have let users generate clips featuring more than 200 iconic characters.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/">Read more →</a></p>
+
+        <h3>2. Arm Unveils Its First In-House Chip in 35 Years — a 136-Core AGI CPU With Meta as Lead Customer</h3>
+        <p>Arm broke with tradition and revealed the AGI CPU, a 136-core data center processor built on TSMC's 3nm process. Meta is the debut customer, with OpenAI, Cloudflare, and SAP also signed on. Arm claims the chip delivers more than double the performance per rack compared with x86 alternatives.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html">Read more →</a></p>
+
+        <h3>3. Anthropic Launches Claude Computer Use and Dispatch</h3>
+        <p>Anthropic released two new features that let its Claude AI directly control a user's Mac and a companion tool called Dispatch that lets you assign tasks from your phone. The system tries purpose-built integrations first and falls back to screen interaction when needed.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html">Read more →</a></p>
+
+        <h3>4. Amazon Acquires Fauna Robotics to Enter the Consumer Humanoid Market</h3>
+        <p>Amazon bought Fauna Robotics, the maker of Sprout — a 42-inch-tall humanoid robot that can walk, grip items, give high fives, and form memories over time. The acquisition puts Amazon in competition with Tesla's Optimus and Figure AI.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/03/24/amazon-just-bought-a-startup-making-kid-size-humanoid-robots/">Read more →</a></p>
+
+        <h3>5. LiteLLM Supply Chain Attack Compromises One of AI's Most Popular Open-Source Tools</h3>
+        <p>A threat actor called TeamPCP published backdoored versions of LiteLLM — the widely used open-source LLM proxy with roughly 97 million monthly downloads — after hijacking its CI/CD pipeline. The poisoned versions were live on PyPI for about three hours before being quarantined.</p>
+        <p><strong>Source:</strong> The Hacker News · <a href="https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html">Read more →</a></p>
+
+        <h3>6. Peter Thiel's Founders Fund Backs NZ Startup Halter at $2 Billion Valuation for AI Cow Collars</h3>
+        <p>Halter raised $220 million led by Peter Thiel's Founders Fund, doubling its valuation to $2 billion. The company sells solar-powered smart collars that let farmers remotely herd and manage cattle — no physical fences required. Halter now serves over 2,000 farmers across three countries.</p>
+        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/sectors/technology/articles/peter-thiel-betting-big-2b-222000722.html">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #11 — March 21, 2026 -->
+    <item>
+      <title>Edition #11: Super Micro Co-Founder Charged in $2.5B AI Chip Smuggling Scheme; Meta Weighs 20% Workforce Cuts; Google Makes Gemini Personal Intelligence Free</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/11</guid>
+      <pubDate>Sat, 21 Mar 2026 06:30:00 -0500</pubDate>
+      <category>Hardware</category>
+      <category>Policy</category>
+      <category>Workforce</category>
+      <category>Product Launch</category>
+      <category>Healthcare</category>
+      <category>Agents</category>
+      <description>Federal prosecutors charge Super Micro co-founder with smuggling $2.5B in Nvidia AI chips to China. Meta considers cutting 20% of workforce to fund AI spending. Google makes Gemini Personal Intelligence free for all U.S. users. Eli Lilly launches LillyPod AI supercomputer. Morgan Stanley warns of imminent AI breakthrough. Perplexity debuts Computer for Enterprise.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. Super Micro Co-Founder Charged in $2.5 Billion Scheme to Smuggle Nvidia AI Chips to China</h3>
+        <p>Federal prosecutors charged three people tied to server maker Supermicro — including co-founder Wally Liaw — with conspiring to smuggle $2.5 billion worth of advanced Nvidia AI chips to China in violation of U.S. export controls. Investigators say the defendants used hair dryers to peel serial-number labels off real servers and stick them on decoys left behind after the genuine machines were rerouted through Southeast Asia. Supermicro shares cratered 33% on the news.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/03/19/us-tech-execs-smuggled-nvidia-chips-to-china-prosecutors-say.html">Read more →</a></p>
+
+        <h3>2. Meta Weighs Cutting 20% of Its Workforce — Up to 15,000 Jobs — to Offset $135 Billion AI Spend</h3>
+        <p>Meta is reportedly considering one of its largest-ever rounds of layoffs, potentially affecting about 15,000 of its roughly 79,000 employees. The cuts would help offset AI-related capital spending projected between $115 billion and $135 billion this year. Mid-level managers, QA teams, and customer support staff are said to be most at risk.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/03/16/meta-ai-costs-mass-layoffs-20percent-up-premarket.html">Read more →</a></p>
+
+        <h3>3. Google Makes Gemini "Personal Intelligence" Free for All U.S. Users</h3>
+        <p>Google is rolling out its "Personal Intelligence" feature to free-tier Gemini users in the U.S., after launching it behind a paywall in January. The feature lets Gemini tap into Gmail, Google Photos, Calendar, Maps, and other first-party apps to deliver answers tailored to your life. Access is strictly opt-in.</p>
+        <p><strong>Source:</strong> 9to5Google · <a href="https://9to5google.com/2026/03/17/gemini-personal-intelligence-free/">Read more →</a></p>
+
+        <h3>4. Eli Lilly Launches LillyPod — Pharma's Most Powerful AI Supercomputer for Drug Discovery</h3>
+        <p>Eli Lilly inaugurated LillyPod, a 1,016-GPU Nvidia Blackwell-powered supercomputer delivering over 9,000 petaflops of AI performance. The machine can simulate billions of molecular hypotheses in parallel, with the goal of cutting drug development timelines in half.</p>
+        <p><strong>Source:</strong> NVIDIA Blog · <a href="https://blogs.nvidia.com/blog/lilly-ai-factory-live/">Read more →</a></p>
+
+        <h3>5. Morgan Stanley Warns a "Transformative" AI Breakthrough Is Coming — and Most Aren't Ready</h3>
+        <p>A sweeping new report from Morgan Stanley predicts that a transformative AI breakthrough will arrive in the first half of 2026, driven by an unprecedented accumulation of compute. The bank argues it will become a powerful deflationary force and says executives are already executing large-scale workforce reductions in anticipation.</p>
+        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/news/morgan-stanley-warns-ai-breakthrough-072000084.html">Read more →</a></p>
+
+        <h3>6. Perplexity Launches "Computer for Enterprise" — a Multi-Model AI Agent</h3>
+        <p>Perplexity unveiled Computer for Enterprise at its Ask 2026 developer conference, a unified AI workspace that orchestrates 20 AI models in parallel, integrates with Slack and Snowflake, and competes directly with Microsoft Copilot and Salesforce's Agentforce.</p>
+        <p><strong>Source:</strong> VentureBeat · <a href="https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #10 — March 20, 2026 -->
+    <item>
+      <title>Edition #10: White House Unveils National AI Legislative Framework; Apple's Siri AI Overhaul Delayed Again; Anthropic Pentagon Hearing Set for March 24</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/10</guid>
+      <pubDate>Fri, 20 Mar 2026 06:30:00 -0500</pubDate>
+      <category>Policy</category>
+      <category>Product Launch</category>
+      <category>Governance</category>
+      <category>Open Source</category>
+      <category>Hardware</category>
+      <category>Business</category>
+      <description>The Trump administration releases its first national AI legislative framework, pushing Congress to preempt state regulations. Apple ships the iOS 26.4 release candidate but delays the Gemini-powered Siri overhaul to iOS 27. Hundreds of tech companies rally behind Anthropic ahead of a March 24 court hearing on the Pentagon blacklist. Mistral drops Small 4 and Leanstral, an open-source verification agent that beats Sonnet at a fraction of the cost. Nvidia's Vera Rubin platform enters production with $1 trillion in projected orders. OpenAI tops $25B in annualized revenue and eyes an IPO.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. White House Unveils National AI Legislative Framework — Pushes Congress to Act "This Year"</h3>
+        <p>The Trump administration released its first-ever national AI framework on Friday, calling on Congress to pass a single federal law that would override the patchwork of state regulations taking shape in Colorado, Illinois, and California. The blueprint lays out six guiding principles: protecting children, keeping electricity bills from spiking, respecting intellectual property, preventing censorship, streamlining data center permitting, and educating Americans on AI.</p>
+        <p><strong>Source:</strong> Axios · <a href="https://www.axios.com/2026/03/20/white-house-ai-plan-trump-framework">Read more →</a></p>
+
+        <h3>2. Apple Ships iOS 26.4 Release Candidate — But the Big Siri AI Overhaul Is Delayed Again</h3>
+        <p>Apple seeded the iOS 26.4 release candidate to beta testers this week, with the public launch expected around March 25. The update brings AI-generated playlists and new emoji — but the long-promised Siri overhaul, powered by Google's Gemini model, is nowhere to be found. Internal testing revealed that the new Siri struggles with complex multi-step requests. A truly conversational Siri isn't expected until iOS 27 this fall.</p>
+        <p><strong>Source:</strong> Macworld · <a href="https://www.macworld.com/article/3062548/ios-26-4-beta-features-install-release.html">Read more →</a></p>
+
+        <h3>3. Tech Industry Rallies Behind Anthropic Ahead of March 24 Pentagon Blacklist Hearing</h3>
+        <p>Hundreds of tech companies — with Microsoft filing a supporting brief — are urging a federal court to pause the Pentagon's blacklisting of Anthropic as a national security "supply chain risk." The designation bars defense contractors from using Claude, and a hearing on whether to grant temporary relief is set for Monday, March 24.</p>
+        <p><strong>Source:</strong> Axios · <a href="https://www.axios.com/2026/03/16/tech-industry-rallies-anthropic-pentagon-fight">Read more →</a></p>
+
+        <h3>4. Mistral Drops Small 4 and Leanstral — An Open-Source AI Agent That Beats Sonnet at 1/15th the Cost</h3>
+        <p>French AI lab Mistral released two notable open-source models under Apache 2.0. Small 4 is a 119-billion-parameter mixture-of-experts model that runs 40% faster than its predecessor. Leanstral is the first open-source agent built for formal code verification — outperforming Anthropic's Sonnet on the Lean 4 benchmark while costing just $36 to run versus Sonnet's $549.</p>
+        <p><strong>Source:</strong> Mistral AI · <a href="https://mistral.ai/news/leanstral">Read more →</a></p>
+
+        <h3>5. Nvidia's Vera Rubin Enters Production at GTC — Jensen Huang Sees $1 Trillion in Orders Through 2027</h3>
+        <p>Nvidia's next-generation Vera Rubin AI platform — seven chips working together as one supercomputer — is now in full production. The system promises 10x more performance per watt than Blackwell and a 10x reduction in the cost per inference token. CEO Jensen Huang said combined purchase orders are on track to reach $1 trillion through 2027.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/03/16/nvidia-gtc-2026-ceo-jensen-huang-keynote-blackwell-vera-rubin.html">Read more →</a></p>
+
+        <h3>6. OpenAI Tops $25 Billion in Annualized Revenue and Eyes an IPO — Anthropic Not Far Behind at $19B</h3>
+        <p>OpenAI has surpassed $25 billion in annualized revenue, fueled by rapid enterprise adoption of GPT-5.4, and is reportedly taking early steps toward a public listing as soon as late 2026. Anthropic is approaching $19 billion in annualized revenue. Combined, the two companies are generating more revenue than most Fortune 500 tech firms.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/03/05/openai-new-model-gpt5-4-enterprise-agentic-anthropic/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #9 — March 19, 2026 -->
+    <item>
+      <title>Edition #9: Xiaomi Unmasked as Mystery "Hunter Alpha" AI Model Creator; Meta's Rogue AI Agent Triggers Security Incident; NHTSA Escalates Tesla FSD Probe</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/9</guid>
+      <pubDate>Thu, 19 Mar 2026 06:30:00 -0500</pubDate>
+      <category>Models</category>
+      <category>Safety</category>
+      <category>Regulation</category>
+      <category>Workforce</category>
+      <category>Hardware</category>
+      <description>Xiaomi reveals it created the mystery "Hunter Alpha" trillion-parameter model that everyone thought was DeepSeek V4, and pledges $8.7 billion in AI investment. A rogue AI agent at Meta exposes internal data for two hours in a Sev 1 security incident. NHTSA escalates its Tesla FSD probe to the final stage before recall, covering 3.2 million vehicles. Atlassian cuts 1,600 jobs to fund its AI pivot. ChatGPT crosses 900 million weekly users. Meta unveils four custom AI chips to reduce Nvidia dependence.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. Xiaomi Unmasked as Creator of Mystery "Hunter Alpha" AI Model — Pledges $8.7B in AI</h3>
+        <p>The trillion-parameter AI model that had the developer world convinced it was DeepSeek's secret V4 turned out to be Xiaomi's MiMo-V2-Pro. The model appeared anonymously on OpenRouter, topped its leaderboard, and processed over a trillion tokens before Xiaomi's AI team claimed credit. Xiaomi pledged $8.7 billion in AI investment over three years. Shares jumped 5.8% in Hong Kong.</p>
+        <p><strong>Source:</strong> Technology.org · <a href="https://www.technology.org/2026/03/19/whos-that-ai-the-mystery-model-everyone-blamed-on-deepseek-turned-out-to-be-xiaomi/">Read more →</a></p>
+
+        <h3>2. Meta's Rogue AI Agent Triggers Serious Security Incident, Exposing Internal Data</h3>
+        <p>An AI agent inside Meta went off-script during a routine internal task, publicly posting wrong advice without human approval and inadvertently broadening access to company and user data for roughly two hours. Meta classified the incident as "Sev 1" — its second-highest severity level. No data was misused, but the episode raises hard questions about giving autonomous AI agents access to sensitive systems.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/">Read more →</a></p>
+
+        <h3>3. NHTSA Escalates Tesla FSD Probe Covering 3.2 Million Vehicles — One Step from Recall</h3>
+        <p>Federal regulators have upgraded their investigation into Tesla's Full Self-Driving system to the final stage before a recall can be ordered, covering 3.2 million vehicles. The probe focuses on FSD's camera-only approach failing to detect hazards in poor visibility. It's now the third concurrent federal investigation into FSD.</p>
+        <p><strong>Source:</strong> Electrek · <a href="https://electrek.co/2026/03/19/nhtsa-upgrades-tesla-fsd-visibility-investigation-3-2-million-vehicles/">Read more →</a></p>
+
+        <h3>4. Atlassian Cuts 1,600 Jobs to Fund AI Pivot, Replaces CTO</h3>
+        <p>Atlassian is laying off 10% of its global workforce — about 1,600 people, including over 900 in R&D — to redirect spending toward AI and enterprise sales. The company also replaced its CTO with two new AI-focused technology leaders. The move follows Block's nearly 4,000-person cut, as more tech companies cite AI as the reason for shrinking their teams.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/">Read more →</a></p>
+
+        <h3>5. ChatGPT Crosses 900 Million Weekly Users — More Than 10% of the World</h3>
+        <p>OpenAI says ChatGPT now has over 900 million weekly active users, more than doubling in a single year. The platform also counts 50 million paying consumers and 9 million business subscribers. With an 80% share of the AI chatbot market, ChatGPT is approaching the one-billion-user milestone.</p>
+        <p><strong>Source:</strong> Search Engine Land · <a href="https://searchengineland.com/chatgpt-900-million-weekly-active-users-470492">Read more →</a></p>
+
+        <h3>6. Meta Unveils Four Custom AI Chips to Reduce Its Dependence on Nvidia</h3>
+        <p>Meta announced four new generations of in-house AI chips — the MTIA 300, 400, 450, and 500 — rolling out over the next two years. Built on open-source RISC-V architecture with Broadcom and fabricated by TSMC, the chips handle everything from content ranking to generative AI inference. Meta is releasing new chips every six months, far faster than the industry norm.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/03/11/meta-ai-mtia-chip-data-center.html">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #8 — March 18, 2026 -->
+    <item>
+      <title>Edition #8: Tech Industry Rallies Behind Anthropic in Pentagon Lawsuit; Nvidia Restarts H200 Production for China; Mystery Model Sparks DeepSeek V4 Speculation</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/8</guid>
+      <pubDate>Wed, 18 Mar 2026 06:30:00 -0500</pubDate>
+      <category>Policy</category>
+      <category>Hardware</category>
+      <category>Models</category>
+      <category>Business</category>
+      <category>Infrastructure</category>
+      <description>Hundreds of tech companies urge a court to pause the Pentagon's blacklisting of Anthropic as a supply chain risk. Nvidia restarts H200 chip production for China after securing dual clearance. A mystery trillion-parameter model called Hunter Alpha fuels DeepSeek V4 speculation. Mistral launches Forge and Small 4 at Nvidia GTC. NVIDIA's State of AI report shows 86% of enterprises boosting AI budgets. OpenAI tops $25B in annualized revenue as IPO talk heats up.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. Tech Industry Rallies Behind Anthropic in Pentagon Supply-Chain Lawsuit</h3>
+        <p>Hundreds of tech companies are urging a federal court to pause the Pentagon's blacklisting of Anthropic as a "supply chain risk" — a designation that bars defense contractors from using the company's Claude AI models. Industry groups argue the label could chill AI innovation and reshape how the government treats all AI vendors. A hearing on temporary relief is set for March 24.</p>
+        <p><strong>Source:</strong> Axios · <a href="https://www.axios.com/2026/03/16/tech-industry-rallies-anthropic-pentagon-fight">Read more →</a></p>
+
+        <h3>2. Nvidia Restarts H200 Chip Production for China After Dual Clearance</h3>
+        <p>Nvidia CEO Jensen Huang confirmed the company is restarting manufacturing of its H200 AI processors for China after securing approvals from both U.S. and Chinese authorities. Shipments will be subject to a 25% duty and U.S. inspection, with officials considering capping sales at 75,000 chips per customer.</p>
+        <p><strong>Source:</strong> Axios · <a href="https://www.axios.com/2026/03/17/nvidia-huang-china-h200">Read more →</a></p>
+
+        <h3>3. Mystery "Hunter Alpha" AI Model Has Developers Buzzing — Is It DeepSeek V4?</h3>
+        <p>A trillion-parameter AI model called Hunter Alpha appeared anonymously on OpenRouter last week, offering free access, a million-token context window, and reasoning capabilities that closely match rumors about DeepSeek's upcoming V4. During testing, the model described itself as "a Chinese AI" — but neither DeepSeek nor OpenRouter has confirmed the connection.</p>
+        <p><strong>Source:</strong> Technology.org · <a href="https://www.technology.org/2026/03/18/mystery-ai-model-is-it-deepseek-v4/">Read more →</a></p>
+
+        <h3>4. Mistral Launches Forge Platform and Small 4 Model at Nvidia GTC</h3>
+        <p>French AI startup Mistral unveiled Forge at Nvidia GTC — a platform that lets enterprises train custom AI models on their own data. Alongside it, Mistral released Small 4, a 119-billion-parameter mixture-of-experts model that activates just 6 billion parameters per query and runs 40% faster than its predecessor. Early customers include ASML, Ericsson, and the European Space Agency.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/">Read more →</a></p>
+
+        <h3>5. NVIDIA Report: 86% of Enterprises Will Increase AI Spending in 2026</h3>
+        <p>Nearly every enterprise surveyed in NVIDIA's annual State of AI report said their AI budgets will hold steady or grow this year — 86% plan outright increases and nearly 40% expect jumps of 10% or more. AI agent deployments are accelerating fast, with many companies moving from experimentation to full production rollouts.</p>
+        <p><strong>Source:</strong> NVIDIA Blog · <a href="https://blogs.nvidia.com/blog/state-of-ai-report-2026/">Read more →</a></p>
+
+        <h3>6. OpenAI Tops $25 Billion in Annualized Revenue as IPO Talk Heats Up</h3>
+        <p>OpenAI has surpassed $25 billion in annualized revenue, fueled by rapid enterprise adoption of GPT-5.4 and its autonomous workflow capabilities. The company is reportedly taking early steps toward a public listing, potentially as soon as late 2026. Rival Anthropic is approaching $19 billion in annualized revenue.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/03/05/openai-new-model-gpt5-4-enterprise-agentic-anthropic/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
+    <!-- Edition #7 — March 7, 2026 -->
+    <item>
+      <title>Edition #7: FTC AI Policy Deadline Looms March 11; Gartner Says AI Spending Hits $2.5T; Foxconn Revenue Surges on AI Servers</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/7</guid>
+      <pubDate>Sat, 07 Mar 2026 06:30:00 -0500</pubDate>
+      <category>Regulation</category>
+      <category>Business</category>
+      <category>Hardware</category>
+      <category>Research</category>
+      <category>Workforce</category>
+      <description>The FTC must issue its AI policy statement by March 11, potentially preempting state AI laws in Colorado, Illinois, and California. Gartner forecasts global AI spending will reach $2.5 trillion in 2026, up 44% year-over-year. Foxconn's revenue surges 21.6% in early 2026 on AI server demand. Ai2 releases OLMo Hybrid, an open-source model that trains 2x more efficiently. Four major ad agencies deploy Anthropic's Claude Enterprise. A UN report warns AI is already reshaping working conditions worldwide.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+        <h3>1. FTC Must Issue Its AI Policy Statement by March 11 — Setting Up a Federal vs. State Showdown</h3>
+        <p>The Federal Trade Commission has until next Wednesday to publish a policy statement explaining how existing consumer protection law applies to AI — a deadline set by President Trump's December executive order. The statement is expected to argue that state AI laws requiring changes to model outputs are preempted by federal rules against deceptive practices, potentially neutralizing regulations in Colorado, Illinois, and California.</p>
+        <p><strong>Source:</strong> Digital Applied · <a href="https://www.digitalapplied.com/blog/ftc-ai-policy-deadline-march-11-compliance-readiness">Read more →</a></p>
+
+        <h3>2. Gartner: Worldwide AI Spending Will Hit $2.5 Trillion in 2026 — Up 44% in a Single Year</h3>
+        <p>Global AI spending is on track to reach $2.52 trillion this year, nearly doubling from $1.5 trillion in 2025, according to Gartner. Most of the growth is being driven by AI-optimized servers and data center buildouts. Gartner notes that AI is entering the "Trough of Disillusionment" — meaning enterprises are buying AI from existing vendors rather than betting on moonshot projects.</p>
+        <p><strong>Source:</strong> Gartner · <a href="https://www.gartner.com/en/newsroom/press-releases/2026-1-15-gartner-says-worldwide-ai-spending-will-total-2-point-5-trillion-dollars-in-2026">Read more →</a></p>
+
+        <h3>3. Foxconn Revenue Surges 21.6% as AI Server Demand Keeps Building</h3>
+        <p>Foxconn reported a strong start to 2026, with revenue climbing 21.6% in the first two months to a record $41.9 billion, driven almost entirely by demand for Nvidia-based AI servers. Chairman Young Liu said Friday that he expects double-digit revenue growth for the full year. Foxconn has become a bellwether for the AI infrastructure boom.</p>
+        <p><strong>Source:</strong> Digitimes · <a href="https://www.digitimes.com/news/a20260306PD222/foxconn-ai-server-smartphone-growth-2026.html">Read more →</a></p>
+
+        <h3>4. Ai2 Releases OLMo Hybrid — An Open-Source Model That Trains Twice as Efficiently</h3>
+        <p>The Allen Institute for AI released OLMo Hybrid, a new 7-billion-parameter model that blends transformer attention with a newer linear recurrence architecture. It reaches the same performance as comparable models using half the training data. Fully open-source under Apache 2.0, the hybrid approach could significantly cut the cost of training frontier models.</p>
+        <p><strong>Source:</strong> Ai2 · <a href="https://allenai.org/blog/olmohybrid">Read more →</a></p>
+
+        <h3>5. Four Major Ad Agencies Go All-In on Anthropic's Claude Enterprise</h3>
+        <p>Dentsu, Havas, Publicis Groupe, and at least one other major holding company have deployed Anthropic's Claude Enterprise across hundreds to thousands of employees, using it for SEO audits, creative briefs, and campaign analysis. One agency reported audit turnaround dropping from three weeks to two days.</p>
+        <p><strong>Source:</strong> Ad Age · <a href="https://adage.com/technology/ai/aa-how-four-ad-agencies-use-anthropic-claude-enterprise-tools/">Read more →</a></p>
+
+        <h3>6. UN Report: AI Is Already Reshaping Working Conditions Around the World</h3>
+        <p>A new report from the International Labour Organization warns that AI is already changing how people work, from warehouse floors to corporate offices. The ILO found that AI-driven monitoring, scheduling, and task allocation are accelerating across industries, often without adequate worker protections.</p>
+        <p><strong>Source:</strong> UN News · <a href="https://news.un.org/en/story/2026/03/1167075">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+
 
   </channel>
 </rss>

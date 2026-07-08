@@ -1,57 +1,65 @@
-# AI Daily Blast — Edition #3
-## Monday, March 2, 2026
+# AI Daily Blast — Edition #22
+## Tuesday, July 7, 2026
 
-**Subject line:** AI Daily Blast #3: OpenAI's Pentagon Deal; China Matches Claude at 1/20th Cost; $700B Infrastructure Boom
+**Subject line:** AI Daily Blast #22: Meta's New Image Generator, DeepSeek's Secret Chip, SK Hynix's $28B US Listing
 
-**Preview text:** OpenAI steps in where Anthropic wouldn't — plus the staggering scale of the AI buildout.
-
----
-
-### 1. OpenAI Strikes Deal With Pentagon After Anthropic Refused Over Ethics Concerns
-
-OpenAI has reached a deal with the U.S. Department of Defense to deploy its AI technology in a classified network — stepping in after Anthropic declined over ethical concerns about military AI use. CEO Sam Altman said the Pentagon agreed that OpenAI's tech won't be used for domestic mass surveillance or autonomous weapons, but the deal marks a major shift in Big AI's relationship with the military.
-
-[Read more at Al Jazeera →](https://www.aljazeera.com/news/2026/2/28/openai-strikes-deal-with-pentagon-to-use-tech-in-classified-network)
+**Preview text:** Plus: the first ransomware attack run by an AI agent, and Anthropic overtakes OpenAI in revenue.
 
 ---
 
-### 2. China's MiniMax Matches Top U.S. AI at 1/20th the Cost — and Anthropic Cries Foul
+### 1. Meta Launches Muse, Its First Home-Grown AI Image Generator
 
-Shanghai-based MiniMax released its M2.5 model, which matches Anthropic's flagship Claude Opus 4.6 on key coding benchmarks at roughly 5% of the cost. But Anthropic is fighting back, accusing MiniMax and two other Chinese labs of creating over 24,000 fake accounts to train their models on Claude's outputs — reigniting the debate over AI intellectual property across borders.
+Meta rolled out Muse Image, the first AI image model built entirely by its new Superintelligence Labs, and is wiring it directly into Meta AI, Instagram, and soon WhatsApp and Facebook. The tool can blend your own photos into new creations — think restored family pictures, Renaissance-style portraits, or a redesigned living room — and will power more than 30 visual effects across Meta's apps. Rather than launching a separate AI app, Meta is betting on putting image generation in front of the 3 billion people who already use its products every day.
 
-[Read more at VentureBeat →](https://venturebeat.com/technology/minimaxs-new-open-m2-5-and-m2-5-lightning-near-state-of-the-art-while)
-
----
-
-### 3. Fei-Fei Li's World Labs Raises $1B to Build AI That Understands the Physical World
-
-World Labs, the startup from legendary AI researcher Fei-Fei Li, closed a $1 billion funding round — the largest ever for spatial AI. Autodesk alone invested $200 million. The company is building AI that can perceive and reason about 3D environments, with its first product already letting users create immersive 3D worlds from text or images.
-
-[Read more at TechCrunch →](https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/)
+[Read more at TechCrunch →](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)
 
 ---
 
-### 4. Oracle Plans to Raise $50 Billion This Year for AI Data Center Empire
+### 2. China's DeepSeek Is Quietly Building Its Own AI Chip
 
-Oracle announced plans to raise up to $50 billion this year through debt and equity to fund a massive AI data center buildout. The company is racing to serve a who's-who client list that includes Nvidia, Meta, OpenAI, and xAI — but its stock has been cut in half since September as investors question whether the aggressive expansion will pay off.
+Chinese AI lab DeepSeek is developing its own chip for running AI models, according to a Reuters report, a move aimed at cutting its dependence on both Nvidia and Huawei. The company has reportedly spent about a year in talks with chip design and manufacturing partners and has been hiring chip engineers. The news nudged Nvidia's stock down, and it underscores a bigger trend: nearly every major AI player now wants to own the silicon its models run on.
 
-[Read more at Data Center Knowledge →](https://www.datacenterknowledge.com/infrastructure/oracle-eyes-50-billion-for-ai-infrastructure-in-2026)
-
----
-
-### 5. Blackstone Launches Public Vehicle to Let Everyday Investors Bet on AI Data Centers
-
-Investment giant Blackstone is launching a publicly traded acquisition company focused on snapping up AI data centers, opening the door for everyday investors to bet on the AI infrastructure boom. The move comes as Nvidia's Jensen Huang estimates that $3 to $4 trillion will flow into AI infrastructure by the end of the decade.
-
-[Read more at Bloomberg →](https://www.bloomberg.com/news/articles/2026-02-27/blackstone-plans-public-company-for-ai-data-center-buying-spree)
+[Read more at Reuters →](https://www.usnews.com/news/top-news/articles/2026-07-07/exclusive-chinas-deepseek-developing-its-own-ai-chip-sources-say)
 
 ---
 
-### 6. Tech Giants Plan to Spend Nearly $700 Billion on AI Infrastructure in 2026
+### 3. Memory Chip Giant SK Hynix Kicks Off a $28 Billion US Listing
 
-Amazon, Google, and Meta alone plan to spend nearly $700 billion on data center projects this year. Highlights include OpenAI's $10 billion "Hyperion" site in Louisiana, xAI's $20 billion Mississippi facility, and the $500 billion Stargate joint venture — underscoring that the AI boom has become, above all, an infrastructure story.
+SK Hynix, the South Korean company that makes the high-bandwidth memory chips inside most cutting-edge AI systems, is seeking to raise about $28 billion in a US stock listing on the Nasdaq. Its shares have already soared roughly 260% this year as memory became one of the tightest bottlenecks in AI computing, pushing the company's value past $1 trillion. The proceeds will fund new factories and advanced chipmaking equipment — a sign the AI infrastructure buildout is still accelerating.
 
-[Read more at TechCrunch →](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/)
+[Read more at TechCrunch →](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)
+
+---
+
+### 4. Researchers Document the First Ransomware Attack Run by an AI Agent
+
+Security firm Sysdig published a detailed analysis of "JadePuffer," an attack in which an AI agent — not a human at a keyboard — broke into a company's systems, stole credentials, found the most valuable database, encrypted it, and demanded a ransom. The agent adapted in real time, fixing its own failed attempts within seconds and firing off more than 600 distinct actions. A human still picked the target and set the attack in motion, but researchers say it's the clearest sign yet that AI is lowering the bar for sophisticated cybercrime.
+
+[Read more at BleepingComputer →](https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/)
+
+---
+
+### 5. Anthropic Overtakes OpenAI in Revenue as the AI Race Tightens
+
+Anthropic, the company behind Claude, has passed OpenAI in annualized revenue — on track for $47 billion versus OpenAI's $25–33 billion — and says it will turn a profit a year earlier, in 2029. ChatGPT's share of consumer AI traffic has also slipped below half the market for the first time as people grow more willing to switch between chatbots. For the first time since ChatGPT launched, OpenAI's lead in the AI race looks contested rather than assumed.
+
+[Read more at Fortune →](https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/)
+
+---
+
+### 6. The Growing List of 2026 Tech Layoffs That Name-Check AI
+
+TechCrunch is keeping a running tally of major tech layoffs this year where companies explicitly pointed to AI as a reason — and the list keeps getting longer, including Microsoft's cut of roughly 3,200 jobs in its Xbox division. Whether AI is truly replacing the work or serving as convenient cover for cost-cutting is hotly debated. Either way, "because of AI" has become one of the defining phrases of this year's job market.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+
+---
+
+### 7. Zuckerberg Tells Staff AI Agents Are Moving Slower Than He Hoped
+
+In an internal address, Mark Zuckerberg admitted that AI agents — programs meant to complete multi-step tasks on their own — haven't advanced as quickly as he expected. It's a notable dose of candor from a CEO who has spent billions hiring top AI researchers and reorganizing Meta around superintelligence. The comment echoes a broader industry reality check: today's agents are useful, but still far from the autonomous digital workers the hype promised.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)
 
 ---
 
