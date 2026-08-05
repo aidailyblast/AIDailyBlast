@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 31 Jul 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,48 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+
+    <!-- Edition #31 — August 4, 2026 -->
+    <item>
+      <title>Edition #31: Amazon Joins the $3 Trillion Club; Nuclear Startup Valar Atomics Raises $1B; Texas Freezes Data Center Grid Approvals</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/31</guid>
+      <pubDate>Tue, 04 Aug 2026 06:30:00 -0500</pubDate>
+      <category>Business</category>
+      <category>Infrastructure</category>
+      <description>Amazon becomes the fifth company to top a $3 trillion market value as AI drives its cloud business to a $169 billion run rate; nuclear startup Valar Atomics raises $1 billion at a $6 billion valuation to power AI data centers; Texas freezes new data center grid approvals pending an audit; CrowdStrike reports AI-enabled cyberattacks jumped 89% in a year; Apple's long-awaited Siri overhaul finally arrives to muted applause; Palantir's Alex Karp calls the AI industry "Marxist" after a blowout quarter; and ChatGPT emerges as Congress's favorite AI tool.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Amazon Joins the $3 Trillion Club as AI Powers Its Cloud to Record Growth</h3>
+        <p>Amazon became just the fifth company in history to top a $3 trillion market value on Monday, after a blowout quarter in which its AWS cloud business grew 37% — the fastest pace in more than four years — to an annualized $169 billion. CEO Andy Jassy said the company's AI and chip businesses have each passed $25 billion in annual revenue run rate, and Amazon raised its planned 2026 capital spending to $220 billion. The milestone underscores where the AI boom's money is really flowing: to the companies renting out the computing power behind it.</p>
+        <p><strong>Source:</strong> U.S. News / Reuters · <a href="https://www.usnews.com/news/top-news/articles/2026-08-03/amazon-enters-3-trillion-club-as-ai-optimism-sweeps-through-wall-street">Read more →</a></p>
+
+        <h3>2. Nuclear Startup Valar Atomics Raises $1 Billion to Power AI Data Centers</h3>
+        <p>Valar Atomics landed a $1 billion round led by Sequoia's Shaun Maguire, valuing the nuclear startup at $6 billion. The company wants to build small reactors dedicated to feeding power-hungry AI data centers. It's the clearest sign yet that AI's massive electricity appetite is redirecting billions of investment dollars into energy — not just chips and software.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/">Read more →</a></p>
+
+        <h3>3. Texas Freezes New Data Center Grid Approvals Pending an Audit</h3>
+        <p>Texas has paused approvals for connecting new data centers to its power grid while the state audits the projects already in the pipeline. Texas has been one of the biggest winners of the AI data center boom, so a freeze there matters far beyond state lines. It's a reminder that the physical limits of the power grid — not chips or capital — may be the AI industry's tightest bottleneck.</p>
+        <p><strong>Source:</strong> The Texas Tribune · <a href="https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/">Read more →</a></p>
+
+        <h3>4. AI-Enabled Cyberattacks Jumped 89% in the Past Year, CrowdStrike Reports</h3>
+        <p>Security firm CrowdStrike's annual threat hunting report found that attacks using AI surged 89% year over year, with North Korean operatives among the most aggressive adopters — including poisoning 131 open-source software packages that developers download and reuse. In short: hackers are embracing AI at least as quickly as the companies trying to stop them.</p>
+        <p><strong>Source:</strong> CrowdStrike · <a href="https://www.crowdstrike.com/en-us/press-releases/crowdstrike-2026-threat-hunting-report/">Read more →</a></p>
+
+        <h3>5. Apple Finally Fixed Siri — So Why Does It Feel Anticlimactic?</h3>
+        <p>After years of delays, Apple's long-promised AI overhaul of Siri has arrived, and early reviews say it genuinely works. The catch: rivals like ChatGPT and Gemini moved so far ahead in the meantime that a competent Siri now feels like table stakes rather than a triumph. For hundreds of millions of iPhone owners, though, it's still the biggest upgrade the assistant has ever had.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/">Read more →</a></p>
+
+        <h3>6. After a Killer Quarter, Palantir CEO Alex Karp Calls the AI Industry 'Marxist'</h3>
+        <p>Palantir posted another blowout quarter, and CEO Alex Karp celebrated in characteristic fashion — by lobbing rhetorical grenades, this time branding much of the AI industry "Marxist." Beneath the theatrics is a real business story: Palantir keeps converting the corporate rush to deploy AI into rapidly growing revenue, making it one of the boom's biggest winners.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/">Read more →</a></p>
+
+        <h3>7. Congress's Favorite AI Tool? ChatGPT</h3>
+        <p>ChatGPT has quietly become the AI tool of choice on Capitol Hill, where lawmakers and their staff are increasingly using it for everyday work. The same institution debating how to regulate AI is now leaning on it to get things done — a dynamic worth watching as new AI rules take shape in Washington.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
 
     <!-- Edition #30 — July 31, 2026 -->
     <item>
@@ -612,47 +654,6 @@
       ]]></content:encoded>
     </item>
 
-    <!-- Edition #13 — April 13, 2026 -->
-    <item>
-      <title>Edition #13: Stanford AI Index Shows China Erasing US Lead; CoreWeave Surges on $21B Meta Deal; OpenAI's "Spud" Could Drop This Week</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/13</guid>
-      <pubDate>Mon, 13 Apr 2026 06:30:00 -0500</pubDate>
-      <category>Research</category>
-      <category>Infrastructure</category>
-      <category>Models</category>
-      <category>Workforce</category>
-      <category>Business</category>
-      <category>Policy</category>
-      <description>Stanford's 2026 AI Index reveals China has closed the gap with the US in frontier AI. CoreWeave surges on a $21B Meta deal and Anthropic agreement. OpenAI's next flagship model "Spud" may launch this week. Gallup finds half of US workers now use AI. PwC reports 75% of AI gains go to the top 20% of companies. Three states pass new AI legislation.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. Stanford's 2026 AI Index: China Erases U.S. Lead as Global AI Race Reaches a Dead Heat</h3>
-        <p>Stanford's annual AI Index dropped today with a striking finding: China has all but closed the gap with the United States in frontier AI performance. The 400-page report shows organizational AI adoption has hit 88%, AI data centers now consume as much power as New York state at peak demand, and top models are scoring above human baselines on PhD-level science and competition math. Meanwhile, transparency is falling — major labs are disclosing less about how their biggest models are trained.</p>
-        <p><strong>Source:</strong> Stanford HAI · <a href="https://hai.stanford.edu/ai-index/2026-ai-index-report">Read more →</a></p>
-
-        <h3>2. CoreWeave Surges on $21 Billion Meta Deal and New Anthropic Agreement</h3>
-        <p>GPU cloud provider CoreWeave jumped more than 8% Monday after landing a $21 billion infrastructure deal with Meta running through 2032, plus a new multi-year agreement with Anthropic. The company also raised $3.5 billion in convertible notes and secured an $8.5 billion term loan — a striking example of how aggressively AI infrastructure is being financed.</p>
-        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/04/13/tens-billions-days-coreweave-shows-how-aggressively-ai-infrastructure-being-funded/">Read more →</a></p>
-
-        <h3>3. OpenAI's Next Flagship Model "Spud" Could Drop This Week</h3>
-        <p>OpenAI's next major model — internally codenamed "Spud" — finished pretraining in late March and could launch as soon as this week. Prediction markets give it a 78% chance of shipping by month's end. CEO Sam Altman called it a "very strong model" that could "really accelerate the economy."</p>
-        <p><strong>Source:</strong> LumiChats · <a href="https://lumichats.com/blog/gpt-5-5-spud-openai-release-date-features-april-2026-complete-guide">Read more →</a></p>
-
-        <h3>4. Gallup: Half of American Workers Now Use AI on the Job</h3>
-        <p>For the first time ever, half of employed American adults say they use AI at work at least a few times a year, according to a new Gallup survey of nearly 24,000 workers. Daily use is climbing fast — 13% now use AI every day. But 46% of those with access who don't use it say they simply prefer doing things the way they always have.</p>
-        <p><strong>Source:</strong> Gallup · <a href="https://www.gallup.com/workplace/704225/rising-adoption-spurs-workforce-changes.aspx">Read more →</a></p>
-
-        <h3>5. PwC: Three-Quarters of AI's Economic Gains Are Going to Just 20% of Companies</h3>
-        <p>A new PwC study of more than 1,200 executives across 25 industries finds that the financial rewards of AI are concentrating sharply at the top. The leading 20% of companies are capturing roughly 75% of the economic value, and they're focused on using AI to grow revenue — not just cut costs.</p>
-        <p><strong>Source:</strong> PwC · <a href="https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-2026-ai-performance-study.html">Read more →</a></p>
-
-        <h3>6. Three States Pass AI Bills Targeting Chatbots, Dynamic Pricing, and AI Therapy</h3>
-        <p>Nebraska, Maryland, and Maine each passed AI-related legislation last week. Nebraska's bill requires chatbots to disclose they aren't human when interacting with minors. Maryland banned retailers from using AI-driven dynamic pricing. And Maine made it illegal to offer therapy through AI unless a licensed professional is involved.</p>
-        <p><strong>Source:</strong> Troutman Pepper · <a href="https://www.troutmanprivacy.com/2026/04/proposed-state-ai-law-update-april-13-2026/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
 
   </channel>
 </rss>
