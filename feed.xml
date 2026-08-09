@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,48 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+
+    <!-- Edition #36 — August 9, 2026 -->
+    <item>
+      <title>Edition #36: Amazon's Texas Data Center Could Become America's Biggest Climate Polluter; OpenAI Acquires NextSlide; Tesla and SpaceX's $16.8B Chip Factory</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/36</guid>
+      <pubDate>Sun, 09 Aug 2026 06:30:00 -0500</pubDate>
+      <category>Energy</category>
+      <category>Business</category>
+      <description>Amazon's planned Texas data center includes an on-site gas plant permitted to emit 33 million tons of CO2 a year — more than any US power plant; OpenAI reveals it quietly acquired presentation startup NextSlide; a New Mexico court orders Meta to pay an additional $567 million in its child safety case; Tesla and SpaceX commit $16.8 billion to a "Terafab" chip factory in Texas; OpenAI's smart speaker will reportedly cost $300 to $400; Airbnb says AI is helping it ship features faster; and Gen Z dating apps ditch swiping for AI matchmaking.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Amazon's Planned Texas Data Center Could Become America's Biggest Climate Polluter</h3>
+        <p>Amazon is investing in an on-site natural gas power plant for a planned data center in Pecos County, Texas that is permitted to release 33 million tons of carbon dioxide per year — more than any other power plant in the United States, according to a New York Times report. Amazon says the plant "won't raise electricity costs for Texas families," but the company's carbon emissions were already up 16% last year, the wrong direction for a company that pledged to hit net zero by 2040. It's the starkest example yet of the AI boom colliding with climate promises.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/">Read more →</a></p>
+
+        <h3>2. OpenAI Quietly Acquired Presentation Startup NextSlide</h3>
+        <p>OpenAI has acquired NextSlide, a startup whose product turns prompts, notes, and documents into polished, editable presentations — and its team is now working on ChatGPT. Founder Ahmed Beshry revealed the deal actually closed "earlier this year" but is only being announced now; terms weren't disclosed. It's another sign OpenAI wants ChatGPT to do the office work people currently do in PowerPoint.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/">Read more →</a></p>
+
+        <h3>3. New Mexico Court Orders Meta to Pay an Additional $567 Million in Child Safety Case</h3>
+        <p>A New Mexico court has ordered Meta to pay another $567 million in the state's long-running child safety case, adding to earlier penalties over failures to protect young users on its platforms. The ruling lands as courts and regulators sharpen their focus on how tech companies' algorithms and AI systems affect minors. For Meta, the bill for putting growth ahead of child safety keeps climbing.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/">Read more →</a></p>
+
+        <h3>4. Tesla and SpaceX Are Betting $16.8 Billion on a 'Terafab' Chip Factory in Texas</h3>
+        <p>Elon Musk's Tesla and SpaceX will jointly invest $16.8 billion to start building "Terafab," a massive chip factory in Texas aimed at securing their own supply of AI and automotive chips. The move would make Musk's companies far less dependent on outside chipmakers at a moment when everyone in tech is scrambling for silicon. One wrinkle: the facility is set to run on natural gas power plants, not Tesla solar panels.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/">Read more →</a></p>
+
+        <h3>5. OpenAI's AI Smart Speaker Will Reportedly Sell for $300 to $400</h3>
+        <p>OpenAI's first smart speaker will reportedly be priced between $300 and $400 — a premium bet that people will pay Sonos money for a ChatGPT-powered device in their living room. The speaker is part of OpenAI's push into consumer hardware, putting it on a collision course with Amazon's Echo and Google's Nest lines. The AI assistant wars are moving from your phone to your kitchen counter.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/">Read more →</a></p>
+
+        <h3>6. Airbnb Says AI Is Helping It Ship Features Faster</h3>
+        <p>Airbnb CEO Brian Chesky says AI tools are speeding up how quickly the company can build and ship new features, including a new search function it's currently testing. It's a notable real-world data point in the debate over whether AI actually makes companies more productive — from a household-name company rather than an AI vendor with something to sell. The takeaway: AI is quietly changing how big tech companies build software, not just what they sell.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/">Read more →</a></p>
+
+        <h3>7. Gen Z Dating Apps Are Ditching Swiping for AI Matchmaking</h3>
+        <p>A new wave of dating apps aimed at Gen Z, like Ditto, is abandoning the endless swipe in favor of AI matchmakers that learn what you actually want and make introductions for you. The pitch: less time judging profile photos, more time on dates that might work. After a decade of swipe fatigue, the dating industry is betting AI can succeed where the algorithmic feed failed.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
 
     <!-- Edition #31 — August 4, 2026 -->
     <item>
@@ -609,48 +651,6 @@
         <h3>7. NVIDIA Unveils Ising — Open-Source Quantum AI Models for Building Quantum Processors</h3>
         <p>NVIDIA announced Ising, a new family of open-source AI models designed to accelerate the development of quantum processors. The models serve as an AI control plane for quantum hardware, helping engineers design and optimize quantum chips using machine learning.</p>
         <p><strong>Source:</strong> CIO · <a href="https://www.cio.com/article/4158418/nvidia-announces-quantum-ai-models.html">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-
-    <!-- Edition #14 — April 14, 2026 -->
-    <item>
-      <title>Edition #14: OpenAI Leadership Split on IPO; NVIDIA Opens Robotics with GR00T N1.6; Cloudflare Expands Agent Cloud</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/14</guid>
-      <pubDate>Tue, 14 Apr 2026 06:30:00 -0500</pubDate>
-      <category>Business</category>
-      <category>Hardware</category>
-      <category>Infrastructure</category>
-      <category>Models</category>
-      <category>Funding</category>
-      <category>Research</category>
-      <description>OpenAI’s CEO and CFO are publicly split on IPO timing as losses mount to $14B. NVIDIA releases open GR00T N1.6 model for humanoid robots. Cloudflare launches major Agent Cloud expansion. Meta’s Muse Spark enters frontier AI territory. Q1 2026 venture funding hits a record $300B. Nature finds human scientists still outperform AI agents.</description>
-      <content:encoded><![CDATA[
-        <h2>Today’s Blast — 6 Stories</h2>
-
-        <h3>1. OpenAI’s Leadership Is Split on IPO Timing as the Company Burns Through Billions</h3>
-        <p>Sam Altman wants OpenAI to go public as soon as Q4 2026, but CFO Sarah Friar is pumping the brakes. The problem: OpenAI is on track to lose $14 billion this year despite hitting $25 billion in annualized revenue, and has committed to $600 billion in cloud spending over the next five years. At a potential $850 billion valuation, it would be one of the largest tech IPOs in history.</p>
-        <p><strong>Source:</strong> WinBuzzer · <a href="https://winbuzzer.com/2026/04/06/openai-ceo-cfo-split-ipo-timing-14b-loss-forecast-xcxwbn/">Read more →</a></p>
-
-        <h3>2. NVIDIA Opens Up Robotics with New Isaac GR00T N1.6 Foundation Model</h3>
-        <p>For National Robotics Week, NVIDIA released Isaac GR00T N1.6, an open foundation model that lets humanoid robots understand natural language and carry out complex, multi-step tasks. The company also launched Isaac Sim 6.0 and partnered with Hugging Face to bring its robotics tools to 13 million developers.</p>
-        <p><strong>Source:</strong> NVIDIA Blog · <a href="https://blogs.nvidia.com/blog/national-robotics-week-2026/">Read more →</a></p>
-
-        <h3>3. Cloudflare Expands Agent Cloud to Power the Agentic Web</h3>
-        <p>Cloudflare launched a major expansion of its Agent Cloud, including Dynamic Workers that spin up AI-generated code in milliseconds — 100 times faster than traditional containers. The platform now supports millions of concurrent agent executions with built-in security.</p>
-        <p><strong>Source:</strong> SiliconANGLE · <a href="https://siliconangle.com/2026/04/13/cloudflare-expands-agent-cloud-new-tools-build-scale-ai-agents/">Read more →</a></p>
-
-        <h3>4. Meta’s Muse Spark Takes on Frontier AI with Multi-Agent “Contemplating” Mode</h3>
-        <p>Meta’s first model from its new Superintelligence Labs is now live. Muse Spark’s headline feature is “Contemplating” mode — multiple AI agents reasoning in parallel. It scored 58% on Humanity’s Last Exam, putting it in frontier territory. Unlike Meta’s traditionally open approach, Muse Spark is proprietary.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/">Read more →</a></p>
-
-        <h3>5. Q1 2026 Shatters Venture Funding Records at $300 Billion</h3>
-        <p>Investors poured $300 billion into 6,000 startups globally in Q1 2026 — up more than 150% year over year — with AI driving the surge. Humanoid robotics emerged as the breakout category, projected to draw over $20 billion this year alone.</p>
-        <p><strong>Source:</strong> Crunchbase News · <a href="https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/">Read more →</a></p>
-
-        <h3>6. Nature Study: Human Scientists Still Outperform the Best AI Agents</h3>
-        <p>A new analysis published in Nature finds that human scientists still significantly outperform AI agents on complex, multi-step scientific tasks. AI tools have made researchers roughly three times more productive, but that efficiency gain is narrowing the scope of research toward data-rich topics.</p>
-        <p><strong>Source:</strong> Nature · <a href="https://www.nature.com/articles/d41586-026-01199-z">Read more →</a></p>
       ]]></content:encoded>
     </item>
 
