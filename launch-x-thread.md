@@ -1,35 +1,29 @@
-# AI Daily Blast — Edition #36 X Thread
-## Sunday, August 9, 2026
+# AI Daily Blast — Edition #43 X Thread
+## Wednesday, August 26, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 7 stories (Edition #36):
-
-- Amazon's data center could become America's biggest climate polluter
-- OpenAI quietly bought a presentation startup
-- Meta hit with another $567M child safety penalty
-- Musk's $16.8B chip factory
-…and more 🧵
+Today on AI Daily Blast — 7 stories (Edition #43):
 
 ### Post 2
-1/ Amazon's planned Texas data center comes with an on-site gas plant permitted to emit 33 MILLION tons of CO2/year — more than any power plant in the US (per NYT). Amazon's emissions were already up 16% last year, despite its 2040 net-zero pledge.
+1/ OpenAI published the first benchmarks for Jalapeño, the inference chip it built in-house. It claims 1.5–1.9x more AI work per watt than Nvidia's Blackwell. Analysts say the comparison is flattering — but it still edges out Nvidia's next-gen platform.
 
 ### Post 3
-2/ OpenAI quietly acquired NextSlide, a startup that turns prompts and docs into polished presentations. The deal closed months ago — only announced now. The team is working on ChatGPT. PowerPoint, watch your back.
+2/ Meta will pay up to $16.68B to settle claims from 29 states that it designed Facebook and Instagram to hook teens. It also agreed to 2-hour daily caps for under-18s and a midnight–6am lockout. Stock rose 4%.
 
 ### Post 4
-3/ A New Mexico court ordered Meta to pay an ADDITIONAL $567M in the state's child safety case, stacking on earlier penalties. Courts keep raising the price of putting growth ahead of protecting kids.
+3/ Nvidia reports earnings after the bell. Analysts expect $92–95B in revenue, ~$86B of it from data centers. Since nearly every AI company buys its chips, the number doubles as an industry health check.
 
 ### Post 5
-4/ Tesla and SpaceX will invest $16.8B to start building "Terafab," a giant Texas chip factory to secure their own AI and automotive silicon. Wrinkle: it'll run on natural gas plants, not Tesla solar.
+4/ Amazon is shutting down Mechanical Turk on Sept 30 after 21 years. It paid people pennies per task to label the data that trained early machine learning. A 2023 study found ~46% of remaining workers were using AI to do the tasks.
 
 ### Post 6
-5/ OpenAI's first smart speaker will reportedly sell for $300–400. That's Sonos money for a ChatGPT in your living room — and a direct shot at Amazon Echo and Google Nest.
+5/ Emerald AI raised $150M at a $1.05B valuation for software that lets AI data centers flex their power draw with grid conditions. It says that flexibility could free up 100+ GW on the existing US grid. Nvidia and Siemens invested.
 
 ### Post 7
-6/ Airbnb CEO Brian Chesky says AI is helping the company ship features faster, including a new search function in testing. A real productivity data point from a household name — not an AI vendor with something to sell.
+6/ Gatik raised $200M for driverless trucking. It skips open-ended city driving for fixed warehouse-to-store routes for PepsiCo, Walmart, and Kroger — 85,000 driverless deliveries and $600M+ in contracted revenue so far.
 
 ### Post 8
-7/ Gen Z dating apps like Ditto are ditching swiping for AI matchmakers that learn what you want and make the intros. After a decade of swipe fatigue, AI plays cupid.
+7/ China's Moonshot AI is in talks with Microsoft, Amazon, and Google to host its Kimi K3 model, reportedly asking for up to 30% of revenue. It would be the first major revenue-share between a Chinese AI lab and a US cloud giant.
 
 ### Post 9 (CTA)
 That's today's AI Daily Blast.
