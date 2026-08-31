@@ -1,29 +1,29 @@
-# AI Daily Blast — Edition #43 X Thread
-## Wednesday, August 26, 2026
+# AI Daily Blast — Edition #45 X Thread
+## Monday, August 31, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 7 stories (Edition #43):
+Today on AI Daily Blast — 7 stories (Edition #45):
 
 ### Post 2
-1/ OpenAI published the first benchmarks for Jalapeño, the inference chip it built in-house. It claims 1.5–1.9x more AI work per watt than Nvidia's Blackwell. Analysts say the comparison is flattering — but it still edges out Nvidia's next-gen platform.
+1/ DeepSeek is closing a ~$7.4B round at a $74B valuation, per WSJ and SCMP — and eyeing a Shanghai STAR Market listing. The lab that proved AI could be built cheaply now needs billions to keep up.
 
 ### Post 3
-2/ Meta will pay up to $16.68B to settle claims from 29 states that it designed Facebook and Instagram to hook teens. It also agreed to 2-hour daily caps for under-18s and a midnight–6am lockout. Stock rose 4%.
+2/ NPR and NewsGuard tested 6 chatbots against 30 false narratives from China, Iran and Russia. They debunked them ~75% of the time — beating traditional search engines.
 
 ### Post 4
-3/ Nvidia reports earnings after the bell. Analysts expect $92–95B in revenue, ~$86B of it from data centers. Since nearly every AI company buys its chips, the number doubles as an industry health check.
+3/ California's legislature adjourns tonight with ~30 AI bills in play: chatbot safety for kids, algorithmic management, healthcare disclosure, copyright. Newsom has until Sept 30 to sign or veto.
 
 ### Post 5
-4/ Amazon is shutting down Mechanical Turk on Sept 30 after 21 years. It paid people pennies per task to label the data that trained early machine learning. A 2023 study found ~46% of remaining workers were using AI to do the tasks.
+4/ Australia's nine governments agreed to one national rulebook for big data centres: underwrite your own new power, pay full grid connection costs, curtail on demand, be water efficient. Legislation expected early next year.
 
 ### Post 6
-5/ Emerald AI raised $150M at a $1.05B valuation for software that lets AI data centers flex their power draw with grid conditions. It says that flexibility could free up 100+ GW on the existing US grid. Nvidia and Siemens invested.
+5/ The FTC finalized penalties over an "Active Listening" AI ad product that claimed to overhear you through smart devices. It didn't. The firms were reselling data-broker email lists. $930K + 20 years of oversight.
 
 ### Post 7
-6/ Gatik raised $200M for driverless trucking. It skips open-ended city driving for fixed warehouse-to-store routes for PepsiCo, Walmart, and Kroger — 85,000 driverless deliveries and $600M+ in contracted revenue so far.
+6/ Stability AI raised $76M — backed by Universal, Sony, Warner Music and EA. The labels that sued generative AI are now investing in it.
 
 ### Post 8
-7/ China's Moonshot AI is in talks with Microsoft, Amazon, and Google to host its Kimi K3 model, reportedly asking for up to 30% of revenue. It would be the first major revenue-share between a Chinese AI lab and a US cloud giant.
+7/ ZipRecruiter surveyed 1,000+ hiring managers: 92% use AI. 38% moved basic data work off junior staff. 31% raised experience requirements for entry-level roles. The career ladder's rungs are spreading apart.
 
 ### Post 9 (CTA)
 That's today's AI Daily Blast.

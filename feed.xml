@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,8 +18,94 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+    <!-- Edition #45 — Monday, August 31, 2026 -->
+    <item>
+      <title>Edition #45: DeepSeek Nears a $7.4 Billion Raise at a $74 Billion Valuation, With a Shanghai IPO in Sight; NPR Tested Six Chatbots Against Foreign Propaganda. They Did Better Than Expected; California&#x27;s Legislature Adjourns Today With Two Dozen AI Bills Still Unfinished</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/45</guid>
+      <pubDate>Mon, 31 Aug 2026 06:30:00 -0500</pubDate>
+      <category>Funding</category>
+      <category>Business</category>
+      <category>Research</category>
+      <category>Ethics</category>
+      <description>Edition #45 — Monday, August 31, 2026. DeepSeek Nears a $7.4 Billion Raise at a $74 Billion Valuation, With a Shanghai IPO in Sight. NPR Tested Six Chatbots Against Foreign Propaganda. They Did Better Than Expected. California&#x27;s Legislature Adjourns Today With Two Dozen AI Bills Still Unfinished. Australia Signs Off on Mandatory Power and Water Rules for Big AI Data Centres. The FTC Finalizes Penalties Over an AI Ad Service That Claimed to Listen Through Your Phone. Stability AI Raises $76 Million From the Record Labels That Once Saw It as a Threat. AI Is Quietly Raising the Bar for Entry-Level Jobs, a Survey of 1,000 Hiring Managers Finds.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
 
-    <!-- Edition #43 — August 26, 2026 -->
+        <h3>1. DeepSeek Nears a $7.4 Billion Raise at a $74 Billion Valuation, With a Shanghai IPO in Sight</h3>
+        <p>The Chinese lab that stunned the industry last year by building competitive AI models on a shoestring is now raising roughly $7.4 billion at a $74 billion pre-money valuation, according to the Wall Street Journal and South China Morning Post. DeepSeek is reportedly adding about a gigawatt of computing capacity and could file to list on Shanghai's STAR Market as soon as the end of this year. The irony is hard to miss: the company that proved AI could be built cheaply now needs billions to keep competing.</p>
+        <p><strong>Source:</strong> Tech Startups · <a href="https://techstartups.com/2026/08/28/deepseek-nears-7-4-billion-funding-round-at-74-billion-valuation-ahead-of-2027-ipo/">Read more →</a></p>
+
+        <h3>2. NPR Tested Six Chatbots Against Foreign Propaganda. They Did Better Than Expected</h3>
+        <p>NPR and the ratings firm NewsGuard built 30 questions around false narratives pushed by China, Iran and Russia, then put them to ChatGPT, Gemini, Copilot, Meta AI, Grok and Claude, alongside four search engines. The chatbots correctly flagged the falsehoods about three-quarters of the time, outperforming the search engines. Researchers noted the phrasing mattered: asking &ldquo;did this happen?&rdquo; got better answers than assuming it had.</p>
+        <p><strong>Source:</strong> NPR · <a href="https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda">Read more →</a></p>
+
+        <h3>3. California's Legislature Adjourns Today With Two Dozen AI Bills Still Unfinished</h3>
+        <p>Lawmakers in Sacramento worked through the weekend ahead of tonight's deadline, with around 30 AI-related bills in play covering chatbot safety for kids, algorithmic management of workers, healthcare disclosure and copyright protection for creative work. Only a handful have cleared both chambers so far. Anything that passes lands on Governor Newsom's desk, and he has until September 30 to sign or veto.</p>
+        <p><strong>Source:</strong> Pluribus News · <a href="https://pluribusnews.com/news-and-events/the-ai-bills-to-watch-before-california-legislators-adjourn/">Read more →</a></p>
+
+        <h3>4. Australia Signs Off on Mandatory Power and Water Rules for Big AI Data Centres</h3>
+        <p>All nine of Australia's governments agreed to a single national rulebook for large data centres, with obligations to underwrite their own new power supply, cover their full grid connection costs so household bills are not affected, dial back consumption when the grid is strained, and meet water efficiency standards. Canberra also stood up a new Office of AI to coordinate policy. The standards are expected to be legislated early next year.</p>
+        <p><strong>Source:</strong> Clayton Utz · <a href="https://www.claytonutz.com/insights/2026/august/nine-governments-one-rulebook-national-cabinet-backs-mandatory-ai-and-data-centre-standards">Read more →</a></p>
+
+        <h3>5. The FTC Finalizes Penalties Over an AI Ad Service That Claimed to Listen Through Your Phone</h3>
+        <p>Cox Media Group and two partner firms marketed an &ldquo;Active Listening&rdquo; product they said used AI to overhear conversations picked up by smart devices and target ads accordingly. Regulators found it did nothing of the sort. The companies were actually reselling email lists bought from data brokers at a markup, and now owe $930,000 and face 20 years of FTC oversight.</p>
+        <p><strong>Source:</strong> Federal Trade Commission · <a href="https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-finalizes-orders-cox-media-group-two-other-firms-settling-charges-they-deceived-customers-about">Read more →</a></p>
+
+        <h3>6. Stability AI Raises $76 Million From the Record Labels That Once Saw It as a Threat</h3>
+        <p>The company behind Stable Diffusion closed a $76 million Series B backed in part by Universal Music Group, Sony Music, Warner Music and the game publisher Electronic Arts. It is a notable turn for a firm that spent years fighting copyright suits from rights holders. The money suggests entertainment giants would rather help shape generative AI tools than litigate them out of existence.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/">Read more →</a></p>
+
+        <h3>7. AI Is Quietly Raising the Bar for Entry-Level Jobs, a Survey of 1,000 Hiring Managers Finds</h3>
+        <p>ZipRecruiter's annual employer report, based on a June survey of more than 1,000 recruiters and hiring managers, found 92% now use AI in some form. More telling: 38% have moved basic data work off junior staff and onto software, and 31% have raised the experience they require for entry-level roles as a result. The rungs on the career ladder are not disappearing so much as moving further apart.</p>
+        <p><strong>Source:</strong> ZipRecruiter Economic Research · <a href="https://www.ziprecruiter-research.org/economic-insights-research/ai-employer-report-2026">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+    <item>
+      <title>Edition #44: Nvidia Agrees to Buy Hugging Face, the Internet's Library of Open AI Models, for $12.9 Billion; Federal Judge Rules the Pentagon Illegally Blacklisted Anthropic; Anthropic Paper Shows AI Systems Fixing Their Own Safety Problems, Faster and Cheaper Than People</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/44</guid>
+      <pubDate>Sat, 29 Aug 2026 06:30:00 -0500</pubDate>
+      <category>Business</category>
+      <category>Policy</category>
+      <category>Research</category>
+      <category>Funding</category>
+      <category>Infrastructure</category>
+      <category>Energy</category>
+      <category>Ethics</category>
+      <description>Nvidia agrees to buy Hugging Face for $12.9 billion; a federal judge rules the Pentagon illegally blacklisted Anthropic; a new Anthropic paper shows AI systems repairing their own safety training more cheaply than human researchers; a16z raises $1.1 billion for AI hardware; Lambda borrows another $1 billion for Nvidia chips; Georgia clears a 3.2-gigawatt power deal for OpenAI's largest data center without a public vote; and Meta shuts the loophole that let its smart glasses record with the warning light covered.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Nvidia Agrees to Buy Hugging Face, the Internet's Library of Open AI Models, for $12.9 Billion</h3>
+        <p>Nvidia has agreed to acquire Hugging Face, the site where developers around the world share and download free AI models, according to The Information. The chipmaker turned down a chance to buy in at $7 billion last year; the price is now nearly double that. Owning the largest hub for open models helps Nvidia keep customers from drifting to the in-house chips that OpenAI, Google, Amazon and Anthropic are all now building.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/">Read more →</a></p>
+
+        <h3>2. Federal Judge Rules the Pentagon Illegally Blacklisted Anthropic</h3>
+        <p>A California judge found that labeling Anthropic a national security supply-chain risk was unlawful retaliation for the company's public criticism of the government, calling the move arbitrary and a violation of the First and Fifth Amendments. The designation had barred every federal agency from working with the Claude maker. A second Anthropic suit against the Defense Department is still moving through court in Washington.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/">Read more →</a></p>
+
+        <h3>3. Anthropic Paper Shows AI Systems Fixing Their Own Safety Problems, Faster and Cheaper Than People</h3>
+        <p>A new Anthropic paper describes automated researchers that read the literature, propose a fix, and retrain a model, then keep whatever works. Across ten tests for misbehavior, the system improved every score without making the model worse elsewhere. The paper puts the cost at roughly $4 an hour versus $150 for a human researcher, and says the machine's best ideas beat the humans' within six hours.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/">Read more →</a></p>
+
+        <h3>4. a16z Raises a $1.1 Billion Fund to Build the Physical Machinery Behind AI</h3>
+        <p>Andreessen Horowitz, a firm built on software bets, has raised $1.1 billion for what it calls a Machine Age fund aimed squarely at hardware: chips, memory, data centers, cooling, power and robots. The pitch is that the constraint on AI is no longer code but physical capacity. It is a notable turn for a firm that spent two decades arguing software would eat the world.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/">Read more →</a></p>
+
+        <h3>5. Lambda Borrows Another $1 Billion to Buy Nvidia Chips and Rent Them to Microsoft</h3>
+        <p>Lambda, which buys AI chips and leases computing power to other companies, has raised $1 billion in short-term private debt arranged by JPMorgan, on top of a $926 million loan closed days earlier. Banks and tech companies have now raised more than $400 billion in AI-related debt globally this year. The borrowing spree is a bet that the chips will earn back their cost before the loans come due.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/">Read more →</a></p>
+
+        <h3>6. Georgia Clears a Power Deal for OpenAI's Largest Data Center, Without a Public Vote</h3>
+        <p>Regulators let Georgia Power's contract to supply up to 3,200 megawatts to OpenAI's Effingham County campus take effect after staff review, with no commission vote. OpenAI will pay the full cost of the infrastructure and has agreed to cut its draw by up to 1,000 megawatts when the grid is strained. The utility now says revenue from large customers could save a typical household $180 a year starting in 2029.</p>
+        <p><strong>Source:</strong> CBS News Atlanta · <a href="https://www.cbsnews.com/atlanta/news/georgia-power-gets-clearance-to-serve-openais-massive-ai-data-center-in-effingham-county/">Read more →</a></p>
+
+        <h3>7. Meta Closes the Loophole That Let Its Smart Glasses Keep Recording With the Warning Light Covered</h3>
+        <p>Meta's camera glasses already refuse to start recording if the small white LED that warns bystanders is blocked, but users found they could start a recording first and cover the light afterward. An update rolling out now shuts the camera off the moment the light is obscured mid-recording. It is the second such fix this summer as camera glasses draw wider public scrutiny.</p>
+        <p><strong>Source:</strong> 9to5Google · <a href="https://9to5google.com/2026/08/28/meta-ray-ban-smart-glasses-privacy-led-loophole-update/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
     <item>
       <title>Edition #43: OpenAI Says Its Own Chip Now Beats Nvidia’s Best on Energy Efficiency; Meta Agrees to Pay Up to $16.68 Billion Over How Its Apps Treat Teenagers; Nvidia Reports Earnings Today, and Wall Street Wants to Know if the Boom Holds</title>
       <link>https://aidailyblast.com</link>
@@ -62,8 +148,6 @@
         <p><strong>Source:</strong> Quartz · <a href="https://qz.com/moonshot-ai-kimi-k3-revenue-sharing-microsoft-amazon-google-082626">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #42 — August 19, 2026 -->
     <item>
       <title>Edition #42: OpenAI Hits Pause on Frontier Training After a Model Nears “Critical” Cyber Capability; OpenAI Launches a Teen Version of ChatGPT — Years After Teens Started Using It; A 29-State Trial Over Social Media and Children’s Mental Health Opens Against Meta</title>
       <link>https://aidailyblast.com</link>
@@ -105,8 +189,6 @@
         <p><strong>Source:</strong> 9to5Mac · <a href="https://9to5mac.com/2026/08/17/airpods-with-camera-get-their-clearest-leak-yet/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #41 — August 18, 2026 -->
     <item>
       <title>Edition #41: Nvidia Invests $1.5 Billion in the Data Center Behind OpenAI's Next Mega-Site; Anthropic's Annualized Revenue Jumps to $65 Billion Ahead of a Record IPO; Amazon Is Buying Rare Books, Slicing Off the Spines, and Scanning Them to Train AI</title>
       <link>https://aidailyblast.com</link>
@@ -148,8 +230,6 @@
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #40 — August 16, 2026 -->
     <item>
       <title>Edition #40: SpaceX Closes $60B Cursor Deal; Anthropic Details Claude Watermarks; AI Agents Start a Turf War</title>
       <link>https://aidailyblast.com</link>
@@ -188,8 +268,6 @@
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #39 — August 13, 2026 -->
     <item>
       <title>Edition #39: Anthropic in Talks to Buy Decart for $6B; Vantage Weighs $100B IPO; Cognition Chases $40B Valuation</title>
       <link>https://aidailyblast.com</link>
@@ -226,8 +304,6 @@
         <p><strong>Source:</strong> The Korea Times · <a href="https://www.koreatimes.co.kr/business/tech-science/20260813/naver-invests-in-us-startup-developing-wave-powered-ai-data-centers">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #38 — August 12, 2026 -->
     <item>
       <title>Edition #38: Nvidia Recruits Wall Street for $500B AI Financing; Anthropic Watermarks Claude's Text; Intel Raises $20B</title>
       <link>https://aidailyblast.com</link>
@@ -264,8 +340,6 @@
         <p><strong>Source:</strong> Crunchbase News · <a href="https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #37 — August 11, 2026 -->
     <item>
       <title>Edition #37: Anthropic's Theseus Data Center Venture With Macquarie and GIC; Meta's Laptop-Sized Open Model; OpenAI's Hacking-Capable Model for Defenders</title>
       <link>https://aidailyblast.com</link>
@@ -302,8 +376,6 @@
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #36 — August 9, 2026 -->
     <item>
       <title>Edition #36: Amazon's Texas Data Center Could Become America's Biggest Climate Polluter; OpenAI Acquires NextSlide; Tesla and SpaceX's $16.8B Chip Factory</title>
       <link>https://aidailyblast.com</link>
@@ -344,8 +416,6 @@
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #31 — August 4, 2026 -->
     <item>
       <title>Edition #31: Amazon Joins the $3 Trillion Club; Nuclear Startup Valar Atomics Raises $1B; Texas Freezes Data Center Grid Approvals</title>
       <link>https://aidailyblast.com</link>
@@ -386,8 +456,6 @@
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #30 — July 31, 2026 -->
     <item>
       <title>Edition #30: Anthropic Admits Its AI Breached Three Companies; OpenAI Cuts Prices Up to 80%; Microsoft's Record $450B Day</title>
       <link>https://aidailyblast.com</link>
@@ -428,8 +496,6 @@
         <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #29 — July 16, 2026 -->
     <item>
       <title>Edition #29: Apple Intelligence Approved for China With Alibaba's Qwen; TSMC Profit Jumps 77% to a Record; Thinking Machines' First Open Model</title>
       <link>https://aidailyblast.com</link>
@@ -470,8 +536,6 @@
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #28 — July 15, 2026 -->
     <item>
       <title>Edition #28: New York Pauses New AI Data Centers; TSMC's Record $39.6B Quarter; xAI's Unpermitted Gas Turbines</title>
       <link>https://aidailyblast.com</link>
@@ -508,8 +572,6 @@
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #26 — July 13, 2026 -->
     <item>
       <title>Edition #26: Apple Sues OpenAI Over Trade Secrets; Anthropic Overtakes OpenAI in Revenue; Meta's C$13B Alberta Data Center</title>
       <link>https://aidailyblast.com</link>
@@ -546,90 +608,5 @@
         <p><strong>Source:</strong> TLT LLP · <a href="https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-july-2026">Read more →</a></p>
       ]]></content:encoded>
     </item>
-
-    <!-- Edition #24 — July 9, 2026 -->
-    <item>
-      <title>Edition #24: OpenAI Launches GPT-5.6 and a ChatGPT "Super App" for Work; SpaceXAI Releases Grok 4.5; Microsoft Swaps In Its Own AI in Excel and Outlook</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/24</guid>
-      <pubDate>Thu, 09 Jul 2026 06:30:00 -0500</pubDate>
-      <category>Product Launch</category>
-      <category>Models</category>
-      <category>Business</category>
-      <category>Infrastructure</category>
-      <category>Energy</category>
-      <category>Funding</category>
-      <category>Workforce</category>
-      <description>OpenAI debuts GPT-5.6 and ChatGPT Work, a "super app" agent that builds documents, presentations, and websites. SpaceXAI releases Grok 4.5, pitched as an "Opus-class" model at budget prices. Microsoft quietly routes Excel and Outlook AI prompts to its own MAI models instead of OpenAI's and Anthropic's. Chevron signs a 20-year deal to power a giant Microsoft AI campus in West Texas. Data center builder Crusoe is in talks to triple its valuation to roughly $30 billion. And June's soft jobs report keeps AI in the layoff conversation.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. OpenAI Launches GPT-5.6 and a ChatGPT "Super App" for Work</h3>
-        <p>OpenAI unveiled GPT-5.6, its new flagship model family, alongside ChatGPT Work — an agent that combines its chatbot with its Codex coding tool to build documents, presentations, and websites on its own. The launch, which had been delayed last month at the U.S. government's request over national security concerns, rolls out first to Pro, Enterprise, and Edu users. It's a direct answer to Anthropic's Claude Cowork as the two rivals race to own the office.</p>
-        <p><strong>Source:</strong> Reuters · <a href="https://money.usnews.com/investing/news/articles/2026-07-09/openai-launches-chatgpt-work">Read more →</a></p>
-
-        <h3>2. SpaceXAI Releases Grok 4.5, an "Opus-Class" Model at Budget Prices</h3>
-        <p>Elon Musk's SpaceXAI released Grok 4.5, its most capable model yet and the first since the company went public and absorbed coding startup Cursor. Musk pitched it as matching Anthropic's top-tier models while running faster and cheaper, at $2 per million input tokens. With OpenAI, SpaceXAI, and Anthropic all shipping frontier models in the same week, the AI race has rarely been this crowded at the top.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/">Read more →</a></p>
-
-        <h3>3. Microsoft Quietly Swaps OpenAI and Anthropic for Its Own AI in Excel and Outlook</h3>
-        <p>Microsoft has started routing tens of thousands of weekly Copilot prompts in Excel and Outlook — summarizing email threads, analyzing spreadsheets, drafting replies — to its own in-house MAI models instead of OpenAI's and Anthropic's. AI chief Mustafa Suleyman has been blunt about the goal: cutting what Microsoft pays other labs, eventually to zero. It's a notable crack in the industry's most famous partnership.</p>
-        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps">Read more →</a></p>
-
-        <h3>4. Chevron Signs 20-Year Deal to Power a Giant Microsoft AI Campus in Texas</h3>
-        <p>Chevron will build a dedicated power plant in West Texas to supply a planned Microsoft data center campus near Pecos under a 20-year agreement — one of the largest pairings of computing and on-site power generation in the country. The gas-fired facility is expected to deliver roughly 2.7 gigawatts, with electricity flowing by late 2028. Oil companies becoming AI's power suppliers is quickly turning from novelty to norm.</p>
-        <p><strong>Source:</strong> Data Center Knowledge · <a href="https://www.datacenterknowledge.com/build-design/chevron-lands-20-year-microsoft-deal-to-power-west-texas-ai-campus">Read more →</a></p>
-
-        <h3>5. AI Data Center Builder Crusoe in Talks to Triple Its Valuation to ~$30 Billion</h3>
-        <p>Crusoe, which builds data centers and power plants for AI customers including Meta and Oracle, is reportedly in talks to raise about $3 billion in a round that could value it near $30 billion — triple what it was worth last October. The eye-popping jump captures where investor money is flowing right now: not into chatbots, but into the land, power, and buildings that AI runs on.</p>
-        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value">Read more →</a></p>
-
-        <h3>6. June Jobs Report Lands Soft — and AI Keeps Showing Up in the Layoff Notices</h3>
-        <p>U.S. employers added just 57,000 jobs in June, roughly half of what economists expected, while labor force participation slid to its lowest level since 2021. Economists increasingly point to AI as a factor, with displacement hitting administrative, customer support, and entry-level office roles hardest. A new industry-backed coalition, RAISE US, has pledged more than $500 million toward retraining workers for the shift.</p>
-        <p><strong>Source:</strong> CNN Business · <a href="https://www.cnn.com/2026/07/02/economy/us-jobs-report-june-final">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-
-    <!-- Edition #23 — July 8, 2026 -->
-    <item>
-      <title>Edition #23: Microsoft Cuts Nearly 5,000 Jobs Across Xbox and Sales; Why Open-Source AI Isn't Hurting Anthropic — Yet; If You Use Google, You're Training Its AI</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/23</guid>
-      <pubDate>Wed, 08 Jul 2026 06:30:00 -0500</pubDate>
-      <category>Workforce</category>
-      <category>Business</category>
-      <category>Open Source</category>
-      <category>Privacy</category>
-      <category>Media</category>
-      <description>Microsoft lays off nearly 5,000 employees across Xbox and commercial sales as it pours money into AI. Cheap open-source models are everywhere, but Anthropic still commands more than half of business AI spending — for now. A quiet Google settings change means your uploads may be training its AI unless you opt out. Amazon winds down Mechanical Turk, the site where humans helped train the machines. Reddit enlists AI to fight the flood of AI-generated posts. And Midjourney asks the court to make Hollywood studios reveal their own AI usage.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. Microsoft Cuts Nearly 5,000 Jobs Across Xbox and Sales</h3>
-        <p>Microsoft is laying off close to 5,000 employees, with the cuts falling hardest on its Xbox gaming division and its commercial sales organization. The move comes as the company pours record sums into AI data centers and reshapes teams around AI products, sharpening a question hanging over the whole industry: whether massive AI budgets are being paid for with jobs. It's one of the largest single rounds of tech layoffs this year.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/">Read more →</a></p>
-
-        <h3>2. Why the Rise of Open-Source AI Isn't Hurting Anthropic — Yet</h3>
-        <p>Cheap open-source AI models, many of them from China, now handle a huge share of the world's raw AI traffic — yet Anthropic still commands more than half of business AI spending on major platforms. The reason: companies are willing to pay premium prices for reliability and top-end capability, even as free alternatives get better fast. The analysis warns that the moat is real but narrowing, making this one of the defining business questions in AI.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/">Read more →</a></p>
-
-        <h3>3. If You Use Google, You're Training Its AI — Here's How to Opt Out</h3>
-        <p>A quiet change to Google's privacy settings means the company can now store more of what you upload to its search services — including images, files, and audio and video recordings — and use it to improve its AI models unless you opt out. Most people were switched on by default and never noticed. The guide walks through exactly which settings to change if you'd rather not have your uploads become training data.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/">Read more →</a></p>
-
-        <h3>4. Amazon Is Winding Down Mechanical Turk, the Site Where Humans Trained the Machines</h3>
-        <p>Amazon will stop accepting new customers for Mechanical Turk, its two-decade-old marketplace where people around the world earned money doing small digital tasks — including the image labeling and data tagging that helped train early AI systems. The closure to new business is heavy with irony: the crowd of human workers who helped build modern AI is now being displaced by it. For many gig workers, it marks the end of an era in online work.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/">Read more →</a></p>
-
-        <h3>5. Reddit Is Using AI to Fight a Problem AI Created</h3>
-        <p>Reddit is deploying large language models — the same technology behind ChatGPT and Claude — to detect and police the flood of low-quality, AI-generated posts clogging its communities. It's a fitting twist: the tools that made it nearly free to churn out convincing fake content are now being enlisted to catch it. How well AI can referee AI may shape whether online forums stay readable at all.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/">Read more →</a></p>
-
-        <h3>6. Midjourney Wants Hollywood Studios to Reveal Their Own AI Usage</h3>
-        <p>AI image company Midjourney, locked in a copyright lawsuit with three major Hollywood studios, is asking the court to force those studios to disclose how they use AI in their own productions. The gambit aims to complicate the studios' argument that AI tools built on copyrighted work are simply infringement machines. It's the latest sign that the fight over AI and creative work is getting messier on both sides.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-
   </channel>
 </rss>
