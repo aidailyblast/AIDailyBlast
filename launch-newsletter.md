@@ -27,7 +27,7 @@ NPR and the ratings firm NewsGuard built 30 questions around false narratives pu
 
 Lawmakers in Sacramento worked through the weekend ahead of tonight's deadline, with around 30 AI-related bills in play covering chatbot safety for kids, algorithmic management of workers, healthcare disclosure and copyright protection for creative work. Only a handful have cleared both chambers so far. Anything that passes lands on Governor Newsom's desk, and he has until September 30 to sign or veto.
 
-[Read more at Pluribus News →](https://pluribusnews.com/news-and-events/the-ai-bills-to-watch-before-california-legislators-adjourn/)
+[Read more at Transparency Coalition →](https://www.transparencycoalition.ai/news/ai-legislative-update-august28-2026)
 
 ---
 
