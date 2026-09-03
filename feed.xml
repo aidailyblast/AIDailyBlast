@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,93 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+
+    <!-- Edition #47 — Thursday, September 3, 2026 -->
+    <item>
+      <title>Edition #47: Washington Sides With OpenAI in the New York Times Copyright Fight; OpenAI Says Its Next Model Is Good Enough at Hacking to Need Extra Guardrails; Anthropic Ships Cheaper Claude Models That Say No Less Often</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/47</guid>
+      <pubDate>Thu, 03 Sep 2026 06:30:00 -0500</pubDate>
+      <category>Policy</category>
+      <category>Regulation</category>
+      <category>Safety</category>
+      <category>Models</category>
+      <description>Washington backs OpenAI in the New York Times copyright case; OpenAI says its next model crosses its own critical threshold for hacking ability; Anthropic ships cheaper, less restrictive Claude models; Dell books a record $60.9 billion in AI orders; Wonderful doubles to a $5 billion valuation; McKinsey finds a third of companies skipping software purchases because AI can build it; and HiddenLayer raises $100 million to secure enterprise AI.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Washington Sides With OpenAI in the New York Times Copyright Fight</h3>
+        <p>The federal government filed a brief supporting OpenAI in the New York Times' lawsuit over training AI systems on copyrighted articles and books without permission, arguing that restricting AI training would hurt American competitiveness and scientific progress. It is not a ruling, and the government is not the one deciding the case. But it is an unusually direct intervention in a dispute that could set the rules for how every AI company sources its training material.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/">Read more →</a></p>
+
+        <h3>2. OpenAI Says Its Next Model Is Good Enough at Hacking to Need Extra Guardrails</h3>
+        <p>OpenAI disclosed that its forthcoming Astra model is the first to cross the "critical" cybersecurity line in its own risk framework, meaning it can find and exploit software flaws on its own without a human directing it. The company plans to release the model soon while restricting access to its most advanced offensive capabilities and adding new abuse monitoring. Outside researchers have not been able to verify the claims independently.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/">Read more →</a></p>
+
+        <h3>3. Anthropic Ships Cheaper Claude Models That Say No Less Often</h3>
+        <p>Anthropic released updated versions of its most capable models, Fable 5.1 and Mythos 5.1, with better performance, lower prices, and fewer cases where safety filters block harmless requests. Fable is available to everyone; Mythos stays limited to vetted cybersecurity and life-sciences partners. The company also added an option for business customers to run the models without their data leaving their own systems.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/">Read more →</a></p>
+
+        <h3>4. Dell Books a Record $60.9 Billion in AI Orders in a Single Quarter</h3>
+        <p>Dell reported $47 billion in quarterly revenue, up 58 percent, on the back of a record $60.9 billion in new AI server orders and a backlog that now sits at $95 billion. Its AI customer count jumped from 5,000 to 6,500 in three months, and the company raised full-year guidance by $25 billion. The numbers are one of the clearest signals yet that the money being spent on AI infrastructure is still accelerating, not leveling off.</p>
+        <p><strong>Source:</strong> Dell Technologies · <a href="https://www.dell.com/en-us/blog/record-results-reflect-compounding-advantages/">Read more →</a></p>
+
+        <h3>5. Wonderful Doubles Its Valuation to $5 Billion in Under Six Months</h3>
+        <p>The Israeli-Dutch startup raised $550 million led by Insight Partners, more than doubling the valuation it set in March. Founded in early 2025, Wonderful began with AI customer service agents built for non-English-speaking markets and has since expanded into a broader platform for wiring AI tools into company systems. Salesforce joined as a first-time investor.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/">Read more →</a></p>
+
+        <h3>6. A Third of Companies Skipped a Software Purchase Because AI Could Build It</h3>
+        <p>McKinsey's annual global AI survey found that nearly a third of organizations decided against buying at least one software product or feature because they could now build it in-house with AI coding tools. The share of large companies scaling AI agents in at least one business function climbed from 27 to 40 percent. The catch: 80 percent report individual productivity gains, but only 37 percent can point to actual financial impact.</p>
+        <p><strong>Source:</strong> McKinsey · <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">Read more →</a></p>
+
+        <h3>7. HiddenLayer Raises $100 Million as Companies Scramble to Secure Their AI</h3>
+        <p>The Austin startup, which builds tools to protect AI models and agents from tampering and attack, closed a $100 million round led by Delta-v Capital with Morgan Stanley, Microsoft's venture arm, and Booz Allen Hamilton participating. HiddenLayer says revenue grew more than tenfold over the past year. Analysts expect businesses to spend roughly $2.8 billion on AI security this year, up 83 percent from 2025.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+    <!-- Edition #46 — Wednesday, September 2, 2026 -->
+    <item>
+      <title>Edition #46: The Pentagon Hands ChatGPT and Grok to Three Million Military and Civilian Workers; Brussels Decides ChatGPT Is a Search Engine, and Puts It Under Europe's Strictest Rules; Anthropic Commits $35 Billion to a Single Texas Data Center</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/46</guid>
+      <pubDate>Wed, 02 Sep 2026 06:30:00 -0500</pubDate>
+      <category>Policy</category>
+      <category>Regulation</category>
+      <category>Infrastructure</category>
+      <category>Funding</category>
+      <description>Edition #46 — Wednesday, September 2, 2026. The Pentagon switched on ChatGPT Mil and Grok for Government for three million defense workers. The European Commission designated ChatGPT a Very Large Online Search Engine under the Digital Services Act. Anthropic committed $35 billion to a Lambda-run Texas data center in which Nvidia plays three roles. Sony Music Publishing and Warner Chappell sued Anthropic and named its founders personally. Runway unveiled Solaris, an interface world model that generates working software frame by frame. Clay lined up a round at a $7 billion valuation. And McKinsey found a third of companies have skipped a software purchase because AI could build it instead.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. The Pentagon Hands ChatGPT and Grok to Three Million Military and Civilian Workers</h3>
+        <p>The Defense Department switched on two new assistants — OpenAI's ChatGPT Mil and xAI's Grok for Government — inside GenAI.mil, the internal platform that already carried Google's Gemini. Roughly three million service members, civilian employees and contractors can now use them for unclassified desk work: planning, policy, logistics and the mountain of paperwork that comes with all three. Officials framed running rival models side by side as a hedge against getting locked into any single vendor.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/09/01/pentagon-chatgpt-grok-government-military-ai-members-pete-hegseth-defense-department/">Read more →</a></p>
+
+        <h3>2. Brussels Decides ChatGPT Is a Search Engine, and Puts It Under Europe's Strictest Rules</h3>
+        <p>The European Commission designated ChatGPT a &ldquo;Very Large Online Search Engine&rdquo; under the Digital Services Act, alongside new platform designations for Reddit and Roblox. The trigger was scale: OpenAI reported about 159 million average monthly users of ChatGPT search in the EU, more than triple the 45 million threshold. OpenAI has four months to comply with obligations on risk assessment, transparency and researcher access, and fines can reach 6% of global revenue.</p>
+        <p><strong>Source:</strong> European Commission · <a href="https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act">Read more →</a></p>
+
+        <h3>3. Anthropic Commits $35 Billion to a Single Texas Data Center — and Nvidia Sits on Three Sides of the Deal</h3>
+        <p>Anthropic signed a $35 billion agreement to rent computing capacity from Lambda at a roughly 350-megawatt site in Nueces County, Texas, built by former crypto miner Hut 8. Nvidia is the chip supplier, an equity backer of Lambda, and the anchor tenant on the wider campus, an arrangement critics have started calling circular financing. It lands days after Anthropic committed $45 billion to a separate West Virginia campus, putting the company's recent cloud bookings near $80 billion.</p>
+        <p><strong>Source:</strong> TechRepublic · <a href="https://www.techrepublic.com/article/news-anthropic-lambda-35-billion-cloud-deal/">Read more →</a></p>
+
+        <h3>4. Sony and Warner Sue Anthropic Over Tens of Thousands of Songs — and Name Its Founders Personally</h3>
+        <p>Sony Music Publishing and Warner Chappell filed suit in California federal court, accusing Anthropic of a &ldquo;brazen campaign&rdquo; of torrenting and scraping copyrighted compositions to train Claude, with songs from &ldquo;Hallelujah&rdquo; to &ldquo;Uptown Funk&rdquo; named in the complaint. Unusually, the filing names CEO Dario Amodei and co-founder Benjamin Mann as individual defendants. The publishers want a jury trial and up to $150,000 per infringed work, which means all three major music publishers are now litigating against the same company.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/">Read more →</a></p>
+
+        <h3>5. Runway's Solaris Skips the Code and Draws Working Software One Frame at a Time</h3>
+        <p>Runway unveiled Solaris, which it calls the first &ldquo;interface world model&rdquo; — a system that generates an app's screen live as you click, drag or speak to it, rather than writing code that a browser then renders. Everything you see is the model's output, painted frame by frame at 720p. It is not a public product yet; Runway says it is working with early partners, and the obvious question is whether software imagined on the fly can ever be reliable enough to trust.</p>
+        <p><strong>Source:</strong> Runway · <a href="https://runway.com/news/research/introducing-solaris">Read more →</a></p>
+
+        <h3>6. Clay Lines Up a Round at a $7 Billion Valuation, Its Fourth Markup in Eighteen Months</h3>
+        <p>The New York sales-automation startup agreed to new funding led by Wellington Management at a $7 billion pre-money valuation, according to Axios. Clay was worth $3.1 billion a year ago and $5 billion in January, a climb that says as much about investor appetite as about the company. The round size has not been disclosed, and it is not clear the deal has formally closed.</p>
+        <p><strong>Source:</strong> Axios · <a href="https://www.axios.com/pro/all-deals/2026/08/31/clay-7-billion-pre-money-valuation">Read more →</a></p>
+
+        <h3>7. A Third of Companies Have Skipped Buying Software Because AI Could Build It Instead</h3>
+        <p>McKinsey's annual State of AI survey found 32% of organizations passed on at least one software purchase because coding assistants made building it in-house look cheaper. Among the small group seeing real profit from AI, that figure approaches half. The catch buried in the same report: the share of companies reporting an actual earnings boost from AI has stayed flat, and one in five now says running costs are limiting how much they use it.</p>
+        <p><strong>Source:</strong> McKinsey · <a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
     <!-- Edition #45 — Monday, August 31, 2026 -->
     <item>
       <title>Edition #45: DeepSeek Nears a $7.4 Billion Raise at a $74 Billion Valuation, With a Shanghai IPO in Sight; NPR Tested Six Chatbots Against Foreign Propaganda. They Did Better Than Expected; California&#x27;s Legislature Adjourns Today With Two Dozen AI Bills Still Unfinished</title>
@@ -534,78 +621,6 @@
         <h3>7. OpenAI's Newest Product Is a $230 Keyboard for Bossing Around Your AI Agents</h3>
         <p>Amid its legal battle with Apple over hardware ambitions, OpenAI released a $230 light-up keyboard designed to pair with Codex, its AI coding assistant. The pitch: developers no longer just write code, they manage fleets of AI coding agents, and apparently that deserves dedicated hardware. Whether it's a glimpse of the agent-management future or an expensive desk ornament, it's OpenAI's clearest signal yet that it wants to be a hardware company too.</p>
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-    <item>
-      <title>Edition #28: New York Pauses New AI Data Centers; TSMC's Record $39.6B Quarter; xAI's Unpermitted Gas Turbines</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/28</guid>
-      <pubDate>Wed, 15 Jul 2026 06:30:00 -0500</pubDate>
-      <category>Policy</category>
-      <category>Infrastructure</category>
-      <description>New York becomes the first state to pause new hyperscale AI data centers; TSMC posts a record $39.6 billion quarter as AI chip demand compounds; regulators say xAI installed 59 gas turbines without federal air permits; DeepMind's CEO calls for a Wall Street-style watchdog to test frontier AI; Reflection AI signs a $1 billion-plus compute deal with Nebius; and Amazon's Mechanical Turk closes to new customers as AI replaces the crowd work that trained it.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. New York Becomes the First State to Hit Pause on New AI Data Centers</h3>
-        <p>Governor Kathy Hochul imposed a one-year moratorium on new data centers that would draw 50 megawatts or more of electricity, making New York the first state to halt hyperscale construction over concerns about power prices, water use, and strained local grids. More than 12 gigawatts of new electricity demand — much of it data centers — was already waiting to connect to New York's grid. Other states watching their utility bills climb may see this as a template.</p>
-        <p><strong>Source:</strong> Reuters · <a href="https://www.reuters.com/world/new-york-becomes-first-state-impose-data-center-moratorium-2026-07-14/">Read more →</a></p>
-
-        <h3>2. TSMC Posts a Record $39.6 Billion Quarter as AI Chip Demand Keeps Compounding</h3>
-        <p>The world's largest chipmaker reported second-quarter revenue of $39.6 billion, up 36% from a year earlier, with June alone jumping nearly 68% — the biggest month in the company's four-decade history. TSMC's advanced 3-nanometer production lines are fully booked through the end of the year by AI chip customers. Nearly every headline-grabbing AI product ultimately runs through this one company's factories.</p>
-        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/technology/articles/tsmc-q2-revenue-jumps-36-053756945.html">Read more →</a></p>
-
-        <h3>3. Regulators Say xAI Installed 59 Gas Turbines Without Federal Air Permits</h3>
-        <p>Elon Musk's xAI installed 59 natural-gas turbines to power its massive Colossus 2 data center in Tennessee without required federal clean-air permits, according to regulatory correspondence reviewed by Reuters. The pollution falls hardest on nearby, predominantly Black neighborhoods, where residents have raised health concerns. The case shows how the race to power AI is outpacing environmental rules — and who pays the price when it does.</p>
-        <p><strong>Source:</strong> Reuters · <a href="https://www.reuters.com/world/americas/pollution-musks-unpermitted-xai-power-project-hits-hardest-black-communities-2026-07-14/">Read more →</a></p>
-
-        <h3>4. DeepMind's CEO Calls for a Wall Street-Style Watchdog to Test Frontier AI</h3>
-        <p>Demis Hassabis proposed a U.S.-led standards body — modeled on the financial industry's self-regulator FINRA — to test the most advanced AI models for national-security risks like cyberattack and bioweapon capabilities before they reach the public. It's one of Google's most concrete proposals yet for external oversight of frontier AI. The open question: who runs it, who pays for it, and whether smaller labs could afford to comply.</p>
-        <p><strong>Source:</strong> Tech Startups · <a href="https://techstartups.com/2026/07/14/top-tech-news-today-july-14-2026-amazon-cloudflare-google-ibm-nvidia-samsung-xai-more/">Read more →</a></p>
-
-        <h3>5. Reflection AI Signs a $1 Billion-Plus Computing Deal With Nebius</h3>
-        <p>Reflection AI, the startup founded by former Google DeepMind researchers to build open-weight rivals to OpenAI and Anthropic, committed more than $1 billion for computing capacity from infrastructure provider Nebius — on top of a June deal with SpaceX reportedly worth $150 million a month through 2029. The lesson of 2026's AI economy: raw computing power, not just talent, is what startups now spend billions to lock down.</p>
-        <p><strong>Source:</strong> Tech Startups · <a href="https://techstartups.com/2026/07/14/top-tech-news-today-july-14-2026-amazon-cloudflare-google-ibm-nvidia-samsung-xai-more/">Read more →</a></p>
-
-        <h3>6. Amazon's Mechanical Turk Closes to New Customers — AI Ate the Work That Trained It</h3>
-        <p>Amazon will stop accepting new customers for Mechanical Turk on July 30, winding down the crowd-work platform where humans labeled images and organized data for two decades — much of it used to train the very AI systems that can now do those tasks faster and cheaper. It's a neat, slightly unsettling loop: the workers helped build the technology that's replacing them. Existing customers can keep using the service for now.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-    <item>
-      <title>Edition #26: Apple Sues OpenAI Over Trade Secrets; Anthropic Overtakes OpenAI in Revenue; Meta's C$13B Alberta Data Center</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/26</guid>
-      <pubDate>Mon, 13 Jul 2026 06:30:00 -0500</pubDate>
-      <category>Business</category>
-      <category>Regulation</category>
-      <description>Apple sues OpenAI alleging a trade secret theft scheme "at every level"; Anthropic overtakes OpenAI in revenue with a $47 billion run rate and a $965 billion valuation; Meta plans a C$13 billion Alberta data center as it moves to double compute by 2027; leaks point to a July 17 launch for Google's Gemini 3.5 Pro; Illinois passes one of the nation's most comprehensive AI safety laws; and the EU's AI transparency rules take effect August 2.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. Apple Sues OpenAI, Alleging Trade Secret Theft "At Every Level"</h3>
-        <p>Apple filed a blockbuster lawsuit against OpenAI in federal court, accusing the ChatGPT maker of orchestrating a campaign to steal confidential hardware technology as it poached more than 400 Apple employees. The complaint alleges OpenAI's hardware chief — himself a former Apple VP — encouraged interviewees to bring "actual parts" from Apple for show-and-tell sessions. It's a stunning reversal for two companies that struck a high-profile partnership just two years ago.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/">Read more →</a></p>
-
-        <h3>2. Anthropic Overtakes OpenAI in Revenue, Hitting a $47 Billion Run Rate</h3>
-        <p>Anthropic is now bringing in more money than OpenAI, with an annualized revenue run rate of roughly $47 billion against OpenAI's estimated $30 billion — a lead built largely on enterprise and developer customers rather than consumer subscriptions. The Claude maker also closed a $65 billion funding round at a $965 billion valuation, making it the world's most valuable AI company.</p>
-        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/sectors/technology/articles/anthropic-overtakes-openai-become-worlds-154558970.html">Read more →</a></p>
-
-        <h3>3. Meta Plans a C$13 Billion Alberta Data Center — Its First in Canada</h3>
-        <p>Meta will build a 1-gigawatt, AI-optimized data center north of Edmonton, a C$13 billion project that will be Canada's largest and Meta's 33rd worldwide. It's part of a bigger push: an internal memo revealed plans to double the company's total computing power by 2027, news that sent Meta's stock up more than 7%.</p>
-        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/07/08/meta-is-building-its-first-big-data-center-in-canada-amid-ai-push.html">Read more →</a></p>
-
-        <h3>4. Leaks Point to a July 17 Launch for Google's Gemini 3.5 Pro</h3>
-        <p>Google DeepMind's next flagship model is reportedly set to arrive this Thursday, featuring a 2-million-token context window — double anything on the market — and a new "deep think" reasoning layer. Leaks suggest Google rebuilt the model from scratch rather than upgrading Gemini 2.5. None of it is confirmed, but if the date holds, the frontier model race gets another entrant this week.</p>
-        <p><strong>Source:</strong> Tech Times · <a href="https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm">Read more →</a></p>
-
-        <h3>5. Illinois Passes One of the Nation's Most Comprehensive AI Safety Laws</h3>
-        <p>Illinois enacted the Artificial Intelligence Safety Measures Act, which requires developers of large-scale AI systems to disclose their safety practices, report major incidents, and take steps to reduce risks from their technology. The law takes effect January 1, 2027, and sets a bar other states are likely to study closely.</p>
-        <p><strong>Source:</strong> MyStateline · <a href="https://www.mystateline.com/news/local-news/illinois-sets-national-standard-for-ai-regulation-with-new-law/">Read more →</a></p>
-
-        <h3>6. EU's AI Transparency Rules Land August 2 — and the Final Playbook Is Out</h3>
-        <p>Core transparency obligations under the EU AI Act take effect on August 2, requiring companies to clearly label AI-generated content and tell users when they're interacting with an AI system. The European Commission has published the final version of its Code of Practice, a voluntary guide companies can follow to show they comply.</p>
-        <p><strong>Source:</strong> TLT LLP · <a href="https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-july-2026">Read more →</a></p>
       ]]></content:encoded>
     </item>
   </channel>

@@ -1,65 +1,65 @@
-# AI Daily Blast — Edition #45
-## Monday, August 31, 2026
+# AI Daily Blast — Edition #47
+## Thursday, September 3, 2026
 
-**Subject line:** AI Daily Blast #45: DeepSeek Nears $74B Valuation, Chatbots Beat Search on Propaganda, California's AI Deadline
+**Subject line:** AI Daily Blast #47: Washington backs OpenAI on copyright, Astra crosses the hacking line, Dell books $60.9B
 
-**Preview text:** A $7.4 billion round in Hangzhou, a propaganda stress test six chatbots mostly passed, and a legislature racing a midnight deadline.
-
----
-
-### 1. DeepSeek Nears a $7.4 Billion Raise at a $74 Billion Valuation, With a Shanghai IPO in Sight
-
-The Chinese lab that stunned the industry last year by building competitive AI models on a shoestring is now raising roughly $7.4 billion at a $74 billion pre-money valuation, according to the Wall Street Journal and South China Morning Post. DeepSeek is reportedly adding about a gigawatt of computing capacity and could file to list on Shanghai's STAR Market as soon as the end of this year. The irony is hard to miss: the company that proved AI could be built cheaply now needs billions to keep competing.
-
-[Read more at Tech Startups →](https://techstartups.com/2026/08/28/deepseek-nears-7-4-billion-funding-round-at-74-billion-valuation-ahead-of-2027-ipo/)
+**Preview text:** The government picked a side in the biggest copyright case in AI — and OpenAI says its next model is good enough at hacking to need extra guardrails.
 
 ---
 
-### 2. NPR Tested Six Chatbots Against Foreign Propaganda. They Did Better Than Expected
+### 1. Washington Sides With OpenAI in the New York Times Copyright Fight
 
-NPR and the ratings firm NewsGuard built 30 questions around false narratives pushed by China, Iran and Russia, then put them to ChatGPT, Gemini, Copilot, Meta AI, Grok and Claude, alongside four search engines. The chatbots correctly flagged the falsehoods about three-quarters of the time, outperforming the search engines. Researchers noted the phrasing mattered: asking "did this happen?" got better answers than assuming it had.
+The federal government filed a brief supporting OpenAI in the New York Times' lawsuit over training AI systems on copyrighted articles and books without permission, arguing that restricting AI training would hurt American competitiveness and scientific progress. It is not a ruling, and the government is not the one deciding the case. But it is an unusually direct intervention in a dispute that could set the rules for how every AI company sources its training material.
 
-[Read more at NPR →](https://www.npr.org/2026/08/30/nx-s1-5876436/chatbots-search-propaganda)
-
----
-
-### 3. California's Legislature Adjourns Today With Two Dozen AI Bills Still Unfinished
-
-Lawmakers in Sacramento worked through the weekend ahead of tonight's deadline, with around 30 AI-related bills in play covering chatbot safety for kids, algorithmic management of workers, healthcare disclosure and copyright protection for creative work. Only a handful have cleared both chambers so far. Anything that passes lands on Governor Newsom's desk, and he has until September 30 to sign or veto.
-
-[Read more at Transparency Coalition →](https://www.transparencycoalition.ai/news/ai-legislative-update-august28-2026)
+[Read more at TechCrunch →](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/)
 
 ---
 
-### 4. Australia Signs Off on Mandatory Power and Water Rules for Big AI Data Centres
+### 2. OpenAI Says Its Next Model Is Good Enough at Hacking to Need Extra Guardrails
 
-All nine of Australia's governments agreed to a single national rulebook for large data centres, with obligations to underwrite their own new power supply, cover their full grid connection costs so household bills are not affected, dial back consumption when the grid is strained, and meet water efficiency standards. Canberra also stood up a new Office of AI to coordinate policy. The standards are expected to be legislated early next year.
+OpenAI disclosed that its forthcoming Astra model is the first to cross the "critical" cybersecurity line in its own risk framework, meaning it can find and exploit software flaws on its own without a human directing it. The company plans to release the model soon while restricting access to its most advanced offensive capabilities and adding new abuse monitoring. Outside researchers have not been able to verify the claims independently.
 
-[Read more at Clayton Utz →](https://www.claytonutz.com/insights/2026/august/nine-governments-one-rulebook-national-cabinet-backs-mandatory-ai-and-data-centre-standards)
-
----
-
-### 5. The FTC Finalizes Penalties Over an AI Ad Service That Claimed to Listen Through Your Phone
-
-Cox Media Group and two partner firms marketed an "Active Listening" product they said used AI to overhear conversations picked up by smart devices and target ads accordingly. Regulators found it did nothing of the sort. The companies were actually reselling email lists bought from data brokers at a markup, and now owe $930,000 and face 20 years of FTC oversight.
-
-[Read more at Federal Trade Commission →](https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-finalizes-orders-cox-media-group-two-other-firms-settling-charges-they-deceived-customers-about)
+[Read more at TechCrunch →](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
 
 ---
 
-### 6. Stability AI Raises $76 Million From the Record Labels That Once Saw It as a Threat
+### 3. Anthropic Ships Cheaper Claude Models That Say No Less Often
 
-The company behind Stable Diffusion closed a $76 million Series B backed in part by Universal Music Group, Sony Music, Warner Music and the game publisher Electronic Arts. It is a notable turn for a firm that spent years fighting copyright suits from rights holders. The money suggests entertainment giants would rather help shape generative AI tools than litigate them out of existence.
+Anthropic released updated versions of its most capable models, Fable 5.1 and Mythos 5.1, with better performance, lower prices, and fewer cases where safety filters block harmless requests. Fable is available to everyone; Mythos stays limited to vetted cybersecurity and life-sciences partners. The company also added an option for business customers to run the models without their data leaving their own systems.
 
-[Read more at TechCrunch →](https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/)
+[Read more at TechCrunch →](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/)
 
 ---
 
-### 7. AI Is Quietly Raising the Bar for Entry-Level Jobs, a Survey of 1,000 Hiring Managers Finds
+### 4. Dell Books a Record $60.9 Billion in AI Orders in a Single Quarter
 
-ZipRecruiter's annual employer report, based on a June survey of more than 1,000 recruiters and hiring managers, found 92% now use AI in some form. More telling: 38% have moved basic data work off junior staff and onto software, and 31% have raised the experience they require for entry-level roles as a result. The rungs on the career ladder are not disappearing so much as moving further apart.
+Dell reported $47 billion in quarterly revenue, up 58 percent, on the back of a record $60.9 billion in new AI server orders and a backlog that now sits at $95 billion. Its AI customer count jumped from 5,000 to 6,500 in three months, and the company raised full-year guidance by $25 billion. The numbers are one of the clearest signals yet that the money being spent on AI infrastructure is still accelerating, not leveling off.
 
-[Read more at ZipRecruiter Economic Research →](https://www.ziprecruiter-research.org/economic-insights-research/ai-employer-report-2026)
+[Read more at Dell Technologies →](https://www.dell.com/en-us/blog/record-results-reflect-compounding-advantages/)
+
+---
+
+### 5. Wonderful Doubles Its Valuation to $5 Billion in Under Six Months
+
+The Israeli-Dutch startup raised $550 million led by Insight Partners, more than doubling the valuation it set in March. Founded in early 2025, Wonderful began with AI customer service agents built for non-English-speaking markets and has since expanded into a broader platform for wiring AI tools into company systems. Salesforce joined as a first-time investor.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/)
+
+---
+
+### 6. A Third of Companies Skipped a Software Purchase Because AI Could Build It
+
+McKinsey's annual global AI survey found that nearly a third of organizations decided against buying at least one software product or feature because they could now build it in-house with AI coding tools. The share of large companies scaling AI agents in at least one business function climbed from 27 to 40 percent. The catch: 80 percent report individual productivity gains, but only 37 percent can point to actual financial impact.
+
+[Read more at McKinsey →](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+
+---
+
+### 7. HiddenLayer Raises $100 Million as Companies Scramble to Secure Their AI
+
+The Austin startup, which builds tools to protect AI models and agents from tampering and attack, closed a $100 million round led by Delta-v Capital with Morgan Stanley, Microsoft's venture arm, and Booz Allen Hamilton participating. HiddenLayer says revenue grew more than tenfold over the past year. Analysts expect businesses to spend roughly $2.8 billion on AI security this year, up 83 percent from 2025.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/)
 
 ---
 
