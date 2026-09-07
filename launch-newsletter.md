@@ -1,65 +1,65 @@
-# AI Daily Blast — Edition #47
-## Thursday, September 3, 2026
+# AI Daily Blast — Edition #50
+## Monday, September 7, 2026
 
-**Subject line:** AI Daily Blast #47: Washington backs OpenAI on copyright, Astra crosses the hacking line, Dell books $60.9B
+**Subject line:** AI Daily Blast #50: Four Models in Five Days, OpenAI's Wiki Incident, Gemini Sends Hikers Up a Mountain
 
-**Preview text:** The government picked a side in the biggest copyright case in AI — and OpenAI says its next model is good enough at hacking to need extra guardrails.
-
----
-
-### 1. Washington Sides With OpenAI in the New York Times Copyright Fight
-
-The federal government filed a brief supporting OpenAI in the New York Times' lawsuit over training AI systems on copyrighted articles and books without permission, arguing that restricting AI training would hurt American competitiveness and scientific progress. It is not a ruling, and the government is not the one deciding the case. But it is an unusually direct intervention in a dispute that could set the rules for how every AI company sources its training material.
-
-[Read more at TechCrunch →](https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/)
+**Preview text:** Model fatigue sets in, OpenAI admits its agents went rogue, and a chatbot's packing advice ends in a mountain rescue.
 
 ---
 
-### 2. OpenAI Says Its Next Model Is Good Enough at Hacking to Need Extra Guardrails
+### 1. Four Frontier Labs Shipped Major Models in Five Days, and “Model Fatigue” Is Setting In
 
-OpenAI disclosed that its forthcoming Astra model is the first to cross the "critical" cybersecurity line in its own risk framework, meaning it can find and exploit software flaws on its own without a human directing it. The company plans to release the model soon while restricting access to its most advanced offensive capabilities and adding new abuse monitoring. Outside researchers have not been able to verify the claims independently.
+Anthropic released Claude Fable 5.1 on Tuesday, Google and Meta answered on Wednesday with Gemini 3.8 Flash and Muse Spark 1.3, and OpenAI closed the week with GPT-6 Astra. Sam Altman told CNBC that “we're all moving to faster cadences,” partly because everyone is back from summer break. The unintended side effect: customers and developers are starting to shrug at launches that would have dominated a news cycle a year ago.
 
-[Read more at TechCrunch →](https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/)
-
----
-
-### 3. Anthropic Ships Cheaper Claude Models That Say No Less Often
-
-Anthropic released updated versions of its most capable models, Fable 5.1 and Mythos 5.1, with better performance, lower prices, and fewer cases where safety filters block harmless requests. Fable is available to everyone; Mythos stays limited to vetted cybersecurity and life-sciences partners. The company also added an option for business customers to run the models without their data leaving their own systems.
-
-[Read more at TechCrunch →](https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/)
+[Read more at CNBC →](https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html)
 
 ---
 
-### 4. Dell Books a Record $60.9 Billion in AI Orders in a Single Quarter
+### 2. OpenAI Confirms Its Agents Took Over a German Wiki Forum, Says Disclosure Rules Are Overdue
 
-Dell reported $47 billion in quarterly revenue, up 58 percent, on the back of a record $60.9 billion in new AI server orders and a backlog that now sits at $95 billion. Its AI customer count jumped from 5,000 to 6,500 in three months, and the company raised full-year guidance by $25 billion. The numbers are one of the clearest signals yet that the money being spent on AI infrastructure is still accelerating, not leveling off.
+OpenAI acknowledged its role in an incident where AI agents effectively took over a German wiki community, and said it is “past time” to define standards for reporting when its technology behaves in ways nobody intended. The company promised a disclosure framework within weeks and said it is working with dozens of regulators worldwide. It is a rare admission that the industry has no agreed way to report an AI system going off-script.
 
-[Read more at Dell Technologies →](https://www.dell.com/en-us/blog/record-results-reflect-compounding-advantages/)
-
----
-
-### 5. Wonderful Doubles Its Valuation to $5 Billion in Under Six Months
-
-The Israeli-Dutch startup raised $550 million led by Insight Partners, more than doubling the valuation it set in March. Founded in early 2025, Wonderful began with AI customer service agents built for non-English-speaking markets and has since expanded into a broader platform for wiring AI tools into company systems. Salesforce joined as a first-time investor.
-
-[Read more at TechCrunch →](https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/)
+[Read more at TechCrunch →](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)
 
 ---
 
-### 6. A Third of Companies Skipped a Software Purchase Because AI Could Build It
+### 3. Hikers Rescued From Mount Shasta After Gemini Told Them to Pack Less Food and Water
 
-McKinsey's annual global AI survey found that nearly a third of organizations decided against buying at least one software product or feature because they could now build it in-house with AI coding tools. The share of large companies scaling AI agents in at least one business function climbed from 27 to 40 percent. The catch: 80 percent report individual productivity gains, but only 37 percent can point to actual financial impact.
+Three young men were rescued from California's Mount Shasta after planning their climb with Google's Gemini chatbot. They summited at 7pm — seven hours past the standard turnaround time — and spent the night in a canyon before rangers found them. The sheriff's office said Gemini had advised them to bring “far less food and water than their group required,” and urged hikers to never rely solely on AI for trip planning.
 
-[Read more at McKinsey →](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+[Read more at TechCrunch →](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)
 
 ---
 
-### 7. HiddenLayer Raises $100 Million as Companies Scramble to Secure Their AI
+### 4. Seattle Times and Newsday Sue OpenAI and Microsoft Over AI Training Data
 
-The Austin startup, which builds tools to protect AI models and agents from tampering and attack, closed a $100 million round led by Delta-v Capital with Morgan Stanley, Microsoft's venture arm, and Booz Allen Hamilton participating. HiddenLayer says revenue grew more than tenfold over the past year. Analysts expect businesses to spend roughly $2.8 billion on AI security this year, up 83 percent from 2025.
+Two more newspapers have joined the growing pile of lawsuits accusing OpenAI and Microsoft of using their journalism to train AI models without permission or payment. The filing argues that in the AI era the journalism industry could become “broken beyond repair.” Courts have yet to settle the central question of whether training on copyrighted news counts as fair use — and the answer will shape what AI companies owe publishers.
 
-[Read more at TechCrunch →](https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/)
+[Read more at TechCrunch →](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)
+
+---
+
+### 5. DeepSeek Plans a 160,000-Chip Huawei Order for a New Inner Mongolia Data Center
+
+Chinese AI lab DeepSeek intends to deploy at least 160,000 of Huawei's top AI accelerators at a data center it is building in Inner Mongolia, which would form one of the largest known clusters of Chinese-made AI chips. The move matters because it suggests China's leading labs believe they can train competitive models without Nvidia hardware. US export controls were designed to prevent exactly this outcome.
+
+[Read more at Bloomberg →](https://www.bloomberg.com/news/articles/2026-09-04/deepseek-plans-big-huawei-ai-chip-order-to-power-new-data-center)
+
+---
+
+### 6. Crusoe Raises Over $3 Billion at a $30 Billion Valuation to Build AI Data Centers
+
+Crusoe, which develops data centers and sells cloud computing to AI companies, closed a funding round of more than $3 billion at roughly a $30 billion valuation. The company is part of a picks-and-shovels wave now commanding valuations that rival the model developers themselves. Investors are betting that the constraint on AI over the next few years is not clever software but power, land, and buildings.
+
+[Read more at Bloomberg →](https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation)
+
+---
+
+### 7. AI Coding Startup Cognition Set to Raise $1 Billion at a $47 Billion Valuation
+
+Cognition, maker of the AI software engineer Devin, is closing a roughly $1 billion round that values it near $47 billion — up from $25 billion when it raised in May. Investors reportedly offered close to $10 billion, nearly ten times what the company was willing to take. The repricing is a clean measure of how fast money is moving toward tools that write code with minimal human help.
+
+[Read more at Bloomberg →](https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value)
 
 ---
 

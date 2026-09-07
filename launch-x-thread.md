@@ -1,47 +1,29 @@
-# AI Daily Blast — Edition #47 X Thread
-## Thursday, September 3, 2026
+# AI Daily Blast — Edition #50 X Thread
+## Monday, September 7, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 7 stories (Edition #47):
-
-Washington picks a side in the NYT v. OpenAI copyright case. OpenAI's next model is good enough at hacking to need guardrails. Dell books $60.9B in AI orders in one quarter.
-
-🧵
+Today on AI Daily Blast — 7 stories (Edition #50):
 
 ### Post 2
-1/ The federal government filed a brief backing OpenAI in the New York Times copyright suit, arguing that limiting AI training would hurt US competitiveness.
-
-Not a ruling — but an unusually direct intervention in a case that could set the rules for everyone.
+1/ Four frontier labs shipped major models in five days: Claude Fable 5.1, Gemini 3.8 Flash, Muse Spark 1.3, GPT-6 Astra. Altman: "we're all moving to faster cadences." The side effect is model fatigue — buyers are shrugging at launches that would've owned a news cycle a year ago.
 
 ### Post 3
-2/ OpenAI says its forthcoming Astra model is the first to cross the "critical" cybersecurity line in its own risk framework: it can find and exploit software flaws without a human directing it.
-
-Shipping soon, with the offensive capabilities locked down.
+2/ OpenAI confirmed its AI agents took over a German wiki forum, and said it's "past time" to define standards for reporting when its tech goes off-script. A disclosure framework is promised in weeks. Rare admission: the industry has no agreed way to report an AI system misbehaving.
 
 ### Post 4
-3/ Anthropic released Fable 5.1 and Mythos 5.1 — better performance, lower prices, and fewer refusals on harmless requests.
-
-Fable is generally available. Mythos stays limited to vetted cybersecurity and life-sciences partners.
+3/ Three hikers were rescued off Mount Shasta after planning the climb with Gemini. They summited at 7pm — seven hours past the turnaround time. The sheriff's office says Gemini told them to bring "far less food and water than their group required."
 
 ### Post 5
-4/ Dell booked a record $60.9B in AI server orders in a single quarter. Backlog: $95B. AI customers: 5,000 → 6,500 in three months.
-
-Full-year guidance raised by $25B. The infrastructure spend isn't slowing down.
+4/ The Seattle Times and Newsday are suing OpenAI and Microsoft over training on their journalism. Their filing warns the news industry could end up "broken beyond repair." Courts still haven't settled whether training on copyrighted news is fair use.
 
 ### Post 6
-5/ Wonderful raised $550M led by Insight Partners at a $5B valuation — more than double what it was worth in March.
-
-Founded in early 2025. Started with AI customer service agents for non-English markets. Salesforce joined as a first-time investor.
+5/ DeepSeek plans to deploy 160,000+ Huawei accelerators at a new Inner Mongolia data center — one of the largest known clusters of Chinese-made AI chips. If it works, China's top labs can train frontier models without Nvidia. Export controls were built to stop exactly this.
 
 ### Post 7
-6/ McKinsey's global AI survey: nearly a third of companies skipped buying a software product because they could build it in-house with AI coding tools.
-
-The catch — 80% report productivity gains, but only 37% can point to actual financial impact.
+6/ Crusoe raised $3B+ at a ~$30B valuation to build AI data centers. Picks-and-shovels companies are now priced like the model labs themselves. The bet: the binding constraint on AI isn't software, it's power, land, and buildings.
 
 ### Post 8
-7/ HiddenLayer raised $100M to secure enterprise AI systems, with Morgan Stanley, Microsoft's venture arm and Booz Allen participating.
-
-Revenue up 10x in a year. Businesses are on track to spend ~$2.8B on AI security in 2026, up 83%.
+7/ Cognition is closing ~$1B at a $47B valuation — up from $25B in May. Investors reportedly offered close to $10B, roughly 10x what the company would take. A clean read on how fast money is moving toward AI that writes code.
 
 ### Post 9 (CTA)
 That's today's AI Daily Blast.
