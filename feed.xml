@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,138 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+    <!-- Edition #53 — Thursday, September 10, 2026 -->
+    <item>
+      <title>Edition #53: Google Commits €13 Billion to AI Data Centers in Finland — and Signs Its First Nuclear Deal Outside the US; Qualcomm Lands an Amazon Deal to Build Custom AI Data Center Chips; Apple's New iPhone Feature Creates a 'Digital Negative' to Prove a Photo Wasn't Faked</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/53</guid>
+      <pubDate>Thu, 10 Sep 2026 06:30:00 -0500</pubDate>
+      <category>Infrastructure</category>
+      <category>Hardware</category>
+      <category>Business</category>
+      <category>Product Launch</category>
+      <category>Ethics</category>
+      <description>Google commits €13 billion to AI data centers in Finland and signs its first nuclear deal outside the US; Qualcomm wins an Amazon contract for custom AI data center chips; Apple adds a digital-negative feature to prove iPhone photos weren't faked; Anthropic publishes an interactive model of AI's economic impact through 2030; OpenAI may pause new Pro signups as Astra demand outstrips compute; Salesforce nears a $2 billion deal for Listen Labs; and US employers quietly swap 'AI' for 'restructuring' in layoff announcements.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Google Commits €13 Billion to AI Data Centers in Finland — and Signs Its First Nuclear Deal Outside the US</h3>
+        <p>Google announced its largest-ever European investment: €13 billion (about $15.1 billion) to build AI data center capacity across four Finnish cities over 2027 and 2028. To power it, the company signed a 22-year agreement with Finnish utility Fortum to extend the life of the Loviisa nuclear plant, which supplies roughly a tenth of Finland's electricity and would otherwise have closed after 2030. It is Google's first nuclear contract outside the United States, and a sign of how far tech companies will go to lock down reliable electricity for AI.</p>
+        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/technology/ai/articles/google-invest-13-billion-finland-124204418.html">Read more →</a></p>
+
+        <h3>2. Qualcomm Lands an Amazon Deal to Build Custom AI Data Center Chips</h3>
+        <p>Qualcomm and Amazon Web Services will co-develop custom silicon for AI data centers across multiple chip generations, focused on inference — the everyday work of running a trained model rather than building one. As part of the arrangement, Amazon received options on up to 25 million Qualcomm shares, tied to actual purchases that could reach $60 billion. Qualcomm's stock jumped roughly 10% on the news, which positions the company as a rare credible alternative to Nvidia.</p>
+        <p><strong>Source:</strong> Quartz · <a href="https://qz.com/qualcomm-amazon-custom-ai-chips-data-center-090826">Read more →</a></p>
+
+        <h3>3. Apple's New iPhone Feature Creates a 'Digital Negative' to Prove a Photo Wasn't Faked</h3>
+        <p>At its product event Wednesday, Apple introduced Apple Reference Image, which captures signed sensor data alongside every photo taken on an iPhone 18 Pro and turns it into an unalterable reference copy stored in the Photos app. Any later version of the image can be checked against it to see whether anything was changed. Apple pitched the feature as vital for photojournalists, and said it will also support SynthID, the emerging standard for labeling AI-generated images.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/">Read more →</a></p>
+
+        <h3>4. Anthropic Publishes an Interactive Model of How AI Could Reshape the US Economy by 2030</h3>
+        <p>Anthropic's economics team released a tool that lets anyone stress-test three scenarios for AI's economic impact, alongside a working paper and a survey of nearly 11,000 US adults. A modest scenario treats AI like the internet, adding about 1.6% to GDP. A substantial one assumes AI handles half of all knowledge work by 2030, doubling growth while leaving knowledge-worker wages flat; the extreme case projects 15% annual growth alongside historic unemployment. The typical American surveyed expects something close to the middle scenario.</p>
+        <p><strong>Source:</strong> Anthropic · <a href="https://www.anthropic.com/institute/econ-scenarios">Read more →</a></p>
+
+        <h3>5. OpenAI May Pause New Pro Signups as Demand for Its Astra Model Overwhelms Capacity</h3>
+        <p>A week after launching GPT-6 Astra, OpenAI says demand is unprecedented enough that it may temporarily stop accepting new Pro subscriptions while it protects service for existing customers. Paying users who waited days for access are being handed banked usage resets as compensation, and heavy users report their message limits have been cut sharply since launch week. It is a blunt reminder that the constraint on frontier AI right now is not ideas but compute.</p>
+        <p><strong>Source:</strong> BleepingComputer · <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/">Read more →</a></p>
+
+        <h3>6. Salesforce Is in Talks to Buy AI Research Startup Listen Labs for About $2 Billion</h3>
+        <p>Salesforce is reportedly negotiating to acquire Listen Labs, which uses an AI moderator to run customer interviews at scale across a network of some 50 million participants. The price would be four times the company's valuation in January, and roughly 67 times its estimated $30 million in annual revenue. It would be the latest in an aggressive year of acquisitions for Salesforce, which agreed in June to buy customer-service agent company Fin, formerly Intercom, for $3.6 billion.</p>
+        <p><strong>Source:</strong> PYMNTS · <a href="https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-eyes-2-billion-acquisition-of-ai-powered-platform-listen-labs/">Read more →</a></p>
+
+        <h3>7. Companies Have Quietly Stopped Blaming AI for Layoffs — and Started Saying 'Restructuring'</h3>
+        <p>US employers announced 52,881 job cuts in August, and for the first time in five months the leading stated reason was not artificial intelligence but restructuring, according to outplacement firm Challenger, Gray & Christmas. Analysts note the underlying pressure hasn't changed so much as the language has: restructuring announcements often bundle automation-driven headcount reductions with other cost cuts. Technology has still shed 155,126 jobs so far this year, up 52% from the same period in 2025.</p>
+        <p><strong>Source:</strong> Challenger, Gray & Christmas · <a href="https://www.challengergray.com/blog/challenger-report-august-job-cuts-up-58-consumer-products-food-lead/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
+    <!-- Edition #52 — Wednesday, September 9, 2026 -->
+    <item>
+      <title>Edition #52: OpenAI Says Its AI Cracked a $1 Million Math Problem in 88 Hours — Then the Credit Fight Started; Meta Launches Muse, an AI Agent That Books Travel, Sends Email and Fills Out Forms for You; US Intelligence Agencies Accuse Six Chinese AI Firms of Industrial-Scale Model Copying</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/52</guid>
+      <pubDate>Wed, 09 Sep 2026 06:30:00 -0500</pubDate>
+      <category>Research</category>
+      <category>Agents</category>
+      <category>Policy</category>
+      <category>Funding</category>
+      <description>OpenAI claims an AI proof of the Navier-Stokes Millennium Prize problem amid a credit dispute; Meta launches Muse, a consumer AI agent that acts on your behalf; US intelligence agencies accuse six Chinese AI firms of industrial-scale model distillation; Mistral raises a record €3 billion for sovereign AI; Cognition hits a $48 billion valuation; DeepMind maps all nine billion possible human DNA variants; and Alphabet backs a $3 billion networking-chip startup for AI data centers.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. OpenAI Says Its AI Cracked a $1 Million Math Problem in 88 Hours — Then the Credit Fight Started</h3>
+        <p>OpenAI announced that an unreleased internal model, running roughly 10,000 AI agents in parallel, produced a proof for the Navier-Stokes problem — one of seven Millennium Prize Problems, each carrying a $1 million award, and a question about fluid motion that has resisted mathematicians for 200 years. Hours before the announcement, NYU mathematician Tristan Buckmaster released a statement saying he and a colleague had reached a solution weeks earlier with AI assistance of their own. The Clay Mathematics Institute has not verified either claim, and the episode has become an early test of how credit gets assigned when machines do the math.</p>
+        <p><strong>Source:</strong> CNN · <a href="https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk">Read more →</a></p>
+
+        <h3>2. Meta Launches Muse, an AI Agent That Books Travel, Sends Email and Fills Out Forms for You</h3>
+        <p>Meta released Muse, a personal AI assistant designed to take actions rather than just answer questions — it can open a browser, complete forms, book trips and work through multi-step projects on your behalf. It runs inside a dedicated secure virtual machine with its own browser, and Meta says an encrypted version arriving later this year will lock out even Meta itself. There is a free tier plus $20 and $100 monthly plans, with rollout across iOS, Android, the web and, eventually, Meta's smart glasses.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/">Read more →</a></p>
+
+        <h3>3. US Intelligence Agencies Accuse Six Chinese AI Firms of Industrial-Scale Model Copying</h3>
+        <p>The NSA, FBI and CISA issued a joint advisory naming DeepSeek, Alibaba, Moonshot AI, MiniMax, StepFun and Z.AI as running what they call aggressive and malicious “distillation” campaigns against American AI systems since late 2024. Distillation means training a cheaper model on the outputs of a more capable one — a legitimate technique that the agencies say was turned into a shortcut for copying competitors. The advisory alleges billions of tokens were extracted across millions of requests, routed through cloud providers and third-party resellers to hide their origin.</p>
+        <p><strong>Source:</strong> CISA · <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a">Read more →</a></p>
+
+        <h3>4. Mistral Raises €3 Billion in Europe's Largest-Ever Tech Funding Round</h3>
+        <p>French AI lab Mistral closed a €3 billion round led by Samsung Electronics, valuing the company above €21 billion and setting a record for European technology fundraising. The pitch is “sovereign AI” — the idea that countries and companies want models they can run and govern without depending on American providers. It is the clearest sign yet that geopolitics, not just capability, is now shaping where AI money goes.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/">Read more →</a></p>
+
+        <h3>5. AI Coding Startup Cognition Raises $2 Billion at a $48 Billion Valuation</h3>
+        <p>Cognition, the company behind the AI software engineer Devin, raised $2 billion in a round backed by Andreessen Horowitz, Accel, Founders Fund, General Catalyst and Avenir. The valuation has climbed steeply as companies move from experimenting with AI coding tools to handing them real work. It also underlines how much of this year's AI capital is flowing to a small number of companies automating software development itself.</p>
+        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-09-08/ai-startup-cognition-raises-2-billion-at-a-48-billion-value">Read more →</a></p>
+
+        <h3>6. DeepMind Releases a Map of Every Possible Single-Letter Change in the Human Genome</h3>
+        <p>Google DeepMind published AlphaGenome Atlas, a petabyte-scale database predicting the molecular effect of all nine billion possible single-letter DNA changes across the human genome — more than 30 times the size of its AlphaFold database. The goal is to help researchers pinpoint which genetic variations actually cause disease, a bottleneck that has slowed rare-disease diagnosis for years. It is free for non-commercial research and already in use by scientists.</p>
+        <p><strong>Source:</strong> Nature · <a href="https://www.nature.com/articles/d41586-026-02835-4">Read more →</a></p>
+
+        <h3>7. Alphabet Backs a Networking-Chip Startup at $3 Billion as Data Center Costs Bite</h3>
+        <p>Celero Communications raised $275 million at a valuation above $3 billion, co-led by Atreides Management, Valor Equity Partners and Alphabet's venture arm CapitalG. The company makes chips that move data between processors inside AI data centers — an unglamorous problem that has become a real ceiling on performance. Investors are increasingly betting that the next gains in AI come from plumbing and power rather than bigger models.</p>
+        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-09-08/alphabet-s-capitalg-backs-ai-chip-startup-celero-at-3-billion-value">Read more →</a></p>
+
+      ]]></content:encoded>
+    </item>
+    <!-- Edition #51 — Tuesday, September 8, 2026 -->
+    <item>
+      <title>Edition #51: Meta Is About to Put an AI Agent That Books, Buys and Orders in Front of 2 Billion People; Sony and Warner's Music Publishers Sue Anthropic Over Song Lyrics; A Booby-Trapped Code Folder Can Make Claude Code, Codex and Cursor Run an Attacker's Commands</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/51</guid>
+      <pubDate>Tue, 08 Sep 2026 06:30:00 -0500</pubDate>
+      <category>Agents</category>
+      <category>Policy</category>
+      <category>Safety</category>
+      <category>Business</category>
+      <category>Funding</category>
+      <description>Meta prepares to launch Hatch, an AI agent that acts on your behalf, with a premium tier reported as high as $199.99 a month; Sony Music Publishing and Warner Chappell sue Anthropic over song lyrics and name its founders personally; researchers show a booby-trapped project folder can make Claude Code, Codex and Cursor run an attacker's commands; Anthropic splits from OpenAI and Google over a strict Massachusetts AI safety bill; the US urges the G20 to loosen AI rules while the EU advances new ones; McKinsey finds a third of companies have skipped buying software because AI could build it; and a16z closes a $1.1 billion fund for the physical infrastructure behind AI.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Meta Is About to Put an AI Agent That Books, Buys and Orders in Front of 2 Billion People</h3>
+        <p>Meta is preparing to launch Hatch, an AI assistant built to do things rather than just answer questions — filling out forms, ordering food, booking restaurants, making purchases — and keep working after you close the app. Meta trained it in a sandbox that simulates DoorDash, Etsy, Reddit, Yelp and Outlook. The bigger surprise is the price: reports point to a premium tier as high as $199.99 a month, which would be the first time Meta has charged consumers for anything.</p>
+        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/technology/ai/articles/meta-hatch-agent-platform-watermelon-113350203.html">Read more &rarr;</a></p>
+
+        <h3>2. Sony and Warner's Music Publishers Sue Anthropic Over Song Lyrics — and Name Its Founders Personally</h3>
+        <p>Sony Music Publishing and Warner Chappell filed suit against Anthropic, alleging it used tens of thousands of copyrighted songs to train Claude, with statutory damages that could reach $150,000 per song. Unusually, the complaint names CEO Dario Amodei and co-founder Benjamin Mann as individual defendants rather than just the company. With all three major publishers now suing, the music industry has become the loudest test case for what AI companies owe the people whose work trained their models.</p>
+        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/09/01/anthropic-warner-sony-music-songs-lawsuit/">Read more &rarr;</a></p>
+
+        <h3>3. A Booby-Trapped Code Folder Can Make Claude Code, Codex and Cursor Run an Attacker's Commands</h3>
+        <p>Researchers at Manifold Security found eight flaws across seven AI coding assistants that let a project folder quietly tell the assistant to run a command on your computer — no prompt, no approval, no sandbox. The trick works when a project arrives as files, via a shared drive, zip archive or USB stick, rather than a normal download. Fixes have shipped for some tools, but four were still vulnerable when researchers retested on September 1.</p>
+        <p><strong>Source:</strong> The Hacker News · <a href="https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html">Read more &rarr;</a></p>
+
+        <h3>4. Anthropic Breaks With OpenAI and Google Over the Toughest State AI Safety Bill Yet</h3>
+        <p>A Massachusetts proposal would require large AI developers to hire independent evaluators to assess catastrophic risk every four months — far stricter than anything currently on the books in any state. Anthropic and safety groups back it; OpenAI and Google are pushing for something closer to an annual audit, warning that a state-by-state patchwork will slow useful releases. It is a rare public split among frontier labs, and whichever side wins will likely be copied elsewhere.</p>
+        <p><strong>Source:</strong> PYMNTS · <a href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-breaks-with-peers-on-massachusetts-ai-safety-bill/">Read more &rarr;</a></p>
+
+        <h3>5. The US Urges the G20 to Loosen AI Rules While Europe Writes New Ones</h3>
+        <p>At a G20 ministerial meeting, Washington called on other governments to deregulate AI and prioritize industry growth, while the European Union continued advancing its own legal framework. The two largest regulatory blocs are now pulling in opposite directions, which matters because most large AI companies have to comply with both. For everyone else, it means the rules governing AI will depend heavily on where you live.</p>
+        <p><strong>Source:</strong> Al Jazeera · <a href="https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law">Read more &rarr;</a></p>
+
+        <h3>6. A Third of Companies Have Skipped Buying Software Because AI Could Just Build It</h3>
+        <p>McKinsey's global State of AI survey found that 32% of organizations decided against buying at least one software product or feature because AI coding tools could build it in-house. In the technology sector that figure reaches 41%, and among the small group of firms already crediting AI with real profit, it is close to half. If the trend holds, the companies most disrupted by AI may turn out to be the ones selling ordinary business software.</p>
+        <p><strong>Source:</strong> McKinsey via Yahoo Finance · <a href="https://finance.yahoo.com/technology/ai/articles/build-vs-buy-shift-32-113806700.html">Read more &rarr;</a></p>
+
+        <h3>7. a16z Raises $1.1 Billion for Chips, Power and Robots — the Unglamorous Half of AI</h3>
+        <p>Andreessen Horowitz closed a $1.1 billion "Machine Age" fund aimed entirely at the physical infrastructure behind AI: chips, memory, networking, power systems, data centers and robotics. It is a notable turn for a firm built on the idea that software eats the world. The bet is that the binding constraint on AI over the next few years is not smarter code but electricity, land and hardware.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/">Read more &rarr;</a></p>
+      ]]></content:encoded>
+    </item>
     <!-- Edition #50 — Monday, September 7, 2026 -->
     <item>
       <title>Edition #50: Four Frontier Labs Shipped Major Models in Five Days, and “Model Fatigue” Is Setting In; OpenAI Confirms Its Agents Took Over a German Wiki Forum, Says Disclosure Rules Are Overdue; Hikers Rescued From Mount Shasta After Gemini Told Them to Pack Less Food and Water</title>
@@ -523,118 +655,6 @@
         <h3>6. Naver Backs Wave-Powered AI Data Centers That Float at Sea</h3>
         <p>Korean internet giant Naver has invested in Panthalassa, a US startup building floating data centers that generate their own electricity from ocean waves and cool their servers with seawater. The idea tackles AI's two biggest physical bottlenecks — power and land — by simply moving offshore, with results beamed back via satellite networks like Starlink. Panthalassa has already tested prototypes at sea and is targeting commercial deployment in 2027.</p>
         <p><strong>Source:</strong> The Korea Times · <a href="https://www.koreatimes.co.kr/business/tech-science/20260813/naver-invests-in-us-startup-developing-wave-powered-ai-data-centers">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-    <item>
-      <title>Edition #38: Nvidia Recruits Wall Street for $500B AI Financing; Anthropic Watermarks Claude's Text; Intel Raises $20B</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/38</guid>
-      <pubDate>Wed, 12 Aug 2026 06:30:00 -0500</pubDate>
-      <category>Infrastructure</category>
-      <category>Policy</category>
-      <description>Nvidia assembles a six-firm Wall Street consortium to raise $500 billion in financing for AI chips and data centers; Anthropic will embed invisible watermarks in text written by its newest Claude models to satisfy EU transparency rules, applied worldwide; Intel raises $20 billion in an oversubscribed stock sale to fund its AI chip comeback; Brussels orders Google to open eleven Android features to rival AI assistants; Google's Gemini Spark agent begins driving users' own Chrome browsers; and venture capital pours into energy projects to feed AI's electricity demand.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. Nvidia Recruits Wall Street to Bankroll $500 Billion of AI Infrastructure</h3>
-        <p>Nvidia has assembled a consortium of six financial heavyweights — Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR — to raise $500 billion in dedicated financing for its customers to buy chips and build data centers. CEO Jensen Huang says he approached only those six firms and none said no, pitching GPUs as "revenue-generating assets" that can be financed the way banks finance toll roads and power plants. The deal changes who pays for the AI buildout, moving it off tech balance sheets and onto Wall Street's.</p>
-        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html">Read more →</a></p>
-
-        <h3>2. Anthropic Will Hide Invisible Watermarks in Everything Claude Writes</h3>
-        <p>Anthropic said it will embed a machine-readable signal into text generated by its newest Claude models, invisible to readers but detectable by software — and it survives copy-and-paste. The change answers transparency rules in the EU AI Act that kicked in on August 2, but Anthropic is applying it worldwide rather than just in Europe. It's an early test of whether the industry can actually label its own output as the internet fills with AI-written text.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/">Read more →</a></p>
-
-        <h3>3. Intel Raises $20 Billion in a Stock Sale Five Times Oversubscribed</h3>
-        <p>Intel upsized its share offering from $15 billion to $20 billion and priced it at $95 a share after drawing more than $100 billion in institutional orders — roughly five bids for every share available. The company plans to spend the money on capital expenditures as it tries to claw its way back into the AI chip business currently dominated by Nvidia. For a company written off repeatedly in recent years, the demand is a striking vote of confidence.</p>
-        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/08/10/intel-intc-stock-offering-ai.html">Read more →</a></p>
-
-        <h3>4. Brussels Orders Google to Open Android to Claude, ChatGPT and Copilot</h3>
-        <p>Under binding orders issued through the Digital Markets Act, Google must open eleven Android features to rival AI assistants — voice activation, on-device context, and the ability to act inside other apps — the same integrations Gemini enjoys today. Google must also share anonymized search data with competing search engines and AI chatbots starting January 2027, with the Android changes due by mid-2027. Non-compliance carries fines of up to 10% of global revenue, though the rules apply only in Europe and Google may appeal.</p>
-        <p><strong>Source:</strong> TechRepublic · <a href="https://www.techrepublic.com/article/news-eu-google-android-ai-search-data-rules-emea/">Read more →</a></p>
-
-        <h3>5. Google's Gemini Spark Takes the Wheel of Your Actual Chrome Browser</h3>
-        <p>Google's Spark agent can now drive the Chrome browser installed on your own computer — logged into your accounts, using your saved passwords — to handle chores like researching flights or booking apartment viewings. It still stops and asks before payments and other sensitive steps, and Google says it has built in defenses against malicious instructions hidden in web pages. The feature is rolling out to paying subscribers in the US and 160-plus countries, though Europe and the UK are excluded for now.</p>
-        <p><strong>Source:</strong> Engadget · <a href="https://www.engadget.com/2229209/gemini-spark-now-has-chrome-web-browsing-capabliities/">Read more →</a></p>
-
-        <h3>6. Venture Money Is Quietly Flowing Into Power Plants, Not Chatbots</h3>
-        <p>Three companies raised $1 billion or more in a single week, and half the capital across the week's ten biggest rounds went to energy — grid batteries, nuclear reactors, and power projects rather than AI apps. The common thread is electricity: data centers need far more of it than the grid can currently supply, and investors have noticed the bottleneck. The most consequential AI investments right now may be the ones that never mention a model.</p>
-        <p><strong>Source:</strong> Crunchbase News · <a href="https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-    <item>
-      <title>Edition #37: Anthropic's Theseus Data Center Venture With Macquarie and GIC; Meta's Laptop-Sized Open Model; OpenAI's Hacking-Capable Model for Defenders</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/37</guid>
-      <pubDate>Tue, 11 Aug 2026 06:30:00 -0500</pubDate>
-      <category>Infrastructure</category>
-      <category>Open Source</category>
-      <description>Anthropic launches Theseus Infrastructure with Macquarie and GIC to build dedicated data centers — and pledges to cover grid costs and consumer electricity increases; Meta releases Muse Glimmer, a 30B open-weight model that runs on a single consumer GPU; OpenAI unveils GPT-5.6-Cyber, a hacking-capable model restricted to vetted defenders; mathematicians accuse OpenAI of claiming credit for old proofs; Tencent takes its Hy3 model global; and nuclear startup Valar Atomics lands $1B from Sequoia.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. Anthropic Teams With Macquarie and GIC to Build Its Own Data Center Network</h3>
-        <p>Anthropic has joined forces with Australian asset manager Macquarie and Singapore's sovereign wealth fund GIC to launch Theseus Infrastructure, a new company that will build and operate data centers purpose-built for Anthropic, with the AI firm as anchor tenant and an initial focus on the United States. Notably, Anthropic pledged to pay 100% of grid-upgrade costs and cover any consumer electricity price increases tied to its demand — a direct answer to growing public anger over AI driving up power bills. It's the latest sign that AI companies are becoming infrastructure companies.</p>
-        <p><strong>Source:</strong> Bloomberg · <a href="https://www.bloomberg.com/news/articles/2026-08-10/anthropic-macquarie-and-gic-form-venture-for-ai-data-centers">Read more →</a></p>
-
-        <h3>2. Meta's New Open AI Model Runs on a Single Consumer Graphics Card</h3>
-        <p>Meta released Muse Glimmer, a 30-billion-parameter AI model that's free to download and small enough to run on a regular Mac or PC with one consumer graphics card — no cloud required. It's built for hands-on tasks like managing schedules, organizing files, and coding, and Meta says it beats similarly sized rivals from Google and Alibaba on many benchmarks. Mark Zuckerberg paired the launch with a 14-page essay arguing the future of AI should be open and distributed, not locked inside big companies' data centers.</p>
-        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html">Read more →</a></p>
-
-        <h3>3. OpenAI Unveils a Hacking-Capable AI Model for Vetted Cyber Defenders</h3>
-        <p>OpenAI launched GPT-5.6-Cyber, a specialized model for security professionals that will answer the kinds of hacking-related questions its regular models refuse — but only for identity-verified defenders in its new "Daybreak" program, who must use hardware security keys starting September 1. It's the first OpenAI model rated "High" for cyber capability under the company's own risk framework. The bet: AI-powered attacks are coming either way, so defenders need equally powerful tools.</p>
-        <p><strong>Source:</strong> Axios · <a href="https://www.axios.com/2026/08/10/openai-gpt-astra-restrictions-safety-hacking-defenders">Read more →</a></p>
-
-        <h3>4. Mathematicians Accuse OpenAI of Claiming Credit for Decades-Old Proofs</h3>
-        <p>OpenAI recently celebrated its Astra model for solving ten hard math problems — but mathematicians say some of the "breakthroughs" lean heavily on earlier human work without credit. Yeshiva University's Steven Miller says one showcased proof pastes in the central argument from his own 2016 paper, and a Cambridge researcher found the same pattern in a second result. OpenAI says it will update the paper, but the episode sharpens a bigger question: how do we vet AI "discoveries" that skip peer review?</p>
-        <p><strong>Source:</strong> Scientific American · <a href="https://www.scientificamerican.com/article/openais-latest-math-breakthroughs-commit-research-misconduct-experts-say/">Read more →</a></p>
-
-        <h3>5. Tencent Takes Its Flagship Hy3 AI Model Global</h3>
-        <p>Chinese tech giant Tencent is pushing its flagship Hy3 AI model into international markets, rolling it out through the global edition of its WorkBuddy workplace assistant — free until August 31 — plus cloud and developer platforms. Hy3 is open-source and built for reasoning, coding, and agent-style tasks, and Tencent claims it completed workplace tasks 34% faster than its predecessor in internal testing. It's the clearest signal yet that China's AI leaders are competing for users well beyond their home market.</p>
-        <p><strong>Source:</strong> South China Morning Post · <a href="https://www.scmp.com/tech/tech-war/article/3362991/tencent-ramps-overseas-ai-push-wider-rollout-flagship-hy3-model">Read more →</a></p>
-
-        <h3>6. Nuclear Startup Valar Atomics Lands $1 Billion From Sequoia to Power AI</h3>
-        <p>Valar Atomics raised a $1 billion Series B led by Sequoia Capital at a $6 billion valuation — triple what the three-year-old nuclear startup was worth in April. The round came weeks after Valar's small reactor became the first in US history to directly power an Nvidia AI chip, and the company now plans to mass-produce reactors like factory products, with power-hungry AI data centers as a prime customer. The AI boom's appetite for electricity is minting a new generation of nuclear companies.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
-    <item>
-      <title>Edition #36: Amazon's Texas Data Center Could Become America's Biggest Climate Polluter; OpenAI Acquires NextSlide; Tesla and SpaceX's $16.8B Chip Factory</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/36</guid>
-      <pubDate>Sun, 09 Aug 2026 06:30:00 -0500</pubDate>
-      <category>Energy</category>
-      <category>Business</category>
-      <description>Amazon's planned Texas data center includes an on-site gas plant permitted to emit 33 million tons of CO2 a year — more than any US power plant; OpenAI reveals it quietly acquired presentation startup NextSlide; a New Mexico court orders Meta to pay an additional $567 million in its child safety case; Tesla and SpaceX commit $16.8 billion to a "Terafab" chip factory in Texas; OpenAI's smart speaker will reportedly cost $300 to $400; Airbnb says AI is helping it ship features faster; and Gen Z dating apps ditch swiping for AI matchmaking.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 7 Stories</h2>
-
-        <h3>1. Amazon's Planned Texas Data Center Could Become America's Biggest Climate Polluter</h3>
-        <p>Amazon is investing in an on-site natural gas power plant for a planned data center in Pecos County, Texas that is permitted to release 33 million tons of carbon dioxide per year — more than any other power plant in the United States, according to a New York Times report. Amazon says the plant "won't raise electricity costs for Texas families," but the company's carbon emissions were already up 16% last year, the wrong direction for a company that pledged to hit net zero by 2040. It's the starkest example yet of the AI boom colliding with climate promises.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/">Read more →</a></p>
-
-        <h3>2. OpenAI Quietly Acquired Presentation Startup NextSlide</h3>
-        <p>OpenAI has acquired NextSlide, a startup whose product turns prompts, notes, and documents into polished, editable presentations — and its team is now working on ChatGPT. Founder Ahmed Beshry revealed the deal actually closed "earlier this year" but is only being announced now; terms weren't disclosed. It's another sign OpenAI wants ChatGPT to do the office work people currently do in PowerPoint.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/">Read more →</a></p>
-
-        <h3>3. New Mexico Court Orders Meta to Pay an Additional $567 Million in Child Safety Case</h3>
-        <p>A New Mexico court has ordered Meta to pay another $567 million in the state's long-running child safety case, adding to earlier penalties over failures to protect young users on its platforms. The ruling lands as courts and regulators sharpen their focus on how tech companies' algorithms and AI systems affect minors. For Meta, the bill for putting growth ahead of child safety keeps climbing.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/">Read more →</a></p>
-
-        <h3>4. Tesla and SpaceX Are Betting $16.8 Billion on a 'Terafab' Chip Factory in Texas</h3>
-        <p>Elon Musk's Tesla and SpaceX will jointly invest $16.8 billion to start building "Terafab," a massive chip factory in Texas aimed at securing their own supply of AI and automotive chips. The move would make Musk's companies far less dependent on outside chipmakers at a moment when everyone in tech is scrambling for silicon. One wrinkle: the facility is set to run on natural gas power plants, not Tesla solar panels.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas/">Read more →</a></p>
-
-        <h3>5. OpenAI's AI Smart Speaker Will Reportedly Sell for $300 to $400</h3>
-        <p>OpenAI's first smart speaker will reportedly be priced between $300 and $400 — a premium bet that people will pay Sonos money for a ChatGPT-powered device in their living room. The speaker is part of OpenAI's push into consumer hardware, putting it on a collision course with Amazon's Echo and Google's Nest lines. The AI assistant wars are moving from your phone to your kitchen counter.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/">Read more →</a></p>
-
-        <h3>6. Airbnb Says AI Is Helping It Ship Features Faster</h3>
-        <p>Airbnb CEO Brian Chesky says AI tools are speeding up how quickly the company can build and ship new features, including a new search function it's currently testing. It's a notable real-world data point in the debate over whether AI actually makes companies more productive — from a household-name company rather than an AI vendor with something to sell. The takeaway: AI is quietly changing how big tech companies build software, not just what they sell.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/">Read more →</a></p>
-
-        <h3>7. Gen Z Dating Apps Are Ditching Swiping for AI Matchmaking</h3>
-        <p>A new wave of dating apps aimed at Gen Z, like Ditto, is abandoning the endless swipe in favor of AI matchmakers that learn what you actually want and make introductions for you. The pitch: less time judging profile photos, more time on dates that might work. After a decade of swipe fatigue, the dating industry is betting AI can succeed where the algorithmic feed failed.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/">Read more →</a></p>
       ]]></content:encoded>
     </item>
   </channel>
