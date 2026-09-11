@@ -57,7 +57,7 @@ Salesforce is reportedly negotiating to acquire Listen Labs, which uses an AI mo
 
 ### 7. Companies Have Quietly Stopped Blaming AI for Layoffs — and Started Saying 'Restructuring'
 
-US employers announced 52,881 job cuts in August, and for the first time in five months the leading stated reason was not artificial intelligence but restructuring, according to outplacement firm Challenger, Gray & Christmas. Analysts note the underlying pressure hasn't changed so much as the language has: restructuring announcements often bundle automation-driven headcount reductions with other cost cuts. Technology has still shed 155,126 jobs so far this year, up 52% from the same period in 2025.
+US employers announced 52,881 job cuts in August, and for the first time in five months the top stated reason was restructuring rather than artificial intelligence, according to outplacement firm Challenger, Gray & Christmas. AI was named in just 3,462 cuts, its lowest monthly figure since December 2025 — though it remains the single biggest reason for the year, cited in 116,175 announcements, or roughly 22% of all cuts. Technology has shed 155,126 jobs so far in 2026, up 52% from the same period last year.
 
 [Read more at Challenger, Gray & Christmas →](https://www.challengergray.com/blog/challenger-report-august-job-cuts-up-58-consumer-products-food-lead/)
 
