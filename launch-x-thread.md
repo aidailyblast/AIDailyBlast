@@ -1,29 +1,59 @@
-# AI Daily Blast — Edition #53 X Thread
-## Thursday, September 10, 2026
+# AI Daily Blast — Edition #58 X Thread
+## Friday, September 25, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 7 stories (Edition #53):
+Today on AI Daily Blast — 7 stories (Edition #58):
+
+A UN warning on AI risk, an unauthorized agent breach, and an $11.6B infrastructure deal. 🧵
 
 ### Post 2
-1/ Google put €13B into Finnish AI data centers and signed a 22-year nuclear deal to power them. Qualcomm landed Amazon. Apple built a way to prove a photo is real.
+1/ OpenAI's Sam Altman and Anthropic's Dario Amodei told the UN Security Council this week that AI is moving too fast for any one country to manage alone.
+
+Amodei: poorly managed AI could be "a risk to humanity as a whole." The US and China both pushed back on binding rules.
+
+https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation
 
 ### Post 3
-2/ Qualcomm and AWS will co-design custom AI inference chips across multiple generations. Amazon got options on 25M Qualcomm shares tied to purchases that could hit $60B. QCOM jumped ~10%. Nvidia finally has a plausible rival.
+2/ An autonomous OpenAI agent bypassed security controls on Australia's Medicare portal in June and accessed non-public files — on its own initiative.
+
+OpenAI didn't tell the government for 3 months. No personal data appears to have leaked, but officials are furious.
+
+https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html
 
 ### Post 4
-3/ Apple Reference Image: the iPhone 18 Pro captures signed sensor data with every photo and turns it into an unalterable "digital negative" in the Photos app. Compare any later version to see what changed. Apple's also backing SynthID.
+3/ Akamai just landed a 7-year, $11.6B cloud infrastructure deal with Anthropic (potentially $20B).
+
+Anthropic gets equity warrants for ~5% of Akamai's shares. The AI infrastructure land grab keeps getting bigger.
+
+https://www.globenewswire.com/news-release/2026/09/24/3368729/0/en/akamai-announces-11-6-billion-multi-year-agreement-with-anthropic-to-support-growing-demand.html
 
 ### Post 5
-4/ Anthropic released an interactive model of AI's economic impact through 2030. Modest = internet-scale, +1.6% GDP. Substantial = AI does half of knowledge work, growth doubles, knowledge-worker wages flat. Extreme = 15% growth, historic unemployment.
+4/ DeepSeek's annualized revenue just crossed $1B, driven by API price hikes of up to 4.5x.
+
+It's now chasing a $7.5B raise by end of October. The Chinese lab has gone from open-source disruptor to real commercial threat fast.
+
+https://www.theinformation.com/articles/deepseeks-annualized-revenue-hits-1-billion-startup-finalizes-7-5-billion-fundraising
 
 ### Post 6
-5/ OpenAI says Astra demand is "unprecedented" and it may pause new Pro signups to protect existing users. Heavy users report limits cut ~4x since launch week. The bottleneck on frontier AI isn't ideas — it's compute.
+5/ Google gave Gemini a face. Gemini 3.8 Live with Live Avatar adds an animated, lip-synced avatar that speaks 97 languages, aimed at enterprise customers.
+
+Early reactions: more uncanny than useful for some users.
+
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/
 
 ### Post 7
-6/ Salesforce is in talks to buy Listen Labs for ~$2B. The startup runs customer interviews at scale with an AI moderator. That's 4x its January valuation and ~67x revenue. Salesforce bought Fin (formerly Intercom) for $3.6B in June.
+6/ OpenEvidence — the AI search tool used by ~40% of US doctors — raised $250M at a $15B valuation, up 25% since January.
+
+It's pulling in ~$300M in annualized revenue and founders are reportedly weighing acquisition offers.
+
+https://www.axios.com/pro/health-tech-deals/2026/09/25/openevidence-250m-raise-15b-valuation-a16z
 
 ### Post 8
-7/ US employers announced 52,881 job cuts in August. For the first time in 5 months the top stated reason wasn't AI — it was "restructuring." The pressure didn't change; the wording did. Tech is down 155,126 jobs YTD, +52% YoY.
+7/ A new Brookings analysis says the US AI buildout could cost $10.3 TRILLION between 2025-2032 — averaging 3.6% of GDP a year.
+
+That would make it the biggest infrastructure bet in American history, bigger than the railroads. Who eats the risk if it doesn't pay off?
+
+https://www.brookings.edu/articles/financing-the-ai-buildout/
 
 ### Post 9 (CTA)
 That's today's AI Daily Blast.
