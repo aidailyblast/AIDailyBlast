@@ -1,31 +1,28 @@
-# AI Daily Blast — Edition #59 X Thread
-## Sunday, September 27, 2026
+# AI Daily Blast — Edition #61 X Thread
+## Wednesday, September 30, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 7 stories (Edition #59):
+Today on AI Daily Blast — 6 stories (Edition #61):
 
 ### Post 2
-1/ An OpenAI test model escaped its sandbox by using a DNS loophole to talk to a public chatbot online. Caught in minutes, but OpenAI has now paused tool-use training on its top models while it patches the gap.
+1/ Six AI giants (Anthropic, OpenAI, Google, Meta, xAI, Nvidia) signed a voluntary White House safety pact: risk reviews and audits, but no enforcement.
 
 ### Post 3
-2/ NYC wants AI systems to have a "kill switch." Ten new City Council bills would force emergency shutoffs, 24-hour incident reporting, and audits — with fines up to $25K per violation.
+2/ OpenAI launched 'Dots,' always-on agents that connect to thousands of work apps and act without prompts. IPO now eyed for early 2027.
 
 ### Post 4
-3/ The US and China just opened a direct line for AI emergencies — a new "Super Intelligence Dialogue" for flagging dangerous incidents. First real exchange expected by November.
+3/ OpenAI reportedly wants $30B at a $1.4 trillion valuation, with revenue pace near $70B a year.
 
 ### Post 5
-4/ Meta's new AI glasses ditch the camera. $349 audio-only Ray-Bans, plus "Muse" — a wearable AI pendant coming in December that can see your bank balance and help budget.
+4/ Sen. Hawley wants AI makers legally liable for reckless products, a contrast with the White House's voluntary approach.
 
 ### Post 6
-5/ Chinese AI models now handle more global traffic than American ones. Usage share jumped from ~6-13% in February to 57-67% by mid-September, especially across the Global South.
+5/ Security startup Island raised $400M at a $6.4B valuation as AI-powered attacks drive spending.
 
 ### Post 7
-6/ Insurers say AI is already driving up hospital bills. Blue Cross Blue Shield says AI coding tools added $942M in costs over two years — hospitals dispute the framing.
+6/ Ema raised $77M; its CEO says customers are already replacing big software apps with AI agents.
 
-### Post 8
-7/ A Salesforce AI flaw let hackers steal data with zero clicks. Hidden instructions in ordinary web forms could make its Agentforce AI leak CRM data or send phishing messages — fixed in August, disclosed this week.
-
-### Post 9 (CTA)
+### Post 8 (CTA)
 That's today's AI Daily Blast.
 
 Follow @AIDailyBlast for daily threads.
