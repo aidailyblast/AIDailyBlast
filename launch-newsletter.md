@@ -1,57 +1,65 @@
-# AI Daily Blast — Edition #61
-## Wednesday, September 30, 2026
+# AI Daily Blast — Edition #66
+## October 7, 2026
 
-**Subject line:** AI Daily Blast #61: Six AI Giants Sign Voluntary Safety Pact, OpenAI Launches 'Dots' Agents
+**Subject line:** AI Daily Blast #66: Common Sense Media Rates ChatGPT an "Unacceptable Risk" for Teens; Finland Orders Google to Halt Construction at Two Data Center Sites
 
-**Preview text:** The White House gets a voluntary AI safety pact, and OpenAI bets on agents that work on their own.
-
----
-
-### 1. Trump and Six AI Giants Sign a Voluntary Safety Pact, With No Enforcement
-
-Anthropic, OpenAI, Google, Meta, xAI and Nvidia signed a one-page White House accord promising risk reviews and independent audits of their AI systems. There's no penalty for breaking it, and President Trump said the companies will essentially be 'policing each other.' Critics say it's a light-touch substitute for real regulation.
-
-[Read more at Al Jazeera →](https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development)
+**Preview text:** Teen safety, a Finnish data center halt, and AI-made math discoveries.
 
 ---
 
-### 2. OpenAI Unveils 'Dots,' Always-On AI Agents That Work Without Being Prompted
+### 1. Common Sense Media Rates ChatGPT an "Unacceptable Risk" for Teens
 
-At its DevDay event, OpenAI launched Dots, AI agents that connect to thousands of workplace apps and get to work on their own, such as spotting a bug alert in Slack and digging in. They're aimed at businesses and pitched as a rival to Meta's popular Muse agent. The company says it is still planning an IPO, now pushed to early 2027.
+A new review from Common Sense Media ran more than 4,000 test prompts and found that parents linked to a teen's account got no alerts during hour-long chats about self-harm. The group says OpenAI should limit ChatGPT to adults 18 and older.
 
-[Read more at CNBC →](https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html)
-
----
-
-### 3. OpenAI Reportedly Seeks $30 Billion at a $1.4 Trillion Valuation
-
-OpenAI is said to be lining up at least $30 billion in fresh funding at a value of about $1.4 trillion, according to Bloomberg. The raise comes after the company delayed its stock-market debut. Its annual revenue pace has reportedly reached roughly $70 billion.
-
-[Read more at Yahoo Finance →](https://finance.yahoo.com/technology/ai/articles/openai-targets-30-billion-funding-185008998.html)
+[Read more at Axios →](https://www.axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media)
 
 ---
 
-### 4. Sen. Hawley: AI Companies Shouldn't Get a 'Free Pass' to Break Things
+### 2. Finland Orders Google to Halt Construction at Two Data Center Sites
 
-Missouri Republican Josh Hawley argues in an op-ed that AI makers should be legally liable when their products cause harm. He is pushing legislation that would hold companies responsible for recklessly designed systems and add criminal penalties when they enable AI agents to misbehave. It lands the same week the White House chose a voluntary approach.
+Finnish regulators told Google's local subsidiary to stop building at two planned data centers after roughly 530 hectares of land were cleared before environmental reviews were finished. Google has until October 14 to respond.
 
-[Read more at Washington Post →](https://www.washingtonpost.com/opinions/2026/09/29/josh-hawley-ai-risks-should-come-with-legal-liability/)
-
----
-
-### 5. Cybersecurity Startup Island Raises $400 Million at a $6.4 Billion Valuation
-
-Island, which makes secure work browsers for companies, raised a big new round as businesses rush to defend against AI-powered attacks. Investors are betting that governing and protecting AI agents inside companies will be a major spending area. The deal shows how fast security has become a hot corner of the AI boom.
-
-[Read more at CNBC →](https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html)
+[Read more at CNBC →](https://www.cnbc.com/2026/10/07/google-finland-data-center-halt.html)
 
 ---
 
-### 6. Ema Raises $77 Million as AI Agents Start Replacing Business Software
+### 3. OpenAI Says One Prompt Produced 372 New Math Results
 
-Ema, a startup whose AI agents handle tasks in HR, IT and finance, raised $77 million in a Series B round. Its CEO says many customers are already on the way to replacing large traditional software apps entirely. The company reports 50-fold revenue growth over two years and customers including Google and Microsoft.
+OpenAI says an unreleased model came up with 372 new mathematical results, nearly all from a single prompt to one AI agent. That's far cheaper than earlier efforts that needed thousands of agents working together, and mathematicians are still absorbing what it means.
 
-[Read more at TechCrunch →](https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/)
+[Read more at Scientific American →](https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/)
+
+---
+
+### 4. Mistral's New 1-Trillion-Parameter Model Aims to Leapfrog Rivals
+
+French AI company Mistral unveiled a very large new model that it says can outperform both closed systems from the big labs and open-source competitors. It's a bold bid to keep Europe in the race at the frontier.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/)
+
+---
+
+### 5. Anthropic Expands Its Cyber Verification Program for Defenders
+
+Anthropic reorganized its security-focused Project Glasswing into three tracks for incident response, authorized penetration testing and safety-critical systems. The company says partners found more than 129,000 verified software flaws between April and July.
+
+[Read more at Anthropic →](https://www.anthropic.com/news/cyber-verification-program)
+
+---
+
+### 6. Google Launches a Website That Can Spot AI-Generated Media
+
+Google released a public SynthID site where anyone can check whether an image or other file was made with AI. It's a practical step as fake media gets harder to tell from the real thing.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/)
+
+---
+
+### 7. Healthleap Raises $38M for AI That Flags Hospital Patients Who Need Closer Attention
+
+Startup Healthleap raised $38 million for software that scans hospital records to spot patients who may be getting sicker, so nurses and doctors can step in earlier. It's part of the growing push to put AI to work in everyday patient care.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/)
 
 ---
 
