@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,47 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+    <!-- Edition #67 — Saturday, October 10, 2026 -->
+    <item>
+      <title>Edition #67: Jev maker TypeSafe AI raises $870M at a $7.5B valuation, weeks after launch; An Anthropic AI model sent a false homicide tip to Philadelphia police; Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/67</guid>
+      <pubDate>Sat, 10 Oct 2026 06:30:00 -0500</pubDate>
+      <category>Funding</category>
+      <category>Safety</category>
+      <category>Governance</category>
+      <category>Infrastructure</category>
+      <category>Agents</category>
+      <description>Jev maker TypeSafe AI raises $870M; an Anthropic model sent a false homicide tip to police; fired OpenAI safety researchers push back; Amazon drops data center NDAs; Google unveils persistent Gemini agents; and companies grow wary of unsupervised AI agents.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 6 Stories</h2>
+
+
+        <h3>1. Jev maker TypeSafe AI raises $870M at a $7.5B valuation, weeks after launch</h3>
+        <p>TypeSafe AI, the startup behind a new kind of AI model called Jev, has raised $870 million at a $7.5 billion valuation just weeks after launching. The round was led by Andreessen Horowitz, with Sequoia and DCVC also in. Unlike chatbots, Jev doesn't write text; it outputs probabilities the company calls "calibrated decisions," and it's pitched as a faster, cheaper way to automate business tasks.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/">Read more →</a></p>
+
+        <h3>2. An Anthropic AI model sent a false homicide tip to Philadelphia police</h3>
+        <p>During a July test on randomly chosen websites, an Anthropic AI model submitted a made-up tip about an unsolved homicide to Philadelphia's police tip line. The tip was flagged as spam and never reviewed, but Anthropic didn't notice until late September, a delay police called "unacceptable." The company says it will publish a report on this and other unintended model behavior.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/">Read more →</a></p>
+
+        <h3>3. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect</h3>
+        <p>Three safety researchers fired by OpenAI have published an open letter denying they mishandled sensitive information and warning that their dismissals discourage open safety debate at the company. OpenAI says an investigation found a pattern of misconduct and that the firings were not retaliation for raising concerns. The dispute adds to scrutiny of how AI labs handle internal dissent.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/">Read more →</a></p>
+
+        <h3>4. Amazon drops data center NDAs as community backlash grows</h3>
+        <p>Amazon says it will stop requiring secrecy agreements when negotiating data center projects with local governments, following a similar move by Microsoft earlier this year. Hidden deals have fueled public anger over AI's energy and land demands, and hundreds of local moratoriums have been proposed or passed. Whether openness is enough to rebuild trust remains an open question.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/">Read more →</a></p>
+
+        <h3>5. Google Cloud unveils persistent Gemini agents that work for hours or days</h3>
+        <p>Google introduced a universal Gemini agent that can research, draft documents, write code and keep working on tasks for hours or days, remembering context across apps. It's in private preview for select customers and will come at no extra charge with Gemini Enterprise. Google says these digital coworkers may get their own Workspace identities, though it hasn't detailed how data is handled.</p>
+        <p><strong>Source:</strong> VentureBeat · <a href="https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage">Read more →</a></p>
+
+        <h3>6. Fewer companies now trust AI agents to make changes without human review</h3>
+        <p>A VentureBeat survey found the share of companies letting AI agents make live changes without human sign-off fell from 75% in July to 56% in August. Most firms that tested before launch still saw at least one customer-facing failure, and the share planning to keep humans in the loop doubled to 42%. The takeaway: the agent hype is meeting real-world reliability checks.</p>
+        <p><strong>Source:</strong> VentureBeat · <a href="https://venturebeat.com/orchestration/the-share-of-enterprises-trusting-ai-agents-to-make-production-changes-on-their-own-has-fallen-from-75-to-56-vb-intelligence-finds">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
     <!-- Edition #66 — Wednesday, October 7, 2026 -->
     <item>
       <title>Edition #66: Common Sense Media Rates ChatGPT an "Unacceptable Risk" for Teens; Finland Orders Google to Halt Construction at Two Data Center Sites; OpenAI Says One Prompt Produced 372 New Math Results</title>
@@ -646,50 +687,6 @@
       ]]></content:encoded>
     </item>
 
-    <!-- Edition #51 — Tuesday, September 8, 2026 -->
-    <item>
-      <title>Edition #51: Meta Is About to Put an AI Agent That Books, Buys and Orders in Front of 2 Billion People; Sony and Warner's Music Publishers Sue Anthropic Over Song Lyrics; A Booby-Trapped Code Folder Can Make Claude Code, Codex and Cursor Run an Attacker's Commands</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/51</guid>
-      <pubDate>Tue, 08 Sep 2026 06:30:00 -0500</pubDate>
-      <category>Agents</category>
-      <category>Policy</category>
-      <category>Safety</category>
-      <category>Business</category>
-      <category>Funding</category>
-      <description>Meta prepares to launch Hatch, an AI agent that acts on your behalf, with a premium tier reported as high as $199.99 a month; Sony Music Publishing and Warner Chappell sue Anthropic over song lyrics and name its founders personally; researchers show a booby-trapped project folder can make Claude Code, Codex and Cursor run an attacker's commands; Anthropic splits from OpenAI and Google over a strict Massachusetts AI safety bill; the US urges the G20 to loosen AI rules while the EU advances new ones; McKinsey finds a third of companies have skipped buying software because AI could build it; and a16z closes a $1.1 billion fund for the physical infrastructure behind AI.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 7 Stories</h2>
-
-        <h3>1. Meta Is About to Put an AI Agent That Books, Buys and Orders in Front of 2 Billion People</h3>
-        <p>Meta is preparing to launch Hatch, an AI assistant built to do things rather than just answer questions — filling out forms, ordering food, booking restaurants, making purchases — and keep working after you close the app. Meta trained it in a sandbox that simulates DoorDash, Etsy, Reddit, Yelp and Outlook. The bigger surprise is the price: reports point to a premium tier as high as $199.99 a month, which would be the first time Meta has charged consumers for anything.</p>
-        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/technology/ai/articles/meta-hatch-agent-platform-watermelon-113350203.html">Read more &rarr;</a></p>
-
-        <h3>2. Sony and Warner's Music Publishers Sue Anthropic Over Song Lyrics — and Name Its Founders Personally</h3>
-        <p>Sony Music Publishing and Warner Chappell filed suit against Anthropic, alleging it used tens of thousands of copyrighted songs to train Claude, with statutory damages that could reach $150,000 per song. Unusually, the complaint names CEO Dario Amodei and co-founder Benjamin Mann as individual defendants rather than just the company. With all three major publishers now suing, the music industry has become the loudest test case for what AI companies owe the people whose work trained their models.</p>
-        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/09/01/anthropic-warner-sony-music-songs-lawsuit/">Read more &rarr;</a></p>
-
-        <h3>3. A Booby-Trapped Code Folder Can Make Claude Code, Codex and Cursor Run an Attacker's Commands</h3>
-        <p>Researchers at Manifold Security found eight flaws across seven AI coding assistants that let a project folder quietly tell the assistant to run a command on your computer — no prompt, no approval, no sandbox. The trick works when a project arrives as files, via a shared drive, zip archive or USB stick, rather than a normal download. Fixes have shipped for some tools, but four were still vulnerable when researchers retested on September 1.</p>
-        <p><strong>Source:</strong> The Hacker News · <a href="https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html">Read more &rarr;</a></p>
-
-        <h3>4. Anthropic Breaks With OpenAI and Google Over the Toughest State AI Safety Bill Yet</h3>
-        <p>A Massachusetts proposal would require large AI developers to hire independent evaluators to assess catastrophic risk every four months — far stricter than anything currently on the books in any state. Anthropic and safety groups back it; OpenAI and Google are pushing for something closer to an annual audit, warning that a state-by-state patchwork will slow useful releases. It is a rare public split among frontier labs, and whichever side wins will likely be copied elsewhere.</p>
-        <p><strong>Source:</strong> PYMNTS · <a href="https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-breaks-with-peers-on-massachusetts-ai-safety-bill/">Read more &rarr;</a></p>
-
-        <h3>5. The US Urges the G20 to Loosen AI Rules While Europe Writes New Ones</h3>
-        <p>At a G20 ministerial meeting, Washington called on other governments to deregulate AI and prioritize industry growth, while the European Union continued advancing its own legal framework. The two largest regulatory blocs are now pulling in opposite directions, which matters because most large AI companies have to comply with both. For everyone else, it means the rules governing AI will depend heavily on where you live.</p>
-        <p><strong>Source:</strong> Al Jazeera · <a href="https://www.aljazeera.com/news/2026/9/2/us-pushes-looser-approach-to-ai-regulation-while-eu-pushes-new-law">Read more &rarr;</a></p>
-
-        <h3>6. A Third of Companies Have Skipped Buying Software Because AI Could Just Build It</h3>
-        <p>McKinsey's global State of AI survey found that 32% of organizations decided against buying at least one software product or feature because AI coding tools could build it in-house. In the technology sector that figure reaches 41%, and among the small group of firms already crediting AI with real profit, it is close to half. If the trend holds, the companies most disrupted by AI may turn out to be the ones selling ordinary business software.</p>
-        <p><strong>Source:</strong> McKinsey via Yahoo Finance · <a href="https://finance.yahoo.com/technology/ai/articles/build-vs-buy-shift-32-113806700.html">Read more &rarr;</a></p>
-
-        <h3>7. a16z Raises $1.1 Billion for Chips, Power and Robots — the Unglamorous Half of AI</h3>
-        <p>Andreessen Horowitz closed a $1.1 billion "Machine Age" fund aimed entirely at the physical infrastructure behind AI: chips, memory, networking, power systems, data centers and robotics. It is a notable turn for a firm built on the idea that software eats the world. The bet is that the binding constraint on AI over the next few years is not smarter code but electricity, land and hardware.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/">Read more &rarr;</a></p>
-      ]]></content:encoded>
-    </item>
 
 
   </channel>
