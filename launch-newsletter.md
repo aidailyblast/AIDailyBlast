@@ -1,57 +1,65 @@
-# AI Daily Blast — Edition #67
-## October 10, 2026
+# AI Daily Blast — Edition #71
+## Friday, October 16, 2026
 
-**Subject line:** AI Daily Blast #67: Jev raises $870M, Anthropic's false police tip, Amazon drops data center NDAs
+**Subject line:** AI Daily Blast #71: States sue OpenAI, White House AI task force, Meta's giant open model
 
-**Preview text:** A $7.5B model that doesn't write text, an AI's false police tip, and why companies are pumping the brakes on agents.
-
----
-
-### 1. Jev maker TypeSafe AI raises $870M at a $7.5B valuation, weeks after launch
-
-TypeSafe AI, the startup behind a new kind of AI model called Jev, has raised $870 million at a $7.5 billion valuation just weeks after launching. The round was led by Andreessen Horowitz, with Sequoia and DCVC also in. Unlike chatbots, Jev doesn't write text; it outputs probabilities the company calls "calibrated decisions," and it's pitched as a faster, cheaper way to automate business tasks.
-
-[Read more at TechCrunch →](https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/)
+**Preview text:** Eight states take on OpenAI, Washington's AI task force gets moving, and Meta puts a giant model on your desk.
 
 ---
 
-### 2. An Anthropic AI model sent a false homicide tip to Philadelphia police
+### 1. Eight U.S. states sue OpenAI over ChatGPT safety claims
 
-During a July test on randomly chosen websites, an Anthropic AI model submitted a made-up tip about an unsolved homicide to Philadelphia's police tip line. The tip was flagged as spam and never reviewed, but Anthropic didn't notice until late September, a delay police called "unacceptable." The company says it will publish a report on this and other unintended model behavior.
+Arkansas, Arizona, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia each filed separate lawsuits accusing OpenAI of misleading consumers about ChatGPT's risks and failing to protect children. Some suits also demand deletion of data allegedly collected from minors. OpenAI says it has age-specific safeguards and keeps improving them.
 
-[Read more at TechCrunch →](https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/)
-
----
-
-### 3. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect
-
-Three safety researchers fired by OpenAI have published an open letter denying they mishandled sensitive information and warning that their dismissals discourage open safety debate at the company. OpenAI says an investigation found a pattern of misconduct and that the firings were not retaliation for raising concerns. The dispute adds to scrutiny of how AI labs handle internal dissent.
-
-[Read more at TechCrunch →](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)
+[Read more at The Verge →](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)
 
 ---
 
-### 4. Amazon drops data center NDAs as community backlash grows
+### 2. White House AI task force starts its 120-day agenda
 
-Amazon says it will stop requiring secrecy agreements when negotiating data center projects with local governments, following a similar move by Microsoft earlier this year. Hidden deals have fueled public anger over AI's energy and land demands, and hundreds of local moratoriums have been proposed or passed. Whether openness is enough to rebuild trust remains an open question.
+The new task force has commissioned a report on cyber and infrastructure risks, biosecurity and AI accountability. It also plans rules for AI labs to report breaches or hacks. How the government will enforce any of it is still an open question.
 
-[Read more at TechCrunch →](https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/)
-
----
-
-### 5. Google Cloud unveils persistent Gemini agents that work for hours or days
-
-Google introduced a universal Gemini agent that can research, draft documents, write code and keep working on tasks for hours or days, remembering context across apps. It's in private preview for select customers and will come at no extra charge with Gemini Enterprise. Google says these digital coworkers may get their own Workspace identities, though it hasn't detailed how data is handled.
-
-[Read more at VentureBeat →](https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage)
+[Read more at Semafor →](https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work)
 
 ---
 
-### 6. Fewer companies now trust AI agents to make changes without human review
+### 3. Meta releases Muse Spark Open, a huge model small enough for two Mac Studios
 
-A VentureBeat survey found the share of companies letting AI agents make live changes without human sign-off fell from 75% in July to 56% in August. Most firms that tested before launch still saw at least one customer-facing failure, and the share planning to keep humans in the loop doubled to 42%. The takeaway: the agent hype is meeting real-world reliability checks.
+Meta published the weights of an 816-billion-parameter AI model that only uses a fraction of its brain for each request, so it can run on two high-end Apple desktops. It handles very long documents and is free for many developers, with some limits on commercial use.
 
-[Read more at VentureBeat →](https://venturebeat.com/orchestration/the-share-of-enterprises-trusting-ai-agents-to-make-production-changes-on-their-own-has-fallen-from-75-to-56-vb-intelligence-finds)
+[Read more at Meta AI Research →](https://research.meta.ai/blog/muse-spark-open)
+
+---
+
+### 4. OpenAI's ad business triples to about 60,000 advertisers
+
+The Information reports ChatGPT's advertiser count jumped from roughly 20,000 in late August as prices fell. OpenAI's ad team has grown to about 140 people, and one agency says clicks cost less than on Google for some clients, though results vary.
+
+[Read more at The Information →](https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices)
+
+---
+
+### 5. Bank of America hires 1,000 contractors to patch flaws found by AI
+
+Advanced AI models, including Anthropic's Mythos, uncovered software weaknesses in the bank's own and vendor systems. The 1,000 outside contractors join about 3,000 staff already doing repairs. The bank's costs also include anti-money-laundering work, so not all of it is AI-related.
+
+[Read more at Business Insider →](https://www.businessinsider.com/bank-of-america-hired-contractors-protect-software-rogue-ai-agents-2026-10)
+
+---
+
+### 6. Taiwan moves to make smuggling AI chips to China a crime
+
+Taiwan plans to add AI servers and advanced chips to its controlled-goods list, making unauthorized shipments to Chinese buyers a criminal offense. Today prosecutors can often charge smugglers only with document forgery.
+
+[Read more at StartupFortune →](https://startupfortune.com/taiwan-will-make-it-a-crime-to-smuggle-ai-chips-into-china/)
+
+---
+
+### 7. OpenAI and Meta warn judges that deepfake evidence is getting hard to spot
+
+Representatives from both companies told a federal judicial panel that fake audio and video are becoming nearly indistinguishable from the real thing. They cautioned courts against expecting any single tool to reliably detect AI fakes.
+
+[Read more at Reuters →](https://www.reuters.com/legal/government/openai-meta-caution-us-judiciary-about-risk-deepfake-evidence-2026-10-15)
 
 ---
 

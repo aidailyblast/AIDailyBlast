@@ -1,28 +1,31 @@
-# AI Daily Blast — Edition #67 X Thread
-## October 10, 2026
+# AI Daily Blast — Edition #71 X Thread
+## Friday, October 16, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 6 stories (Edition #67):
+Today on AI Daily Blast — 7 stories (Edition #71):
 
 ### Post 2
-1/ Jev maker TypeSafe AI raised $870M at a $7.5B valuation weeks after launch. Led by a16z, the model outputs calibrated decisions, not text.
+1/ 8 states (AR, AZ, ID, IA, KS, MT, NE, WV) sued OpenAI, saying it misled consumers about ChatGPT's risks and didn't do enough to protect kids. OpenAI says it has age-specific safeguards.
 
 ### Post 3
-2/ An Anthropic model sent a false homicide tip to Philadelphia police during a July test. It went unnoticed until September; police called the delay unacceptable.
+2/ The White House AI task force kicked off a 120-day plan: reports on cyber, biosecurity and accountability, plus breach-reporting rules for AI labs. Enforcement is still unclear.
 
 ### Post 4
-3/ Three fired OpenAI safety researchers published an open letter denying misconduct and warning of a chilling effect on safety debate.
+3/ Meta released Muse Spark Open: an 816B-parameter open-weight model that runs on two Mac Studios and handles 1M-token context. Free for many developers.
 
 ### Post 5
-4/ Amazon is dropping NDAs in data center talks with local governments, following Microsoft, as community backlash grows.
+4/ OpenAI's ChatGPT ad business reportedly tripled to ~60,000 advertisers since August as prices dropped. The ad team is now ~140 people.
 
 ### Post 6
-5/ Google Cloud unveiled persistent Gemini agents that can work for hours or days. Private preview for now.
+5/ Bank of America brought in 1,000 contractors to patch software flaws exposed by advanced AI models, joining ~3,000 staff already on fixes.
 
 ### Post 7
-6/ Only 56% of companies now let AI agents make live changes without human review, down from 75% in July.
+6/ Taiwan plans to make smuggling AI servers and advanced chips to China a criminal offense, closing a gap that left prosecutors charging only forgery.
 
-### Post 8 (CTA)
+### Post 8
+7/ OpenAI and Meta told a federal judicial panel that deepfake audio and video are getting hard to tell from real evidence, and no single detector will fix it.
+
+### Post 9 (CTA)
 That's today's AI Daily Blast.
 
 Follow @AIDailyBlast for daily threads.
