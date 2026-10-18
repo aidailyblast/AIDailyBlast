@@ -1,65 +1,57 @@
-# AI Daily Blast — Edition #71
-## Friday, October 16, 2026
+# AI Daily Blast — Edition #72
+## Sunday, October 18, 2026
 
-**Subject line:** AI Daily Blast #71: States sue OpenAI, White House AI task force, Meta's giant open model
+**Subject line:** AI Daily Blast #72: OpenAI's humanoid robot, Amazon's union-risk tool, banks block AI agents
 
-**Preview text:** Eight states take on OpenAI, Washington's AI task force gets moving, and Meta puts a giant model on your desk.
-
----
-
-### 1. Eight U.S. states sue OpenAI over ChatGPT safety claims
-
-Arkansas, Arizona, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia each filed separate lawsuits accusing OpenAI of misleading consumers about ChatGPT's risks and failing to protect children. Some suits also demand deletion of data allegedly collected from minors. OpenAI says it has age-specific safeguards and keeps improving them.
-
-[Read more at The Verge →](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)
+**Preview text:** OpenAI confirms a humanoid robot, banks lock out AI agents, and chip stocks keep sliding.
 
 ---
 
-### 2. White House AI task force starts its 120-day agenda
+### 1. OpenAI confirms it is building a humanoid robot, with a demo planned for 2027
 
-The new task force has commissioned a report on cyber and infrastructure risks, biosecurity and AI accountability. It also plans rules for AI labs to report breaches or hacks. How the government will enforce any of it is still an open question.
+Sam Altman says OpenAI will "definitely do a humanoid," arguing the AI brain matters more than the metal body. The company's careers page already lists 27 robotics roles, signaling a serious push into physical machines.
 
-[Read more at Semafor →](https://www.semafor.com/article/10/15/2026/white-houses-ai-task-force-gets-to-work)
-
----
-
-### 3. Meta releases Muse Spark Open, a huge model small enough for two Mac Studios
-
-Meta published the weights of an 816-billion-parameter AI model that only uses a fraction of its brain for each request, so it can run on two high-end Apple desktops. It handles very long documents and is free for many developers, with some limits on commercial use.
-
-[Read more at Meta AI Research →](https://research.meta.ai/blog/muse-spark-open)
+[Read more at Engadget →](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/)
 
 ---
 
-### 4. OpenAI's ad business triples to about 60,000 advertisers
+### 2. Amazon tool reportedly scores UK warehouses on how likely workers are to unionize
 
-The Information reports ChatGPT's advertiser count jumped from roughly 20,000 in late August as prices fell. OpenAI's ad team has grown to about 140 people, and one agency says clicks cost less than on Google for some clients, though results vary.
+openDemocracy reports that an internal Amazon system called Atlas rates sites from 100 to 900 using signals like social media posts and staff surveys. Leaked documents flag two UK warehouses, including a £500M robotic facility.
 
-[Read more at The Information →](https://www.theinformation.com/articles/openais-accelerates-ad-sprint-meta-hires-slashed-prices)
-
----
-
-### 5. Bank of America hires 1,000 contractors to patch flaws found by AI
-
-Advanced AI models, including Anthropic's Mythos, uncovered software weaknesses in the bank's own and vendor systems. The 1,000 outside contractors join about 3,000 staff already doing repairs. The bank's costs also include anti-money-laundering work, so not all of it is AI-related.
-
-[Read more at Business Insider →](https://www.businessinsider.com/bank-of-america-hired-contractors-protect-software-rogue-ai-agents-2026-10)
+[Read more at openDemocracy →](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
 
 ---
 
-### 6. Taiwan moves to make smuggling AI chips to China a crime
+### 3. Big banks are blocking outside AI agents from moving customers' money
 
-Taiwan plans to add AI servers and advanced chips to its controlled-goods list, making unauthorized shipments to Chinese buyers a criminal offense. Today prosecutors can often charge smugglers only with document forgery.
+Schwab's CEO says the firm gets a weekly report of unauthorized AI-agent attempts to reach client accounts, and JPMorgan confirms it blocks outside agents too. With federal rules stalled in Congress, banks are writing their own rules for who is liable when an agent acts for you.
 
-[Read more at StartupFortune →](https://startupfortune.com/taiwan-will-make-it-a-crime-to-smuggle-ai-chips-into-china/)
+[Read more at Forkast →](https://forkast.news/schwab-and-jpmorgan-block-unauthorized-ai-agents-from-moving-money-as-private-ordering-reaches-financial-core/)
 
 ---
 
-### 7. OpenAI and Meta warn judges that deepfake evidence is getting hard to spot
+### 4. Chip stocks slide for an eighth straight day as AI-spending worries grow
 
-Representatives from both companies told a federal judicial panel that fake audio and video are becoming nearly indistinguishable from the real thing. They cautioned courts against expecting any single tool to reliably detect AI fakes.
+The Philadelphia Semiconductor Index fell 3.8% on Saturday's report, with memory makers hit hardest. CoreWeave dropped nearly 12% as investors question whether debt-funded AI data center expansion can pay off.
 
-[Read more at Reuters →](https://www.reuters.com/legal/government/openai-meta-caution-us-judiciary-about-risk-deepfake-evidence-2026-10-15)
+[Read more at BigGo Finance →](https://finance.biggo.com/news/4653f52e-d964-4a23-90e0-9b2091a94646)
+
+---
+
+### 5. Massachusetts weighs some of the strictest AI rules in the country
+
+A Senate proposal tucked into an economic development bill could require outside experts to audit companies' AI systems and safety procedures. It follows major AI-driven cyberattacks and growing warnings about the technology's risks.
+
+[Read more at WBUR →](https://www.wbur.org/news/2026/10/16/ai-regulation-tech-economic-development-bill)
+
+---
+
+### 6. Korean publishers rally 158 groups to demand AI firms disclose the books they train on
+
+The "No Books, No AI" appeal asks AI companies to reveal which works they used and on what legal basis. It cites Anthropic's reported purchase of hundreds of thousands of Korean books.
+
+[Read more at The New Publishing Standard →](https://thenewpublishingstandard.com/2026/10/17/korean-publishers-ai-compensation-appeal/)
 
 ---
 

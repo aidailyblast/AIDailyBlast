@@ -1,31 +1,28 @@
-# AI Daily Blast — Edition #71 X Thread
-## Friday, October 16, 2026
+# AI Daily Blast — Edition #72 X Thread
+## Sunday, October 18, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 7 stories (Edition #71):
+Today on AI Daily Blast — 6 stories (Edition #72):
 
 ### Post 2
-1/ 8 states (AR, AZ, ID, IA, KS, MT, NE, WV) sued OpenAI, saying it misled consumers about ChatGPT's risks and didn't do enough to protect kids. OpenAI says it has age-specific safeguards.
+1/ OpenAI confirms a humanoid robot is coming. Sam Altman says a demo is planned for 2027, and the careers page already lists 27 robotics roles.
 
 ### Post 3
-2/ The White House AI task force kicked off a 120-day plan: reports on cyber, biosecurity and accountability, plus breach-reporting rules for AI labs. Enforcement is still unclear.
+2/ Amazon reportedly uses an internal AI tool to score UK warehouses on how likely workers are to unionize, per openDemocracy.
 
 ### Post 4
-3/ Meta released Muse Spark Open: an 816B-parameter open-weight model that runs on two Mac Studios and handles 1M-token context. Free for many developers.
+3/ Schwab and JPMorgan are blocking outside AI agents from moving customer money. Banks are writing their own liability rules while Congress stalls.
 
 ### Post 5
-4/ OpenAI's ChatGPT ad business reportedly tripled to ~60,000 advertisers since August as prices dropped. The ad team is now ~140 people.
+4/ Chip stocks fell for an 8th straight day. CoreWeave sank ~12% as investors question debt-funded AI data center buildouts.
 
 ### Post 6
-5/ Bank of America brought in 1,000 contractors to patch software flaws exposed by advanced AI models, joining ~3,000 staff already on fixes.
+5/ Massachusetts is weighing some of the strictest AI rules in the US, including outside audits of AI systems and safety procedures.
 
 ### Post 7
-6/ Taiwan plans to make smuggling AI servers and advanced chips to China a criminal offense, closing a gap that left prosecutors charging only forgery.
+6/ 158 Korean groups launched 'No Books, No AI,' demanding AI firms disclose which books they train on.
 
-### Post 8
-7/ OpenAI and Meta told a federal judicial panel that deepfake audio and video are getting hard to tell from real evidence, and no single detector will fix it.
-
-### Post 9 (CTA)
+### Post 8 (CTA)
 That's today's AI Daily Blast.
 
 Follow @AIDailyBlast for daily threads.
