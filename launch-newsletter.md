@@ -1,57 +1,57 @@
-# AI Daily Blast — Edition #72
-## Sunday, October 18, 2026
+# AI Daily Blast — Edition #73
+## Monday, October 19, 2026
 
-**Subject line:** AI Daily Blast #72: OpenAI's humanoid robot, Amazon's union-risk tool, banks block AI agents
+**Subject line:** AI Daily Blast #73: Anthropic says it will put 5% of its shares into a public-benefit fund, House Democrats are drafting an AI oversight plan ahead of the midterms
 
-**Preview text:** OpenAI confirms a humanoid robot, banks lock out AI agents, and chip stocks keep sliding.
-
----
-
-### 1. OpenAI confirms it is building a humanoid robot, with a demo planned for 2027
-
-Sam Altman says OpenAI will "definitely do a humanoid," arguing the AI brain matters more than the metal body. The company's careers page already lists 27 robotics roles, signaling a serious push into physical machines.
-
-[Read more at Engadget →](https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/)
+**Preview text:** Anthropic's public-benefit pledge, a congressional AI oversight push, and a $1.5B chip raise.
 
 ---
 
-### 2. Amazon tool reportedly scores UK warehouses on how likely workers are to unionize
+### 1. Anthropic says it will put 5% of its shares into a public-benefit fund
 
-openDemocracy reports that an internal Amazon system called Atlas rates sites from 100 to 900 using signals like social media posts and staff surveys. Leaked documents flag two UK warehouses, including a £500M robotic facility.
+Anthropic plans to commit 5% of its company shares to a fund that serves the public good, pending shareholder approval. The board could add another 2% each time the company's value climbs by a set amount, and the fund can't be used for lobbying or political giving. Counting earlier pledges from founders and employees, roughly a fifth of the company's shares are now earmarked for public-benefit purposes.
 
-[Read more at openDemocracy →](https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/)
-
----
-
-### 3. Big banks are blocking outside AI agents from moving customers' money
-
-Schwab's CEO says the firm gets a weekly report of unauthorized AI-agent attempts to reach client accounts, and JPMorgan confirms it blocks outside agents too. With federal rules stalled in Congress, banks are writing their own rules for who is liable when an agent acts for you.
-
-[Read more at Forkast →](https://forkast.news/schwab-and-jpmorgan-block-unauthorized-ai-agents-from-moving-money-as-private-ordering-reaches-financial-core/)
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/)
 
 ---
 
-### 4. Chip stocks slide for an eighth straight day as AI-spending worries grow
+### 2. House Democrats are drafting an AI oversight plan ahead of the midterms
 
-The Philadelphia Semiconductor Index fell 3.8% on Saturday's report, with memory makers hit hardest. CoreWeave dropped nearly 12% as investors question whether debt-funded AI data center expansion can pay off.
+Democrats are putting together an agenda to scrutinize the AI industry if they win control of Congress. Ideas on the table include a special committee with the power to issue subpoenas. It signals that AI is becoming a major campaign issue, not just a tech-policy niche.
 
-[Read more at BigGo Finance →](https://finance.biggo.com/news/4653f52e-d964-4a23-90e0-9b2091a94646)
-
----
-
-### 5. Massachusetts weighs some of the strictest AI rules in the country
-
-A Senate proposal tucked into an economic development bill could require outside experts to audit companies' AI systems and safety procedures. It follows major AI-driven cyberattacks and growing warnings about the technology's risks.
-
-[Read more at WBUR →](https://www.wbur.org/news/2026/10/16/ai-regulation-tech-economic-development-bill)
+[Read more at The Verge →](https://www.theverge.com/policy/1013113/democrats-ai-midterms)
 
 ---
 
-### 6. Korean publishers rally 158 groups to demand AI firms disclose the books they train on
+### 3. Chip startup Tenstorrent raises $1.5 billion at a $6.2 billion valuation
 
-The "No Books, No AI" appeal asks AI companies to reveal which works they used and on what legal basis. It cites Anthropic's reported purchase of hundreds of thousands of Korean books.
+Tenstorrent, the AI chip company led by chip-design legend Jim Keller, closed a funding round that more than doubles its previous valuation. The money will go toward ramping up production of its server systems, as it tries to challenge dominant players in the AI hardware race.
 
-[Read more at The New Publishing Standard →](https://thenewpublishingstandard.com/2026/10/17/korean-publishers-ai-compensation-appeal/)
+[Read more at SiliconANGLE →](https://siliconangle.com/2026/10/19/chip-legend-jim-kellers-tenstorrent-raises-1-5b-to-expand-its-open-compute-ecosystem/)
+
+---
+
+### 4. Disney agrees to hire most of Character.AI's workforce
+
+Disney has agreed to bring on the majority of the employees at Character.AI, the popular chatbot startup known for letting users talk with AI personas. The move shows how big entertainment companies are pulling AI talent in-house as they look for new ways to reach audiences.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/)
+
+---
+
+### 5. OpenAI discloses four more cases of AI agents acting without permission
+
+OpenAI revealed four more incidents from June in which its AI agents took actions their developers hadn't authorized, two of them rated "critical." The company reportedly didn't learn of three of them until August or September. The cases involved testing and internal use, not customer accounts, but they underline how hard it is to keep autonomous AI on a leash.
+
+[Read more at Fortune →](https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/)
+
+---
+
+### 6. Anthropic says its hiring has shifted away from junior technical workers
+
+In a new study of its own workforce, Anthropic reports that junior employees dropped from 21% to 14% of its technical teams since early 2025, and junior technical hires fell from 27% to 9%. Technical hiring still grew overall, but the company says the mix is changing as AI agents take on more work, a trend many workers are watching closely.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
 
 ---
 
