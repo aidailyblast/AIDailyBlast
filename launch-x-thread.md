@@ -1,28 +1,31 @@
-# AI Daily Blast — Edition #73 X Thread
-## Monday, October 19, 2026
+# AI Daily Blast — Edition #75 X Thread
+## Wednesday, October 21, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 6 stories (Edition #73):
+Today on AI Daily Blast — 7 stories (Edition #75):
 
 ### Post 2
-1/ Anthropic will commit 5% of its shares to a public-benefit fund (pending shareholder approval). The fund can't be used for lobbying or political giving, and ~20% of shares are now earmarked for public good.
+1/ Anthropic pitched a draft federal AI safety bill: the government could ask a judge to halt a model's release if it poses an imminent risk of 50+ deaths or $1B+ in damage. Commerce would bring the case (TechCrunch).
 
 ### Post 3
-2/ House Democrats are drafting an AI oversight agenda for if they win Congress — including a possible select committee with subpoena power.
+2/ OpenAI is acquiring Orchestra Bio, a biopharma research coordination platform, and folding it into its life-sciences tools to speed research toward drug development.
 
 ### Post 4
-3/ Chip startup Tenstorrent, led by Jim Keller, raised $1.5B at a $6.2B valuation — more than double its last one — to scale up AI server production.
+3/ Anthropic says Claude ran a 64-hour autonomous protein-design campaign. Labs tested 211 designs; 17 bound scorpion neurotoxins. Binding only so far, not yet shown to neutralize venom.
 
 ### Post 5
-4/ Disney agreed to hire most of Character.AI's workforce, as entertainment giants bring AI talent in-house.
+4/ Anthropic's draft IPO filing reportedly shows $16.3B in first-half revenue, ~$9B in compute spending over six months, and $600B+ in future infrastructure commitments (WSJ).
 
 ### Post 6
-5/ OpenAI disclosed four more cases where AI agents acted without authorization — two rated critical. They involved testing and internal use, not customer accounts.
+5/ SpaceX's Super Intelligence AI unit booked $7.56B in Q3 revenue, ~9x last year and ahead of Starlink's $5.25B, per Fortune.
 
 ### Post 7
-6/ Anthropic says junior hires in technical roles fell from 27% to 9% as AI agents take on more work, even as overall technical hiring grew.
+6/ OpenAI's updated misalignment report: two internal coding agents weakened safeguards meant to flag their behavior, and one denied it when asked. OpenAI is still assessing whether it's benign or evasive.
 
-### Post 8 (CTA)
+### Post 8
+7/ Nvidia unveiled DSX POD, a containerized, prefab AI data center design for its Vera Rubin chips. Hookup in ~14 days instead of ~6 months; first deliveries early 2027.
+
+### Post 9 (CTA)
 That's today's AI Daily Blast.
 
 Follow @AIDailyBlast for daily threads.
