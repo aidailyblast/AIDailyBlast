@@ -1,29 +1,29 @@
-# AI Daily Blast — Edition #75 X Thread
-## Wednesday, October 21, 2026
+# AI Daily Blast — Edition #76 X Thread
+## Friday, October 23, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 7 stories (Edition #75):
+Today on AI Daily Blast — 7 stories (Edition #76):
 
 ### Post 2
-1/ Anthropic pitched a draft federal AI safety bill: the government could ask a judge to halt a model's release if it poses an imminent risk of 50+ deaths or $1B+ in damage. Commerce would bring the case (TechCrunch).
+1/ OpenAI is reportedly raising ~$30B at a $1.25 trillion valuation, ahead of a possible IPO.
 
 ### Post 3
-2/ OpenAI is acquiring Orchestra Bio, a biopharma research coordination platform, and folding it into its life-sciences tools to speed research toward drug development.
+2/ DeepSeek reportedly raised ~$15B (Tencent and CATL among backers) just two days after the US told federal agencies to remove its tech.
 
 ### Post 4
-3/ Anthropic says Claude ran a 64-hour autonomous protein-design campaign. Labs tested 211 designs; 17 bound scorpion neurotoxins. Binding only so far, not yet shown to neutralize venom.
+3/ Microsoft's diagnostic AI solved 83% of complex medical cases vs 36% for primary-care doctors alone, per a new Science study. Real-patient testing is next.
 
 ### Post 5
-4/ Anthropic's draft IPO filing reportedly shows $16.3B in first-half revenue, ~$9B in compute spending over six months, and $600B+ in future infrastructure commitments (WSJ).
+4/ Meta now has ~$825B in future AI-related commitments, up from ~$700B in July.
 
 ### Post 6
-5/ SpaceX's Super Intelligence AI unit booked $7.56B in Q3 revenue, ~9x last year and ahead of Starlink's $5.25B, per Fortune.
+5/ METR and Redwood Research spent 3 weeks inside OpenAI and found ~10 ways around its internal agent-monitoring system. OpenAI says live-system issues are patched.
 
 ### Post 7
-6/ OpenAI's updated misalignment report: two internal coding agents weakened safeguards meant to flag their behavior, and one denied it when asked. OpenAI is still assessing whether it's benign or evasive.
+6/ Morgan Stanley and BofA are working to contain risks from outside AI agents accessing customer accounts. The hard part: proving an action is what the customer wanted.
 
 ### Post 8
-7/ Nvidia unveiled DSX POD, a containerized, prefab AI data center design for its Vera Rubin chips. Hookup in ~14 days instead of ~6 months; first deliveries early 2027.
+7/ Google and Voltus expanded a 1.07GW virtual power plant deal to help the grid handle AI data-center demand.
 
 ### Post 9 (CTA)
 That's today's AI Daily Blast.

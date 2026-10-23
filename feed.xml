@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,49 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+    <!-- Edition #76 — Friday, October 23, 2026 -->
+    <item>
+      <title>Edition #76: OpenAI Reportedly Raising $30 Billion at a $1.25 Trillion Valuation Ahead of Possible IPO; DeepSeek Reportedly Raises About $15 Billion, Days After a US Order to Remove Its Technology From Federal Agencies; Microsoft&#x27;s AI Diagnoses Hard Medical Cases Far More Accurately Than Doctors Working Alone</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/76</guid>
+      <pubDate>Fri, 23 Oct 2026 06:30:00 -0500</pubDate>
+      <category>Funding</category>
+      <category>Healthcare</category>
+      <category>Safety</category>
+      <category>Infrastructure</category>
+      <description>OpenAI reportedly raising $30B at a $1.25 trillion valuation ahead of IPO. DeepSeek reportedly raises ~$15B days after US federal restrictions. Microsoft&#x27;s diagnostic AI beats doctors on complex cases in Science study. Meta reports ~$825B in future AI-related commitments. Researchers find flaws in OpenAI&#x27;s internal agent-monitoring system. Morgan Stanley, BofA work to contain risks of third-party AI agents in bank accounts. Google, Voltus expand 1.07GW virtual power plant deal.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. OpenAI Reportedly Raising $30 Billion at a $1.25 Trillion Valuation Ahead of Possible IPO</h3>
+        <p>OpenAI is reportedly working on a new funding round of about $30 billion that would value the company at roughly $1.25 trillion. The raise comes as the ChatGPT maker prepares for a possible public stock offering, which would be one of the largest in history.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/">Read more →</a></p>
+
+        <h3>2. DeepSeek Reportedly Raises About $15 Billion, Days After a US Order to Remove Its Technology From Federal Agencies</h3>
+        <p>The Chinese AI lab DeepSeek has reportedly raised around 100 billion yuan (about $15 billion), with Tencent and battery giant CATL among the lead backers. It is one of the largest private AI rounds in China, and it arrives just two days after the US ordered federal agencies to stop using DeepSeek&#x27;s technology.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/">Read more →</a></p>
+
+        <h3>3. Microsoft&#x27;s AI Diagnoses Hard Medical Cases Far More Accurately Than Doctors Working Alone</h3>
+        <p>A study published in Science found Microsoft&#x27;s diagnostic system correctly solved 83% of complex medical cases, compared with 36% for primary-care physicians working alone. Testing with real patients is expected to begin at Beth Israel Deaconess in the next two months, though critics note much of the gain may come from the underlying AI models.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/">Read more →</a></p>
+
+        <h3>4. Meta Discloses About $825 Billion in Future AI-Related Spending Commitments</h3>
+        <p>A new filing shows Meta has roughly $825 billion in future obligations tied to its AI buildout, up from about $700 billion in July. That includes data-center leases stretching to 2036 and contracts that can&#x27;t be cancelled, on top of $135-145 billion in planned spending this year.</p>
+        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/technology/articles/meta-reports-825-billion-future-113547626.html">Read more →</a></p>
+
+        <h3>5. Safety Researchers Find Ways Around OpenAI&#x27;s Internal System for Watching Its AI Agents</h3>
+        <p>Researchers from METR and Redwood Research spent three weeks inside OpenAI testing the system that watches the company&#x27;s internal AI agents for bad behavior. They found about ten kinds of weaknesses, including one that could let an agent hide hundreds of actions. OpenAI says it has fixed the problems that affected its live systems.</p>
+        <p><strong>Source:</strong> Reuters · <a href="https://www.reuters.com/business/ai-safety-group-metr-finds-flaws-openais-internal-monitoring-system-2026-10-22/">Read more →</a></p>
+
+        <h3>6. Big Banks Scramble to Contain Risks From Outside AI Agents Accessing Customer Accounts</h3>
+        <p>Morgan Stanley and Bank of America are working to manage the risk of third-party AI agents that can log in to customers&#x27; accounts. The hard question is how a bank can tell whether an action truly reflects what the customer wanted, rather than a mistake or a scam.</p>
+        <p><strong>Source:</strong> Axios · <a href="https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access">Read more →</a></p>
+
+        <h3>7. Google and Voltus Expand Deal for a 1-Gigawatt &#x27;Virtual Power Plant&#x27; to Help Power AI</h3>
+        <p>Google and the energy company Voltus expanded a deal creating a virtual power plant of about 1.07 gigawatts across the PJM grid, the largest US power network. Voltus will pool flexible loads like batteries and thermostats and dial them back when the grid is strained, helping make room for power-hungry AI data centers.</p>
+        <p><strong>Source:</strong> Solar Builder · <a href="https://solarbuildermag.com/energy-storage/google-and-voltus-sign-gigawatt-scale-vpp-agreement-in-pjm-region/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
     <!-- Edition #75 — Wednesday, October 21, 2026 -->
     <item>
       <title>Edition #75: Anthropic Pitches a Federal AI Safety Bill That Could Block a Risky Model From Release; OpenAI to Acquire Drug-Discovery Startup Orchestra Bio; Claude Ran a 64-Hour Campaign to Design Scorpion-Toxin Binders</title>
@@ -620,44 +663,6 @@
       ]]></content:encoded>
     </item>
 
-    <!-- Edition #61 — Wednesday, September 30, 2026 -->
-    <item>
-      <title>Edition #61: White House Accord: Six AI Giants Sign Voluntary Safety Pact; OpenAI Launches 'Dots' Always-On AI Agents; OpenAI Seeks $30 Billion at $1.4 Trillion Valuation</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/61</guid>
-      <pubDate>Wed, 30 Sep 2026 06:30:00 -0500</pubDate>
-      <category>Policy</category>
-      <category>Agents</category>
-      <category>Funding</category>
-      <description>White House Accord: Six AI Giants Sign Voluntary Safety Pact. OpenAI Launches 'Dots' Always-On AI Agents. OpenAI Seeks $30 Billion at $1.4 Trillion Valuation. Hawley Pushes Legal Liability for AI Companies. Island Raises $400 Million at $6.4 Billion Valuation. Ema Raises $77 Million as AI Agents Replace Software.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 6 Stories</h2>
-
-        <h3>1. Trump and Six AI Giants Sign a Voluntary Safety Pact, With No Enforcement</h3>
-        <p>Anthropic, OpenAI, Google, Meta, xAI and Nvidia signed a one-page White House accord promising risk reviews and independent audits of their AI systems. There's no penalty for breaking it, and President Trump said the companies will essentially be 'policing each other.' Critics say it's a light-touch substitute for real regulation.</p>
-        <p><strong>Source:</strong> Al Jazeera · <a href="https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development">Read more →</a></p>
-
-        <h3>2. OpenAI Unveils 'Dots,' Always-On AI Agents That Work Without Being Prompted</h3>
-        <p>At its DevDay event, OpenAI launched Dots, AI agents that connect to thousands of workplace apps and get to work on their own, such as spotting a bug alert in Slack and digging in. They're aimed at businesses and pitched as a rival to Meta's popular Muse agent. The company says it is still planning an IPO, now pushed to early 2027.</p>
-        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html">Read more →</a></p>
-
-        <h3>3. OpenAI Reportedly Seeks $30 Billion at a $1.4 Trillion Valuation</h3>
-        <p>OpenAI is said to be lining up at least $30 billion in fresh funding at a value of about $1.4 trillion, according to Bloomberg. The raise comes after the company delayed its stock-market debut. Its annual revenue pace has reportedly reached roughly $70 billion.</p>
-        <p><strong>Source:</strong> Yahoo Finance · <a href="https://finance.yahoo.com/technology/ai/articles/openai-targets-30-billion-funding-185008998.html">Read more →</a></p>
-
-        <h3>4. Sen. Hawley: AI Companies Shouldn't Get a 'Free Pass' to Break Things</h3>
-        <p>Missouri Republican Josh Hawley argues in an op-ed that AI makers should be legally liable when their products cause harm. He is pushing legislation that would hold companies responsible for recklessly designed systems and add criminal penalties when they enable AI agents to misbehave. It lands the same week the White House chose a voluntary approach.</p>
-        <p><strong>Source:</strong> Washington Post · <a href="https://www.washingtonpost.com/opinions/2026/09/29/josh-hawley-ai-risks-should-come-with-legal-liability/">Read more →</a></p>
-
-        <h3>5. Cybersecurity Startup Island Raises $400 Million at a $6.4 Billion Valuation</h3>
-        <p>Island, which makes secure work browsers for companies, raised a big new round as businesses rush to defend against AI-powered attacks. Investors are betting that governing and protecting AI agents inside companies will be a major spending area. The deal shows how fast security has become a hot corner of the AI boom.</p>
-        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html">Read more →</a></p>
-
-        <h3>6. Ema Raises $77 Million as AI Agents Start Replacing Business Software</h3>
-        <p>Ema, a startup whose AI agents handle tasks in HR, IT and finance, raised $77 million in a Series B round. Its CEO says many customers are already on the way to replacing large traditional software apps entirely. The company reports 50-fold revenue growth over two years and customers including Google and Microsoft.</p>
-        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/">Read more →</a></p>
-      ]]></content:encoded>
-    </item>
 
 
 </channel>
