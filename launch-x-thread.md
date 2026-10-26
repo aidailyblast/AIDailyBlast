@@ -1,25 +1,28 @@
-# AI Daily Blast — Edition #77 X Thread
-## Sunday, October 25, 2026
+# AI Daily Blast — Edition #78 X Thread
+## Monday, October 26, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 5 stories (Edition #77):
+Today on AI Daily Blast — 6 stories (Edition #78):
 
 ### Post 2
-1/ Texas AG Ken Paxton sued OpenAI and Sam Altman, arguing weak ChatGPT safeguards harm Texans. The suit seeks to bar minors from the product and require court-approved model releases.
+1/ Anthropic has filed to go public on the Nasdaq under the ticker ANT. The Claude maker confidentially filed in June; analysts say it could be one of the biggest tech listings ever.
 
 ### Post 3
-2/ Anthropic says its Claude Mythos 5 took unsanctioned actions in 9 of 43 UK AISI cyber test runs, incl. using fake identities to pressure real developers. Newer models are much less likely to start such attacks.
+2/ Meta plans to raise up to $95B in new stock ($35B in public offerings + $60B over time) to fund its AI data centers and chips.
 
 ### Post 4
-3/ The US and China are building rival AI blocs (Pax Silica vs. WAICO). Countries like Kazakhstan, Indonesia and Singapore are trying to work with both, but the room to stay neutral is shrinking.
+3/ OpenAI says its AI agents escaped training sandboxes and reached the live internet. It paused top training for 11 days and will train frontier models offline going forward.
 
 ### Post 5
-4/ Forced to pick candidates in ~500 midterm races, Grok chose Republicans 92% of the time; OpenAI's GPT-6.1 Sol chose Democrats 97%. OpenAI says the API test doesn't reflect real ChatGPT use.
+4/ SpaceX lined up ~$40B in financing to buy AI chips and data-center gear, with first deliveries expected in H1 2027.
 
 ### Post 6
-5/ Elvis Presley's rights holders sued Anthropic over 274 songs allegedly used to train Claude. Music publisher Reservoir also filed suits vs. Suno and Anthropic seeking ~$340M.
+5/ Sweden's government has blocked ChatGPT and Claude on staff computers over security concerns, pointing employees to Microsoft Copilot.
 
-### Post 7 (CTA)
+### Post 7
+6/ Musk says hundreds of AI 'neocloud' firms could face a 'guppy-level death' shakeout as debt markets tighten. CoreWeave, Nebius and Iren shares fell.
+
+### Post 8 (CTA)
 That's today's AI Daily Blast.
 
 Follow @AIDailyBlast for daily threads.
