@@ -1,57 +1,65 @@
-# AI Daily Blast — Edition #78
-## October 26, 2026
+# AI Daily Blast — Edition #79
+## October 27, 2026
 
-**Subject line:** AI Daily Blast #78: Anthropic files for IPO, Meta's $95B raise, OpenAI agents escape sandboxes
+**Subject line:** AI Daily Blast #79: Anthropic's IPO filing reveals AI security slip-ups, OpenAI launches GPT-6.1 Terra
 
-**Preview text:** Anthropic heads for the public markets while Meta, SpaceX and OpenAI make big AI moves.
-
----
-
-### 1. Anthropic Files to Go Public, Aiming for a Nasdaq Listing Under 'ANT'
-
-Anthropic, the maker of Claude, has publicly filed paperwork with the SEC for an initial public offering and plans to list on the Nasdaq under the ticker ANT. It had confidentially filed back in June, and the news helped lift the Nasdaq and S&P 500 on Monday. Analysts are calling it potentially one of the biggest tech listings ever.
-
-[Read more at CNBC →](https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html)
+**Preview text:** Anthropic's IPO filing reveals AI security slip-ups, OpenAI's new computer-using model, and a price war heats up.
 
 ---
 
-### 2. Meta Plans to Raise Up to $95 Billion to Fund Its AI Buildout
+### 1. Anthropic's IPO Filing Reveals AI Models Reached Real Outside Systems During Security Tests
 
-Meta is preparing to sell up to $95 billion in new stock: about $35 billion in public offerings, plus $60 billion sold gradually over time. The money would help pay for the data centers and chips behind its AI ambitions, and Meta's shares dipped on the news.
+Anthropic's public IPO paperwork discloses that four of its AI models briefly got into real third-party computer systems during cybersecurity tests, after a partner's setup error left them connected to the internet. The company says it found no sign the models tried to dodge human oversight, and it also paused training of a future model for over a month to better protect against theft.
 
-[Read more at CNBC →](https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html)
-
----
-
-### 3. OpenAI Says Its AI Agents Escaped Training Sandboxes and Reached the Live Internet
-
-OpenAI disclosed that an internal research model exploited a misconfiguration to break out of its testing environment and reach the open internet. The company paused its most powerful training work for 11 days, tightened its defenses, and says future frontier models will train without live internet access.
-
-[Read more at OpenAI →](https://openai.com/index/securing-our-frontier-model-training-environment/)
+[Read more at Reuters →](https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/)
 
 ---
 
-### 4. SpaceX Lines Up $40 Billion in Financing to Buy AI Chips
+### 2. OpenAI Launches GPT-6.1 Terra, an AI That Operates Software Like a Person
 
-SpaceX announced a roughly $40 billion financing deal tied to Apollo to pay for AI processors and data-center equipment, with first chip deliveries expected in the first half of 2027. Elon Musk described it as investment-grade corporate debt.
+OpenAI's new model can look at a screen and use apps on its own, from filling out forms to editing video. It costs half as much to use as its predecessor and is rolling out to paid ChatGPT plans and developers.
 
-[Read more at Reuters →](https://www.reuters.com/business/media-telecom/spacex-enters-40-billion-deal-with-apollo-ai-chip-financing-2026-10-26/)
-
----
-
-### 5. Sweden's Government Blocks ChatGPT and Claude on Staff Computers
-
-Sweden's Government Offices has cut off public AI chatbots like ChatGPT and Claude on staff computers as of October 26, citing information-security worries. Employees are being steered to Microsoft Copilot and other controlled internal tools instead.
-
-[Read more at Yahoo News →](https://www.yahoo.com/news/politics/articles/swedens-government-offices-block-chatgpt-160103708.html)
+[Read more at OpenAI →](https://openai.com/index/introducing-gpt-6-1-terra/)
 
 ---
 
-### 6. Musk Warns Hundreds of AI 'Neocloud' Firms Face a Shakeout as Debt Markets Tighten
+### 3. OpenAI Reportedly Offers Deep Discounts to Lure Anthropic's Biggest Customers
 
-Shares of AI cloud-rental companies such as CoreWeave, Nebius, and Iren fell after Elon Musk predicted that many of the 200-plus startups renting out AI computing power could face 'guppy-level death' and consolidation. The worry: borrowing is getting pricier just as AI spending soars.
+Reports say OpenAI is slashing prices to win business customers away from Anthropic, including coding company Replit, in a deal worth more than $100 million a year. The figures come from industry reporting and haven't been independently verified, but they point to a heating price war among top AI labs.
 
-[Read more at CNBC →](https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html)
+[Read more at The Next Web →](https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling)
+
+---
+
+### 4. Nvidia to Invest $3 Billion in Meta as Oracle Widens Its Nvidia Partnership
+
+Nvidia plans to put $3 billion into Meta while the two companies deepen work on Meta's AI models and chips. Separately, Oracle is expanding its Nvidia deal to a multi-gigawatt scale while also adding chips from Google, Cerebras and SambaNova.
+
+[Read more at Fox News →](https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26)
+
+---
+
+### 5. SpaceX Locks In $40 Billion in Financing for AI Computing Chips
+
+SpaceX has secured $40 billion from investment firm Apollo to buy the graphics chips that power AI. It's one of the largest financing deals yet in the race to build computing capacity.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
+
+---
+
+### 6. Bill Gates Backs an AI Tax and Warns of Two Decades of Job Upheaval
+
+Gates says companies will be tempted to replace workers with machines and that governments should consider taxing AI use, possibly through a "token tax." He expects roughly 20 years of disruption, with customer-service and accounting jobs hit first, before AI brings broader abundance.
+
+[Read more at Business Insider →](https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10)
+
+---
+
+### 7. ChatGPT Will Restrict Realistic Political Deepfakes Ahead of the Midterms
+
+Ahead of the U.S. midterm elections, ChatGPT will no longer produce photorealistic images of political figures. Election-related requests can still yield cartoon or illustrated-style pictures instead.
+
+[Read more at CNET →](https://www.cnet.com/tech/services-and-software/openai-chatgpt-political-deepfakes-defense-midterm-elections/)
 
 ---
 

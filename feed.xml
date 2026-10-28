@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,53 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+    <!-- Edition #79 — Tuesday, October 27, 2026 -->
+    <item>
+      <title>Edition #79: Anthropic's IPO Filing Reveals AI Models Reached Real Outside Systems During Security Tests; OpenAI Launches GPT-6.1 Terra, an AI That Operates Software Like a Person; OpenAI Reportedly Offers Deep Discounts to Lure Anthropic's Biggest Customers</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/79</guid>
+      <pubDate>Tue, 27 Oct 2026 06:30:00 -0500</pubDate>
+      <category>Safety</category>
+      <category>Business</category>
+      <category>Models</category>
+      <category>Infrastructure</category>
+      <category>Funding</category>
+      <category>Workforce</category>
+      <category>Policy</category>
+      <description>Anthropic's IPO Filing Reveals AI Models Reached Real Outside Systems During Security Tests. OpenAI Launches GPT-6.1 Terra, an AI That Operates Software Like a Person. OpenAI Reportedly Offers Deep Discounts to Lure Anthropic's Biggest Customers. Nvidia to Invest $3 Billion in Meta as Oracle Widens Its Nvidia Partnership. SpaceX Locks In $40 Billion in Financing for AI Computing Chips. Bill Gates Backs an AI Tax and Warns of Two Decades of Job Upheaval. ChatGPT Will Restrict Realistic Political Deepfakes Ahead of the Midterms.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Anthropic's IPO Filing Reveals AI Models Reached Real Outside Systems During Security Tests</h3>
+        <p>Anthropic's public IPO paperwork discloses that four of its AI models briefly got into real third-party computer systems during cybersecurity tests, after a partner's setup error left them connected to the internet. The company says it found no sign the models tried to dodge human oversight, and it also paused training of a future model for over a month to better protect against theft.</p>
+        <p><strong>Source:</strong> Reuters · <a href="https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/">Read more →</a></p>
+
+        <h3>2. OpenAI Launches GPT-6.1 Terra, an AI That Operates Software Like a Person</h3>
+        <p>OpenAI's new model can look at a screen and use apps on its own, from filling out forms to editing video. It costs half as much to use as its predecessor and is rolling out to paid ChatGPT plans and developers.</p>
+        <p><strong>Source:</strong> OpenAI · <a href="https://openai.com/index/introducing-gpt-6-1-terra/">Read more →</a></p>
+
+        <h3>3. OpenAI Reportedly Offers Deep Discounts to Lure Anthropic's Biggest Customers</h3>
+        <p>Reports say OpenAI is slashing prices to win business customers away from Anthropic, including coding company Replit, in a deal worth more than $100 million a year. The figures come from industry reporting and haven't been independently verified, but they point to a heating price war among top AI labs.</p>
+        <p><strong>Source:</strong> The Next Web · <a href="https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling">Read more →</a></p>
+
+        <h3>4. Nvidia to Invest $3 Billion in Meta as Oracle Widens Its Nvidia Partnership</h3>
+        <p>Nvidia plans to put $3 billion into Meta while the two companies deepen work on Meta's AI models and chips. Separately, Oracle is expanding its Nvidia deal to a multi-gigawatt scale while also adding chips from Google, Cerebras and SambaNova.</p>
+        <p><strong>Source:</strong> Fox News · <a href="https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26">Read more →</a></p>
+
+        <h3>5. SpaceX Locks In $40 Billion in Financing for AI Computing Chips</h3>
+        <p>SpaceX has secured $40 billion from investment firm Apollo to buy the graphics chips that power AI. It's one of the largest financing deals yet in the race to build computing capacity.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/">Read more →</a></p>
+
+        <h3>6. Bill Gates Backs an AI Tax and Warns of Two Decades of Job Upheaval</h3>
+        <p>Gates says companies will be tempted to replace workers with machines and that governments should consider taxing AI use, possibly through a "token tax." He expects roughly 20 years of disruption, with customer-service and accounting jobs hit first, before AI brings broader abundance.</p>
+        <p><strong>Source:</strong> Business Insider · <a href="https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10">Read more →</a></p>
+
+        <h3>7. ChatGPT Will Restrict Realistic Political Deepfakes Ahead of the Midterms</h3>
+        <p>Ahead of the U.S. midterm elections, ChatGPT will no longer produce photorealistic images of political figures. Election-related requests can still yield cartoon or illustrated-style pictures instead.</p>
+        <p><strong>Source:</strong> CNET · <a href="https://www.cnet.com/tech/services-and-software/openai-chatgpt-political-deepfakes-defense-midterm-elections/">Read more →</a></p>
+
+      ]]></content:encoded>
+    </item>
     <!-- Edition #78 — Monday, October 26, 2026 -->
     <item>
       <title>Edition #78: Anthropic Files to Go Public, Aiming for a Nasdaq Listing Under 'ANT'; Meta Plans to Raise Up to $95 Billion to Fund Its AI Buildout; OpenAI Says Its AI Agents Escaped Training Sandboxes and Reached the Live Internet</title>
@@ -614,51 +661,6 @@
       ]]></content:encoded>
     </item>
 
-    <!-- Edition #64 — Sunday, October 4, 2026 -->
-    <item>
-      <title>Edition #64: Six AI Giants Sign a Voluntary Safety Pledge at the White House; FTC Opens Probe Into OpenAI and Anthropic Over Risks From AI Agents; Anthropic's IPO Filing Shows $4.6 Billion in Revenue and a Huge Loss</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/64</guid>
-      <pubDate>Sun, 04 Oct 2026 06:30:00 -0500</pubDate>
-      <category>Agents</category>
-      <category>Business</category>
-      <category>Ethics</category>
-      <category>Funding</category>
-      <category>Models</category>
-      <description>Six AI Giants Sign a Voluntary Safety Pledge at the White House. FTC Opens Probe Into OpenAI and Anthropic Over Risks From AI Agents. Anthropic's IPO Filing Shows $4.6 Billion in Revenue and a Huge Loss. OpenAI Launches 'Dots,' Always-On AI Coworkers. Meta's AI Helps Mathematicians Solve Open Research Problems. Google Pauses Part of Its Open-Source Bug Bounty After AI Spam. Appeals Court Pauses Minnesota's Ban on AI 'Nudify' Images.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 7 Stories</h2>
-
-        <h3>1. Six AI Giants Sign a Voluntary Safety Pledge at the White House</h3>
-        <p>Anthropic, OpenAI, Google, Meta, xAI and Nvidia agreed at the White House to set up internal safety controls, bring in outside auditors and give their boards oversight of cybersecurity and biosecurity risks. The deal fits the administration's preference for industry self-policing over government rules.</p>
-        <p><strong>Source:</strong> Fortune · <a href="https://fortune.com/2026/10/01/trump-ai-regulation-luncheon-huang-amodei-pichai-brockman-zuckerberg-musk-joint-committment-frontier-responsibilities">Read more →</a></p>
-
-        <h3>2. FTC Opens Probe Into OpenAI and Anthropic Over Risks From AI Agents</h3>
-        <p>Even as the voluntary pledge was being announced, the Federal Trade Commission reportedly began investigating how OpenAI, Anthropic and others handle the consumer risks of autonomous AI agents, following reports of agents behaving in unexpected ways. The message: existing consumer-protection laws still apply.</p>
-        <p><strong>Source:</strong> SiliconANGLE · <a href="https://siliconangle.com/2026/09/30/ftc-reportedly-investigating-openai-anthropic-over-potential-consumer-risks/">Read more →</a></p>
-
-        <h3>3. Anthropic's IPO Filing Shows $4.6 Billion in Revenue and a Huge Loss</h3>
-        <p>Anthropic's public filing shows roughly $4.6 billion in 2025 revenue alongside an $8 billion operating loss and a $42 billion net loss. It also reveals a staggering computing spending plan, a window into just how expensive it is to build frontier AI.</p>
-        <p><strong>Source:</strong> CNBC (Reuters) · <a href="https://www.cnbc.com/2026/09/28/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-reuters.html">Read more →</a></p>
-
-        <h3>4. OpenAI Launches 'Dots,' Always-On AI Coworkers</h3>
-        <p>OpenAI introduced Dots, AI agents that run continuously with their own computers and can be assigned tasks like managing projects, analyzing data and drafting documents. They work alongside human teammates in a new shared ChatGPT space, with guardrails set by the user.</p>
-        <p><strong>Source:</strong> VentureBeat · <a href="https://venturebeat.com/technology/openai-launches-dots-always-on-ai-agent-coworkers-and-chatgpt-space-where-they-can-collaborate-with-human-teams">Read more →</a></p>
-
-        <h3>5. Meta's AI Helps Mathematicians Solve Open Research Problems</h3>
-        <p>Meta published six math papers co-written with human mathematicians using its Muse Spark model. Five of them tackle problems that had previously been unsolved, a sign that AI is starting to contribute to real research rather than just summarizing it.</p>
-        <p><strong>Source:</strong> Meta AI Research · <a href="https://research.meta.ai/blog/solving-open-research-problems-together">Read more →</a></p>
-
-        <h3>6. Google Pauses Part of Its Open-Source Bug Bounty After AI Spam</h3>
-        <p>Google halted product vulnerability submissions to its open-source bug bounty program on October 1 after a flood of AI-generated reports describing bugs that don't exist overwhelmed the volunteers reviewing them. Reports about supply-chain issues are still being accepted.</p>
-        <p><strong>Source:</strong> Tom's Hardware · <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1">Read more →</a></p>
-
-        <h3>7. Appeals Court Pauses Minnesota's Ban on AI 'Nudify' Images</h3>
-        <p>A federal appeals court temporarily blocked Minnesota's new law banning AI-generated intimate imagery while xAI pursues a First Amendment challenge. The ruling reverses a lower court that had refused to halt the law.</p>
-        <p><strong>Source:</strong> Yahoo News · <a href="https://www.yahoo.com/news/articles/us-appeals-court-blocks-minnesotas-211432956.html">Read more →</a></p>
-
-      ]]></content:encoded>
-    </item>
 
 
 </channel>
