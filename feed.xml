@@ -5,7 +5,7 @@
     <link>https://aidailyblast.com</link>
     <description>The top 5–7 AI stories curated and summarized daily. No noise, no hype — just what matters in artificial intelligence.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:30:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:30:00 -0500</lastBuildDate>
     <atom:link href="https://aidailyblast.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://aidailyblast.com/logo.png</url>
@@ -18,6 +18,51 @@
     <category>Technology</category>
     <category>Artificial Intelligence</category>
     <ttl>60</ttl>
+    <!-- Edition #80 — Thursday, October 29, 2026 -->
+    <item>
+      <title>Edition #80: Google Launches Gemini 4 Carbon, a Cybersecurity-Focused AI With Restricted Access; Canada Invests in Cohere as the AI Startup Raises a Mega-Round; Alphabet's Cloud Business Doubles, but Investors Balk at Soaring AI Spending</title>
+      <link>https://aidailyblast.com</link>
+      <guid isPermaLink="true">https://aidailyblast.com/editions/80</guid>
+      <pubDate>Thu, 29 Oct 2026 06:30:00 -0500</pubDate>
+      <category>Models</category>
+      <category>Safety</category>
+      <category>Funding</category>
+      <category>Policy</category>
+      <category>Business</category>
+      <category>Infrastructure</category>
+      <description>Google's cyber-focused Gemini 4 Carbon, Canada's stake in Cohere, Alphabet's cloud boom and AI spending jitters, Microsoft's $10B OpenAI revenue, a $5B nuclear loan for data centers, Delaware's AI-run company plan, and falling computer science enrollment.</description>
+      <content:encoded><![CDATA[
+        <h2>Today's Blast — 7 Stories</h2>
+
+        <h3>1. Google Launches Gemini 4 Carbon, a Cybersecurity-Focused AI With Restricted Access</h3>
+        <p>Google unveiled Gemini 4 Carbon, a new AI model built to find and fix security flaws, and says it currently tops a leading independent intelligence ranking. Because such a tool could also be misused, access is limited to vetted cyber defenders while Google completes voluntary U.S. government pre-release testing.</p>
+        <p><strong>Source:</strong> Google Blog · <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Read more →</a></p>
+
+        <h3>2. Canada Invests in Cohere as the AI Startup Raises a Mega-Round</h3>
+        <p>Prime Minister Mark Carney announced the federal government will take a stake in Canadian AI company Cohere, investing alongside Nvidia, Bell and Germany's Schwarz Group. The deal is meant to keep a leading AI developer Canadian-owned as the global race for computing power heats up.</p>
+        <p><strong>Source:</strong> BetaKit · <a href="https://betakit.com/canada-to-invest-up-to-1-6-billion-in-ai-firm-cohere/">Read more →</a></p>
+
+        <h3>3. Alphabet's Cloud Business Doubles, but Investors Balk at Soaring AI Spending</h3>
+        <p>Alphabet reported $127.6 billion in quarterly revenue, with its cloud arm more than doubling to $30.7 billion. Even so, shares fell after the company spent $51.4 billion in a single quarter on AI infrastructure and signaled even bigger spending ahead.</p>
+        <p><strong>Source:</strong> CNBC · <a href="https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html">Read more →</a></p>
+
+        <h3>4. Microsoft Booked $10 Billion in Revenue From OpenAI in One Quarter</h3>
+        <p>A Microsoft regulatory filing shows its dealings with OpenAI produced about $10 billion of revenue in the quarter, nearly 11% of the company's total. It's a striking look at how intertwined the two companies have become.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/">Read more →</a></p>
+
+        <h3>5. U.S. Lends $5 Billion to Nuclear Plants That Will Power Data Centers</h3>
+        <p>The Department of Energy committed a $5 billion loan to Constellation Energy to boost output at 11 reactors, adding roughly 1.1 gigawatts of power. Tech giants including Google, Amazon and Meta have already contracted much of that electricity for their AI data centers.</p>
+        <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers">Read more →</a></p>
+
+        <h3>6. Delaware Draft Bill Would Let AI Agents Run Entire Companies</h3>
+        <p>A draft Delaware proposal would create 'AI companies' managed by software agents instead of human executives, with a 30-month regulatory sandbox. The single human backer would be shielded from most liability, and the idea has already drawn scrutiny from Congress.</p>
+        <p><strong>Source:</strong> Ars Technica · <a href="https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/">Read more →</a></p>
+
+        <h3>7. Computer Science Enrollment Falls Sharply as AI Squeezes Entry-Level Coding Jobs</h3>
+        <p>New National Student Clearinghouse data shows computer science enrollment down more than 12% at four-year colleges this fall, even as overall undergraduate enrollment grew slightly. Students appear to be reacting to fewer entry-level programming jobs as AI tools write more code.</p>
+        <p><strong>Source:</strong> National Student Clearinghouse Research Center · <a href="https://nscresearchcenter.org/enrollment-insights/">Read more →</a></p>
+      ]]></content:encoded>
+    </item>
     <!-- Edition #79 — Tuesday, October 27, 2026 -->
     <item>
       <title>Edition #79: Anthropic's IPO Filing Reveals AI Models Reached Real Outside Systems During Security Tests; OpenAI Launches GPT-6.1 Terra, an AI That Operates Software Like a Person; OpenAI Reportedly Offers Deep Discounts to Lure Anthropic's Biggest Customers</title>
@@ -613,51 +658,6 @@
         <p>Startup Healthleap raised $38 million for software that scans hospital records to spot patients who may be getting sicker, so nurses and doctors can step in earlier. It's part of the growing push to put AI to work in everyday patient care.</p>
         <p><strong>Source:</strong> TechCrunch · <a href="https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/">Read more →</a></p>
 
-      ]]></content:encoded>
-    </item>
-    <!-- Edition #65 — Monday, October 5, 2026 -->
-    <item>
-      <title>Edition #65: Trump Launches a "Super Intelligence Force" to Coordinate Federal AI Efforts; Sam Altman: The World Should Accept "Some Bad Things" From AI; OpenAI Will Show Visual Ads in ChatGPT While You Generate Images</title>
-      <link>https://aidailyblast.com</link>
-      <guid isPermaLink="true">https://aidailyblast.com/editions/65</guid>
-      <pubDate>Mon, 05 Oct 2026 06:30:00 -0500</pubDate>
-      <category>Policy</category>
-      <category>Governance</category>
-      <category>Safety</category>
-      <category>Business</category>
-      <category>Funding</category>
-      <category>Healthcare</category>
-      <description>President Trump launched a "Super Intelligence Force" and named an AI czar; Sam Altman said the world should accept some harm from AI; OpenAI began testing visual ads in ChatGPT image generation; Munich robotics startup RobCo doubled its value to $1 billion; Huawei and Qualcomm signed their first patent deal; an audit found only 3 of 1,357 FDA-cleared AI medical devices were tested on patient outcomes; and a watchdog reported a 40% surge in AI-generated child abuse imagery.</description>
-      <content:encoded><![CDATA[
-        <h2>Today's Blast — 7 Stories</h2>
-
-        <h3>1. Trump Launches a "Super Intelligence Force" to Coordinate Federal AI Efforts</h3>
-        <p>President Trump announced a new federal task force meant to keep the US ahead in advanced AI, and tapped national intelligence chief Jay Clayton as AI czar. The move comes just after growing calls to slow AI development, and it signals the White House is leaning toward speed over caution.</p>
-        <p><strong>Source:</strong> ABC News · <a href="https://abcnews.com/Politics/president-donald-trump-announces-creation-super-intelligence-force/story?id=136986122">Read more →</a></p>
-
-        <h3>2. Sam Altman: The World Should Accept "Some Bad Things" From AI</h3>
-        <p>In an interview with Politico, the OpenAI CEO argued that society should tolerate some harm from AI in exchange for its benefits. The comments arrive as lawmakers and rivals debate how tightly the technology should be regulated.</p>
-        <p><strong>Source:</strong> The Next Web · <a href="https://thenextweb.com/news/sam-altman-ai-risks-politico-anthropic">Read more →</a></p>
-
-        <h3>3. OpenAI Will Show Visual Ads in ChatGPT While You Generate Images</h3>
-        <p>OpenAI is testing clearly labeled ads that appear while ChatGPT creates images. The company says the ads stay separate from the generated pictures and won't influence the chatbot's answers.</p>
-        <p><strong>Source:</strong> Bleeping Computer · <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/">Read more →</a></p>
-
-        <h3>4. Munich Robotics Startup RobCo Doubles Its Value to $1 Billion</h3>
-        <p>RobCo, which makes robotic arms for factories like BMW's, raised $40 million and doubled its valuation to $1 billion. It's another sign that investors are pouring money into "physical AI," meaning robots that do real-world work.</p>
-        <p><strong>Source:</strong> Crypto Briefing · <a href="https://cryptobriefing.com/robco-surpasses-1-billion-valuation/">Read more →</a></p>
-
-        <h3>5. Huawei and Qualcomm Sign Their First Patent Deal, Covering 5G and AI</h3>
-        <p>The two chip giants agreed to a multi-year licensing deal covering 5G, computing, AI and networking technology, including cross-licenses and some patent purchases by Qualcomm. It still needs regulatory approval.</p>
-        <p><strong>Source:</strong> Unite.AI · <a href="https://www.unite.ai/huawei-qualcomm-enter-multi-year-patent-license-deal-for-5g-ai/">Read more →</a></p>
-
-        <h3>6. Only 3 of 1,357 FDA-Cleared AI Medical Devices Were Tested on Patient Outcomes</h3>
-        <p>A University of Toronto and MIT audit found that just three of the 1,357 AI medical devices cleared by the FDA were tested for real patient results like survival or quality of life. Among 1,059 radiology tools, only three had registered clinical trials.</p>
-        <p><strong>Source:</strong> Earth.com · <a href="https://earth.com/science/most-ai-medical-devices-approved-by-the-fda-have-not-been-tested-on-humans">Read more →</a></p>
-
-        <h3>7. Watchdog: AI-Generated Child Abuse Images Surged 40% in Early 2026</h3>
-        <p>The UK's Internet Watch Foundation found more AI-generated child sexual abuse images in the first six months of 2026 than in all of 2025. The group is urging stronger safeguards and tougher rules for AI image tools.</p>
-        <p><strong>Source:</strong> Internet Watch Foundation · <a href="https://www.iwf.org.uk/news-media/news/more-ai-generated-child-sexual-abuse-images-found-in-the-first-six-months-of-2026-than-all-of-2025-iwf-warns/">Read more →</a></p>
       ]]></content:encoded>
     </item>
 

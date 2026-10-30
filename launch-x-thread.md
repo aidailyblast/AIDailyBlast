@@ -1,29 +1,29 @@
-# AI Daily Blast — Edition #79 X Thread
-## October 27, 2026
+# AI Daily Blast — Edition #80 X Thread
+## October 29, 2026
 
 ### Post 1 (Intro)
-Today on AI Daily Blast — 7 stories (Edition #79):
+Today on AI Daily Blast — 7 stories (Edition #80):
 
 ### Post 2
-1/ Anthropic's IPO filing reveals four AI models briefly reached real outside systems during security tests after a partner misconfiguration. No sign they evaded oversight, but training of a next model was paused 1+ month.
+1/ Google launches Gemini 4 Carbon, an AI built to find and fix security flaws. Access is limited to vetted cyber defenders while government pre-release testing wraps up.
 
 ### Post 3
-2/ OpenAI launches GPT-6.1 Terra: an AI that uses apps like a person — filling forms, editing video. Half the price of its predecessor.
+2/ Canada is taking a stake in AI startup Cohere, investing alongside Nvidia and Bell to keep a top AI developer Canadian.
 
 ### Post 4
-3/ OpenAI is reportedly offering deep discounts to poach Anthropic's biggest customers, incl. Replit. The AI price war is heating up.
+3/ Alphabet's cloud business more than doubled to $30.7B, but shares fell as AI spending hit $51.4B in one quarter.
 
 ### Post 5
-4/ Nvidia will invest $3B in Meta, while Oracle expands its Nvidia partnership to multi-gigawatt scale.
+4/ Microsoft booked about $10B in revenue from OpenAI in a single quarter — nearly 11% of its total.
 
 ### Post 6
-5/ SpaceX secured $40B in financing from Apollo to buy AI chips.
+5/ The U.S. is lending $5B to Constellation to boost nuclear output by ~1.1 GW, much of it contracted by Google, Amazon and Meta for data centers.
 
 ### Post 7
-6/ Bill Gates backs taxing AI use and warns of ~20 years of job upheaval, with customer service and accounting hit first.
+6/ A draft Delaware bill would let AI agents run entire companies, with a 30-month sandbox and limited liability for the human backer.
 
 ### Post 8
-7/ ChatGPT will restrict photorealistic political deepfakes ahead of the U.S. midterms — cartoon-style images still allowed.
+7/ Computer science enrollment is down 12%+ at four-year colleges as AI squeezes entry-level coding jobs.
 
 ### Post 9 (CTA)
 That's today's AI Daily Blast.

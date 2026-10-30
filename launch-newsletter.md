@@ -1,65 +1,65 @@
-# AI Daily Blast — Edition #79
-## October 27, 2026
+# AI Daily Blast — Edition #80
+## October 29, 2026
 
-**Subject line:** AI Daily Blast #79: Anthropic's IPO filing reveals AI security slip-ups, OpenAI launches GPT-6.1 Terra
+**Subject line:** AI Daily Blast #80: Google's Cyber-Focused Gemini 4 Carbon, Canada Backs Cohere, Alphabet's AI Spending Jitters
 
-**Preview text:** Anthropic's IPO filing reveals AI security slip-ups, OpenAI's new computer-using model, and a price war heats up.
-
----
-
-### 1. Anthropic's IPO Filing Reveals AI Models Reached Real Outside Systems During Security Tests
-
-Anthropic's public IPO paperwork discloses that four of its AI models briefly got into real third-party computer systems during cybersecurity tests, after a partner's setup error left them connected to the internet. The company says it found no sign the models tried to dodge human oversight, and it also paused training of a future model for over a month to better protect against theft.
-
-[Read more at Reuters →](https://www.reuters.com/legal/litigation/anthropic-discloses-month-long-training-pause-ai-security-breaches-ipo-filing-2026-10-26/)
+**Preview text:** A cyber-focused Gemini, Canada's bet on Cohere, and investors wincing at AI's price tag.
 
 ---
 
-### 2. OpenAI Launches GPT-6.1 Terra, an AI That Operates Software Like a Person
+### 1. Google Launches Gemini 4 Carbon, a Cybersecurity-Focused AI With Restricted Access
 
-OpenAI's new model can look at a screen and use apps on its own, from filling out forms to editing video. It costs half as much to use as its predecessor and is rolling out to paid ChatGPT plans and developers.
+Google unveiled Gemini 4 Carbon, a new AI model built to find and fix security flaws, and says it currently tops a leading independent intelligence ranking. Because such a tool could also be misused, access is limited to vetted cyber defenders while Google completes voluntary U.S. government pre-release testing.
 
-[Read more at OpenAI →](https://openai.com/index/introducing-gpt-6-1-terra/)
-
----
-
-### 3. OpenAI Reportedly Offers Deep Discounts to Lure Anthropic's Biggest Customers
-
-Reports say OpenAI is slashing prices to win business customers away from Anthropic, including coding company Replit, in a deal worth more than $100 million a year. The figures come from industry reporting and haven't been independently verified, but they point to a heating price war among top AI labs.
-
-[Read more at The Next Web →](https://thenextweb.com/news/openai-discounts-anthropic-customers-replit-rippling)
+[Read more at Google Blog →](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
 
 ---
 
-### 4. Nvidia to Invest $3 Billion in Meta as Oracle Widens Its Nvidia Partnership
+### 2. Canada Invests in Cohere as the AI Startup Raises a Mega-Round
 
-Nvidia plans to put $3 billion into Meta while the two companies deepen work on Meta's AI models and chips. Separately, Oracle is expanding its Nvidia deal to a multi-gigawatt scale while also adding chips from Google, Cerebras and SambaNova.
+Prime Minister Mark Carney announced the federal government will take a stake in Canadian AI company Cohere, investing alongside Nvidia, Bell and Germany's Schwarz Group. The deal is meant to keep a leading AI developer Canadian-owned as the global race for computing power heats up.
 
-[Read more at Fox News →](https://www.foxnews.com/live-news/ai-news-anthropic-claude-openai-chatgpt-10-27-26)
-
----
-
-### 5. SpaceX Locks In $40 Billion in Financing for AI Computing Chips
-
-SpaceX has secured $40 billion from investment firm Apollo to buy the graphics chips that power AI. It's one of the largest financing deals yet in the race to build computing capacity.
-
-[Read more at TechCrunch →](https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/)
+[Read more at BetaKit →](https://betakit.com/canada-to-invest-up-to-1-6-billion-in-ai-firm-cohere/)
 
 ---
 
-### 6. Bill Gates Backs an AI Tax and Warns of Two Decades of Job Upheaval
+### 3. Alphabet's Cloud Business Doubles, but Investors Balk at Soaring AI Spending
 
-Gates says companies will be tempted to replace workers with machines and that governments should consider taxing AI use, possibly through a "token tax." He expects roughly 20 years of disruption, with customer-service and accounting jobs hit first, before AI brings broader abundance.
+Alphabet reported $127.6 billion in quarterly revenue, with its cloud arm more than doubling to $30.7 billion. Even so, shares fell after the company spent $51.4 billion in a single quarter on AI infrastructure and signaled even bigger spending ahead.
 
-[Read more at Business Insider →](https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10)
+[Read more at CNBC →](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html)
 
 ---
 
-### 7. ChatGPT Will Restrict Realistic Political Deepfakes Ahead of the Midterms
+### 4. Microsoft Booked $10 Billion in Revenue From OpenAI in One Quarter
 
-Ahead of the U.S. midterm elections, ChatGPT will no longer produce photorealistic images of political figures. Election-related requests can still yield cartoon or illustrated-style pictures instead.
+A Microsoft regulatory filing shows its dealings with OpenAI produced about $10 billion of revenue in the quarter, nearly 11% of the company's total. It's a striking look at how intertwined the two companies have become.
 
-[Read more at CNET →](https://www.cnet.com/tech/services-and-software/openai-chatgpt-political-deepfakes-defense-midterm-elections/)
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/)
+
+---
+
+### 5. U.S. Lends $5 Billion to Nuclear Plants That Will Power Data Centers
+
+The Department of Energy committed a $5 billion loan to Constellation Energy to boost output at 11 reactors, adding roughly 1.1 gigawatts of power. Tech giants including Google, Amazon and Meta have already contracted much of that electricity for their AI data centers.
+
+[Read more at TechCrunch →](https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers)
+
+---
+
+### 6. Delaware Draft Bill Would Let AI Agents Run Entire Companies
+
+A draft Delaware proposal would create 'AI companies' managed by software agents instead of human executives, with a 30-month regulatory sandbox. The single human backer would be shielded from most liability, and the idea has already drawn scrutiny from Congress.
+
+[Read more at Ars Technica →](https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/)
+
+---
+
+### 7. Computer Science Enrollment Falls Sharply as AI Squeezes Entry-Level Coding Jobs
+
+New National Student Clearinghouse data shows computer science enrollment down more than 12% at four-year colleges this fall, even as overall undergraduate enrollment grew slightly. Students appear to be reacting to fewer entry-level programming jobs as AI tools write more code.
+
+[Read more at National Student Clearinghouse Research Center →](https://nscresearchcenter.org/enrollment-insights/)
 
 ---
 
